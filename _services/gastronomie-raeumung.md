@@ -2,7 +2,7 @@
 title: "Gastro & Retail Räumung"
 description: "Komplette Räumung von Restaurants, Cafés und Shops inklusive Kühltechnik und Hygieneauflagen."
 kicker: "Gewerblich"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Fettabscheidern & HACCP-Dokumentation
   - Rückbau von Theken, Lüftungen & Kühlhäusern

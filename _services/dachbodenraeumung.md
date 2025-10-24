@@ -2,7 +2,7 @@
 title: "Dachbodenräumung Wien"
 description: "Sichere Räumung von Dachböden inklusive Abtransport über enge Stiegenhäuser und Lastenaufzüge."
 kicker: "Privat"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Spezialgeschulte Teams für Altbau-Dachböden
   - Schutz von Parkett, Stuck & Dachluken

@@ -2,7 +2,7 @@
 title: "Sperrmüllabholung & Express-Service"
 description: "Flexible Abholungen für einzelne Räume oder ganze Objekte – auch kurzfristig und am Wochenende."
 kicker: "Spezialfall"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - 24h Express-Abholung in ganz Wien
   - Halteverbotszone & Containerorganisation inklusive

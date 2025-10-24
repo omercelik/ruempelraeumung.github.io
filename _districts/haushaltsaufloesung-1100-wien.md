@@ -2,7 +2,7 @@
 title: "Haushaltsauflösung 1100 Wien"
 description: "High-Volume-Räumungen in Favoriten – ideal für Gemeindebauten, Neubauten und Reihenhäuser."
 kicker: "Bezirk 1100"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Große Teams für umfangreiche Wohnungen
   - Faire Preise dank optimierter Logistik

@@ -2,7 +2,7 @@
 title: "Firmen- & Büroauflösung Wien"
 description: "Professionelle Räumung von Büros, Shops und Gewerbeflächen inklusive DSGVO-konformer Aktenvernichtung."
 kicker: "Gewerblich"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Projektleitung & Zeitplan nach Meilensteinen
   - DSGVO-konforme Datenvernichtung mit Zertifikat

@@ -2,7 +2,7 @@
 title: "Verlassenschaften & Nachlassräumung"
 description: "Einfühlsame Nachlasslösungen inklusive Ankauf wertvoller Gegenstände und Abstimmung mit Notaren."
 kicker: "Spezialfall"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Diskrete Teams & persönliche Ansprechpartnerin
   - Wertgutachten für Antiquitäten und Kunst

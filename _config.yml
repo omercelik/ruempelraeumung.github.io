@@ -23,7 +23,7 @@ open_hours:
 quote_form_action: "https://formspree.io/f/mgegeeja"
 logo: /logo.svg
 images:
-  hero: /topbg.png
+  hero: /topbg.webp
   whatsapp: /WhatsApp.svg
 collections:
   services:

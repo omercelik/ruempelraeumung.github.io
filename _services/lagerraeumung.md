@@ -2,7 +2,7 @@
 title: "Lager- & Gewerbeparkräumung"
 description: "Effiziente Räumung von Lagern, Produktionshallen und Gewerbeparks inklusive Gefahrstoff-Handling."
 kicker: "Gewerblich"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Flächenscan & Mengengerüste für LVP/Bauschutt
   - Stapler, Container & Hallenreinigung aus einer Hand

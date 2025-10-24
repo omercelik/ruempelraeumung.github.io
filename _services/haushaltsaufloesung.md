@@ -2,7 +2,7 @@
 title: "Haushaltsauflösung in Wien"
 description: "Komplette Wohnungs- und Haushaltsauflösungen mit Fixpreisgarantie, Wertausgleich und besenreiner Übergabe."
 kicker: "Privat"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Kostenlose Besichtigung & schriftlicher Fixpreis
   - Maximaler Wertausgleich für Antiquitäten und Möbel

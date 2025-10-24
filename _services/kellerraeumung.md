@@ -2,7 +2,7 @@
 title: "Kellerräumung Wien"
 description: "Wir schaffen Platz in Keller, Garage oder Hobbyraum – mit Express-Terminen und fachgerechter Entsorgung."
 kicker: "Privat"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Kostenlose Besichtigung inkl. Feuchtigkeits-Check
   - Sperrmüll, Altmetall & Sondermüll in einem Einsatz

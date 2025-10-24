@@ -2,7 +2,7 @@
 title: "Haushaltsauflösung 1020 Wien"
 description: "Flexible Haushaltsauflösungen in der Leopoldstadt – vom Karmeliterviertel bis zu den Donau-City-Neubauten."
 kicker: "Bezirk 1020"
-hero_image: /topbg.png
+hero_image: /topbg.webp
 highlights:
   - Erfahrung in Altbauten & modernen Wohnanlagen
   - Wertausgleich für Designklassiker & Vintage
