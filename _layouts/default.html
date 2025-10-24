@@ -12,30 +12,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}"/>
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}"/>
     <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}"/>
-    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-    <script>
-      tailwind.config = {
-        darkMode: "class",
-        theme: {
-          extend: {
-            colors: {
-              primary: {
-                DEFAULT: "#0A2342",
-                light: "#2CA58D",
-                accent: "#FFD700"
-              },
-              "background-light": "#F5F5F5",
-              "background-dark": "#0f1723",
-              "text-light": "#333333",
-              "text-dark": "#F5F5F5"
-            },
-            fontFamily: {
-              display: ["Manrope", "sans-serif"]
-            }
-          }
-        }
-      }
-    </script>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"/>
     {% seo %}
     {% include structured_data.html %}
