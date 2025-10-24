@@ -1,0 +1,65 @@
+<header class="sticky top-0 z-30 bg-primary/95 text-white backdrop-blur-sm">
+  <div class="container mx-auto px-4">
+    <div class="flex h-16 items-center justify-between">
+      <a href="{{ '/' | relative_url }}" class="flex items-center gap-3">
+        <span class="sr-only">{{ site.title }}</span>
+        <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.title }}" class="h-11 w-auto"/>
+      </a>
+      <nav class="hidden items-center gap-6 text-sm font-semibold md:flex">
+        <div class="group relative">
+          <button class="flex items-center gap-1 hover:text-primary-accent focus:outline-none" type="button">
+            Leistungen
+            <span class="material-symbols-outlined text-base">expand_more</span>
+          </button>
+          <div class="invisible absolute left-1/2 z-30 mt-5 w-[760px] -translate-x-1/2 rounded-2xl bg-white p-6 text-text-light opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:opacity-100">
+            <div class="grid grid-cols-3 gap-6">
+              {% for group in site.data.navigation.services %}
+              <div>
+                <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary">{{ group.label }}</p>
+                <ul class="mt-3 space-y-2 text-sm">
+                  {% for item in group.items %}
+                  <li><a class="hover:text-primary" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+              {% endfor %}
+            </div>
+            <div class="mt-6 flex items-center justify-end border-t border-gray-100 pt-4 text-sm">
+              <a class="inline-flex items-center gap-1 text-primary hover:text-primary-light" href="{{ '/preise/' | relative_url }}" >
+                <span class="material-symbols-outlined text-base">payments</span>
+                Preise ansehen
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="group relative">
+          <button class="flex items-center gap-1 hover:text-primary-accent focus:outline-none" type="button">
+            Bezirke
+            <span class="material-symbols-outlined text-base">expand_more</span>
+          </button>
+          <div class="invisible absolute left-1/2 z-30 mt-5 w-72 -translate-x-1/2 rounded-2xl bg-white p-4 text-text-light opacity-0 shadow-xl transition-all duration-200 group-hover:visible group-hover:opacity-100">
+            <p class="mb-3 text-xs font-semibold uppercase tracking-[0.3em] text-primary">Top Bezirke</p>
+            <ul class="space-y-2 text-sm">
+              {% for district in site.data.navigation.districts %}
+              <li><a class="hover:text-primary" href="{{ district.url | relative_url }}">{{ district.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        {% for link in site.data.navigation.links %}
+        <a class="hover:text-primary-accent transition" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+        {% endfor %}
+        <a class="rounded-full bg-primary-accent px-5 py-2 text-primary hover:bg-white" href="{{ site.data.navigation.cta.url | relative_url }}">{{ site.data.navigation.cta.label }}</a>
+      </nav>
+      <div class="flex items-center gap-3 md:hidden">
+        <a href="tel:{{ site.phone | replace: ' ', '' }}" class="inline-flex items-center rounded-full border border-white/40 px-3 py-2 text-xs font-semibold uppercase tracking-[0.2em]">
+          <span class="material-symbols-outlined text-sm mr-1">call</span>
+          Jetzt anrufen
+        </a>
+        <button class="text-white" onclick="mobileMenuToggle()" aria-label="Menü öffnen">
+          <span class="material-symbols-outlined text-3xl">menu</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>

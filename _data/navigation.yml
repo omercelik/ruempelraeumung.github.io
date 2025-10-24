@@ -1,0 +1,48 @@
+services:
+  - label: Privat
+    items:
+      - title: Haushaltsauflösung
+        url: /leistungen/haushaltsaufloesung/
+      - title: Kellerräumung
+        url: /leistungen/kellerraeumung/
+      - title: Dachbodenräumung
+        url: /leistungen/dachbodenraeumung/
+  - label: Gewerblich
+    items:
+      - title: Firmenauflösung
+        url: /leistungen/firmenaufloesung/
+      - title: Lager- & Gewerbeparks
+        url: /leistungen/lagerraeumung/
+      - title: Gastro & Retail
+        url: /leistungen/gastronomie-raeumung/
+  - label: Spezialdienste
+    items:
+      - title: Verlassenschaft
+        url: /leistungen/verlassenschaft/
+      - title: Messie-Entrümpelung
+        url: /leistungen/messie-entruempelung/
+      - title: Sperrmüllabholung
+        url: /leistungen/sperrmuellabholung/
+districts:
+  - title: 1010 Innere Stadt
+    url: /leistungen/haushaltsaufloesung-1010-wien/
+  - title: 1100 Favoriten
+    url: /leistungen/haushaltsaufloesung-1100-wien/
+  - title: 1190 Döbling
+    url: /leistungen/haushaltsaufloesung-1190-wien/
+  - title: 1220 Donaustadt
+    url: /leistungen/haushaltsaufloesung-1220-wien/
+links:
+  - label: Ablauf
+    url: /ablauf/
+  - label: Preise
+    url: /preise/
+  - label: Ratgeber
+    url: /ratgeber/
+  - label: Über Uns
+    url: /ueber-uns/
+  - label: Kontakt
+    url: /angebot/
+cta:
+  label: Gratis Angebot
+  url: /angebot/

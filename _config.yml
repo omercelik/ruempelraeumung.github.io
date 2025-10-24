@@ -1,0 +1,92 @@
+title: "Rümpel Räumung"
+description: "Entrümpelung & Haushaltsauflösungen in Wien mit Fixpreisgarantie, maximalem Wertausgleich und besenreiner Übergabe."
+lang: de
+url: "https://example.github.io"
+baseurl: ""
+email: office@ruempelraeumung.at
+phone: "+43 660 606 0628"
+whatsapp: "https://wa.me/436606060628"
+address:
+  street: "Grinzinger Str. 1"
+  postal_code: "1190"
+  city: "Wien"
+  country: "AT"
+open_hours:
+  - day: Montag - Freitag
+    opens: "08:00"
+    closes: "18:00"
+  - day: Samstag
+    opens: "09:00"
+    closes: "14:00"
+  - day: Sonntag
+    closed: true
+quote_form_action: "https://formspree.io/f/mgegeeja"
+logo: /logo.svg
+images:
+  hero: /topbg.png
+  whatsapp: /WhatsApp.svg
+collections:
+  services:
+    output: true
+    permalink: /leistungen/:name/
+  districts:
+    output: true
+    permalink: /leistungen/:name/
+  guides:
+    output: true
+    permalink: /ratgeber/:name/
+permalink: /:collection/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: service
+  - scope:
+      path: ""
+      type: "districts"
+    values:
+      layout: service
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: guide
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+feed:
+  collections:
+    - guides
+markdown: kramdown
+theme: null
+sass:
+  style: compressed
+future: true
+exclude:
+  - node_modules
+  - vendor
+include:
+  - _pages
+linkedin: "https://www.linkedin.com/company/ruempelraeumung"
+local_business:
+  type: HomeAndConstructionBusiness
+  price_range: "€€"
+  geo:
+    latitude: 48.2596
+    longitude: 16.3554
+  service_area:
+    - Wien
+    - Niederösterreich
+social:
+  name: "Rümpel Räumung"
+  links:
+    - https://www.facebook.com/ruempelraeumung
+    - https://www.instagram.com/ruempelraeumung

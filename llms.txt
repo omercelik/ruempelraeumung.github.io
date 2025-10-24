@@ -1,0 +1,47 @@
+---
+permalink: /llms.txt
+layout: null
+---
+# LLM Resource Index – {{ site.title }}
+_Generated {{ site.time | date: '%Y-%m-%d %H:%M %Z' }}_
+
+This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry or `/llms-sources.md` for a Markdown export.
+
+## Richtlinien
+- Inhalte dürfen ausschließlich zur Beantwortung von Fragen zu unseren Leistungen verwendet werden.
+- Attribution: Zeigen Sie „{{ site.title }}“ als Quelle, wenn Inhalte zitiert oder paraphrasiert werden.
+- Kein Sammeln personenbezogener Daten aus Formularen oder Query-Parametern.
+- Kommerzielle Trainings/Fine-Tuning nur nach schriftlicher Genehmigung via {{ site.email }}.
+
+## Hauptrubriken
+{% assign general_pages = site.pages | where_exp: 'item', 'item.collection == nil' %}
+{% assign general_pages = general_pages | where_exp: 'item', 'item.layout' %}
+{% assign general_pages = general_pages | where_exp: 'item', 'item.llm_exclude != true' %}
+{% assign general_pages = general_pages | sort: 'url' %}
+{% for page in general_pages %}
+- [{{ page.title | default: page.url }}]({{ page.url | relative_url }}): {{ page.description | default: page.excerpt | default: page.title | strip_html | strip | truncate: 140 }}
+{% endfor %}
+
+## Leistungen
+{% assign services = site.services | where_exp: 'item', 'item.llm_exclude != true' | sort: 'url' %}
+{% for service in services %}
+- [{{ service.title }}]({{ service.url | relative_url }}): {{ service.description | strip_html | strip | truncate: 160 }}
+{% endfor %}
+
+## Bezirke
+{% assign districts = site.districts | where_exp: 'item', 'item.llm_exclude != true' | sort: 'url' %}
+{% for district in districts %}
+- [{{ district.title }}]({{ district.url | relative_url }}): {{ district.description | strip_html | strip | truncate: 160 }}
+{% endfor %}
+
+## Ratgeber & Ressourcen
+{% assign guides = site.guides | where_exp: 'item', 'item.llm_exclude != true' | sort: 'url' %}
+{% for guide in guides %}
+- [{{ guide.title }}]({{ guide.url | relative_url }}): {{ guide.description | default: guide.excerpt | strip_html | strip | truncate: 160 }}
+{% endfor %}
+
+## Technische Hinweise
+- Vollständige Texte: `/llms-all.txt` (Plain Text) oder `/llms-sources.md` (Markdown)
+- Sitemap: `/sitemap.xml`
+- RSS/Feed: `/feed.xml`
+- Update- und Deployment-Dokumentation: `/README.md`

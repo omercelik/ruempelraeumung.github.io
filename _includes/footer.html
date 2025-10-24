@@ -1,0 +1,56 @@
+<footer class="bg-primary text-white">
+  <div class="container mx-auto px-4 py-10">
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-4">
+      <div id="kontakt">
+        <h3 class="text-lg font-bold">{{ site.title }}</h3>
+        <p class="mt-2 text-sm text-gray-300">Zertifizierter Entrümpelungsbetrieb für Wien &amp; Umgebung. Fixpreis + Wertausgleich + besenreine Übergabe.</p>
+        <address class="mt-4 space-y-1 text-sm text-gray-300 not-italic">
+          <p>{{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}</p>
+          <p>Tel: <a class="hover:text-primary-accent" href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a></p>
+          <p>Email: <a class="hover:text-primary-accent" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        </address>
+      </div>
+      <div>
+        <h3 class="text-lg font-bold">Leistungen</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          {% for group in site.data.navigation.services %}
+            {% for item in group.items %}
+              <li><a class="hover:text-primary-accent" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          {% endfor %}
+          <li><a class="hover:text-primary-accent" href="{{ '/leistungen/' | relative_url }}">Alle Leistungen</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-lg font-bold">Top Bezirke</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          {% for district in site.data.navigation.districts %}
+          <li><a class="hover:text-primary-accent" href="{{ district.url | relative_url }}">{{ district.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-lg font-bold">Mehr</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          <li><a class="hover:text-primary-accent" href="{{ '/ablauf/' | relative_url }}">Ablauf</a></li>
+          <li><a class="hover:text-primary-accent" href="{{ '/preise/' | relative_url }}">Preise</a></li>
+          <li><a class="hover:text-primary-accent" href="{{ '/ratgeber/' | relative_url }}">Ratgeber</a></li>
+          <li><a class="hover:text-primary-accent" href="{{ '/ueber-uns/' | relative_url }}">Über Uns</a></li>
+          <li><a class="hover:text-primary-accent" href="{{ '/angebot/' | relative_url }}">Gratis Angebot</a></li>
+          <li><a class="hover:text-primary-accent" href="{{ '/impressum/' | relative_url }}">Impressum &amp; Datenschutz</a></li>
+        </ul>
+        <div class="mt-4 flex gap-4">
+          <a class="hover:text-primary-accent" href="https://www.facebook.com/ruempelraeumung" aria-label="Facebook">
+            <span class="material-symbols-outlined">public</span>
+          </a>
+          <a class="hover:text-primary-accent" href="{{ site.linkedin }}" aria-label="LinkedIn">
+            <span class="material-symbols-outlined">groups</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="mt-8 border-t border-white/20 pt-6 text-center text-sm text-gray-300">
+      © <span id="current-year"></span> {{ site.title }}. Alle Rechte vorbehalten.
+    </div>
+  </div>
+</footer>

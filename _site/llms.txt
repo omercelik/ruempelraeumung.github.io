@@ -1,0 +1,121 @@
+# LLM Resource Index – Rümpel Räumung
+_Generated 2025-10-25 00:11 BST_
+
+This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry or `/llms-sources.md` for a Markdown export.
+
+## Richtlinien
+- Inhalte dürfen ausschließlich zur Beantwortung von Fragen zu unseren Leistungen verwendet werden.
+- Attribution: Zeigen Sie „Rümpel Räumung“ als Quelle, wenn Inhalte zitiert oder paraphrasiert werden.
+- Kein Sammeln personenbezogener Daten aus Formularen oder Query-Parametern.
+- Kommerzielle Trainings/Fine-Tuning nur nach schriftlicher Genehmigung via office@ruempelraeumung.at.
+
+## Hauptrubriken
+
+
+
+
+
+- [Entrümpelung Wien & NÖ | Rümpel Räumung](/): Kostenlose Besichtigung, garantierter Fixpreis & maximaler Wertausgleich für Haushaltsauflösungen, Firmenräumungen und Spezialfälle in Wien.
+
+- [Ihr Weg zur besenreinen Immobilie](/ablauf/): Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe.
+
+- [Kostenloses Angebot anfordern](/angebot/): Kostenlose Vor-Ort-Besichtigung, schriftlicher Fixpreis & Wertausgleich. Nutzen Sie das Formular oder rufen Sie uns an.
+
+- [Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.](/content/): Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.
+
+- [Ihr Weg zur besenreinen Immobilie in 4 einfachen Schritten](/content/ablauf/): Ihr Weg zur besenreinen Immobilie in 4 einfachen Schritten
+
+- [Fordern Sie Ihr kostenloses &amp; unverbindliches Angebot an](/content/angebot/): Fordern Sie Ihr kostenloses &amp; unverbindliches Angebot an
+
+- [Checkliste für die Haushaltsauflösung: So bereiten Sie sich optimal vor](/content/checkliste-haushaltsaufloesung/): Checkliste für die Haushaltsauflösung: So bereiten Sie sich optimal vor
+
+- [Haushaltsauflösung in 1010 Wien, Innere Stadt – Ihr Partner vor Ort](/content/haushaltsauflosung-1010-wien/): Haushaltsauflösung in 1010 Wien, Innere Stadt – Ihr Partner vor Ort
+
+- [Haushaltsauflösung in 1020 Wien, Leopoldstadt – Schnell &amp; Fair](/content/haushaltsauflosung-1020-wien/): Haushaltsauflösung in 1020 Wien, Leopoldstadt – Schnell &amp; Fair
+
+- [Haushaltsauflösung in 1100 Wien, Favoriten – Effizient &amp; Preiswert](/content/haushaltsauflosung-1100-wien/): Haushaltsauflösung in 1100 Wien, Favoriten – Effizient &amp; Preiswert
+
+- [Haushaltsauflösung in 1130 Wien, Hietzing – Diskretion &amp; Sorgfalt](/content/haushaltsauflosung-1130-wien/): Haushaltsauflösung in 1130 Wien, Hietzing – Diskretion &amp; Sorgfalt
+
+- [Professionelle Haushaltsauflösung in Wien mit Wertausgleich](/content/haushaltsauflosung/): Professionelle Haushaltsauflösung in Wien mit Wertausgleich
+
+- [Professionelle Entrümpelung in Wien: Alle Services aus einer Hand](/content/leistungen/): Professionelle Entrümpelung in Wien: Alle Services aus einer Hand
+
+- [Sperrmüllabholung (MA 48) vs. Entrümpelungsfirma: Was ist die richtige Wahl?](/content/ma48-vs-firma/): Sperrmüllabholung (MA 48) vs. Entrümpelungsfirma: Was ist die richtige Wahl?
+
+- [Transparente Preise für Ihre Entrümpelung in Wien](/content/preise/): Transparente Preise für Ihre Entrümpelung in Wien
+
+- [Ratgeber: Tipps &amp; Wissen rund um Entrümpelung in Wien](/content/ratgeber/): Ratgeber: Tipps &amp; Wissen rund um Entrümpelung in Wien
+
+- [Über Uns: Ihr verlässliches Wiener Original](/content/ueber-uns/): Über Uns: Ihr verlässliches Wiener Original
+
+- [Was kostet eine Haushaltsauflösung in Wien? (Preisübersicht 2025)](/content/was-kostet-eine-haushaltsaufloesung-wien/): Was kostet eine Haushaltsauflösung in Wien? (Preisübersicht 2025)
+
+- [Impressum & Datenschutz](/impressum/): Rechtliche Informationen zu Rümpel Räumung.
+
+- [Professionelle Entrümpelung in Wien](/leistungen/): Alle Services aus einer Hand – privat, gewerblich und Spezialfälle mit Wertausgleich & Fixpreis.
+
+- [/llms.txt](/llms.txt): 
+
+- [Transparente Preise & Wertausgleich](/preise/): Garantierte Fixpreise nach kostenloser Besichtigung. Erfahren Sie, wie der Wertausgleich Ihre Kosten senkt.
+
+- [Ratgeber & Ressourcen](/ratgeber/): Guides zu Kosten, Checklisten, MA 48 Alternativen und Spezialfällen – praktische Hilfe für Ihre Räumung.
+
+- [/sitemap.xml](/sitemap.xml): 
+
+- [Über Uns](/ueber-uns/): Ihr Wiener Original für Entrümpelungen mit Fixpreisgarantie, Wertausgleich und geprüften Teams.
+
+
+## Leistungen
+
+
+- [Dachbodenräumung Wien](/leistungen/dachbodenraeumung/): Sichere Räumung von Dachböden inklusive Abtransport über enge Stiegenhäuser und Lastenaufzüge.
+
+- [Firmen- & Büroauflösung Wien](/leistungen/firmenaufloesung/): Professionelle Räumung von Büros, Shops und Gewerbeflächen inklusive DSGVO-konformer Aktenvernichtung.
+
+- [Gastro & Retail Räumung](/leistungen/gastronomie-raeumung/): Komplette Räumung von Restaurants, Cafés und Shops inklusive Kühltechnik und Hygieneauflagen.
+
+- [Haushaltsauflösung in Wien](/leistungen/haushaltsaufloesung/): Komplette Wohnungs- und Haushaltsauflösungen mit Fixpreisgarantie, Wertausgleich und besenreiner Übergabe.
+
+- [Kellerräumung Wien](/leistungen/kellerraeumung/): Wir schaffen Platz in Keller, Garage oder Hobbyraum – mit Express-Terminen und fachgerechter Entsorgung.
+
+- [Lager- & Gewerbeparkräumung](/leistungen/lagerraeumung/): Effiziente Räumung von Lagern, Produktionshallen und Gewerbeparks inklusive Gefahrstoff-Handling.
+
+- [Messie-Entrümpelung Wien](/leistungen/messie-entruempelung/): Speziell geschulte Teams für komplexe Situationen inklusive Desinfektion und Sozialarbeit-geeigneter Dokumentation.
+
+- [Sperrmüllabholung & Express-Service](/leistungen/sperrmuellabholung/): Flexible Abholungen für einzelne Räume oder ganze Objekte – auch kurzfristig und am Wochenende.
+
+- [Verlassenschaften & Nachlassräumung](/leistungen/verlassenschaft/): Einfühlsame Nachlasslösungen inklusive Ankauf wertvoller Gegenstände und Abstimmung mit Notaren.
+
+
+## Bezirke
+
+
+- [Haushaltsauflösung 1010 Wien](/leistungen/haushaltsaufloesung-1010-wien/): Spezialisierte Teams für Haushaltsauflösungen in der Inneren Stadt – inklusive Halteverbotszone und Wertausgleich.
+
+- [Haushaltsauflösung 1020 Wien](/leistungen/haushaltsaufloesung-1020-wien/): Flexible Haushaltsauflösungen in der Leopoldstadt – vom Karmeliterviertel bis zu den Donau-City-Neubauten.
+
+- [Haushaltsauflösung 1100 Wien](/leistungen/haushaltsaufloesung-1100-wien/): High-Volume-Räumungen in Favoriten – ideal für Gemeindebauten, Neubauten und Reihenhäuser.
+
+- [Haushaltsauflösung 1130 Wien](/leistungen/haushaltsaufloesung-1130-wien/): Diskrete Räumung von Häusern und Villen in Hietzing – inklusive Bewertung hochwertiger Nachlässe.
+
+- [Haushaltsauflösung 1190 Wien](/leistungen/haushaltsaufloesung-1190-wien/): Entrümpelungen in Döbling – vom Heurigenviertel bis zu den Weinbergen.
+
+- [Haushaltsauflösung 1220 Wien](/leistungen/haushaltsaufloesung-1220-wien/): Flächendeckende Räumungen in der Donaustadt – von Stadlau bis Aspern Seestadt.
+
+
+## Ratgeber & Ressourcen
+
+
+- [Checkliste für die Haushaltsauflösung](/ratgeber/2024-01-20-checkliste-haushaltsaufloesung/): Schritt-für-Schritt-Anleitung inklusive Zeitplan und Aufgaben vor, während und nach der Räumung.
+
+- [MA 48 oder Entrümpelungsfirma?](/ratgeber/2024-02-10-ma48-vs-firma/): Vergleich zwischen städtischer Sperrmüllabholung und professioneller Entrümpelung – inklusive Checkliste für die richtige Wahl.
+
+- [Was kostet eine Haushaltsauflösung in Wien?](/ratgeber/2024-03-05-was-kostet-eine-haushaltsaufloesung/): Preisübersicht 2025 mit Faktoren, Beispielen und Tipps zum Reduzieren der Kosten durch Wertausgleich.
+
+
+## Technische Hinweise
+- Vollständige Texte: `/llms-all.txt` (Plain Text) oder `/llms-sources.md` (Markdown)
+- Sitemap: `/sitemap.xml`
+- RSS/Feed: `/feed.xml`
+- Update- und Deployment-Dokumentation: `/README.md`
