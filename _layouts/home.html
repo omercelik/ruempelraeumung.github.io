@@ -4,7 +4,7 @@ layout: default
 {% assign hero_mobile = site.images.hero_mobile | default: site.images.hero %}
 {% assign hero_desktop = site.images.hero_desktop | default: hero_mobile %}
 <link rel="preload" href="{{ hero_desktop | relative_url }}" as="image" fetchpriority="high" imagesrcset="{{ hero_mobile | relative_url }} 768w, {{ hero_desktop | relative_url }} 1440w" imagesizes="100vw"/>
-<section class="relative overflow-hidden text-white bg-primary/95 bg-center" style="background-image: linear-gradient(rgba(10,35,66,0.35), rgba(10,35,66,0.75)), url('{{ hero_desktop | relative_url }}');">
+<section class="relative overflow-hidden text-white bg-primary/95 bg-center bg-cover bg-no-repeat" data-hero-banner style="--hero-mobile: url('{{ hero_mobile | relative_url }}'); --hero-desktop: url('{{ hero_desktop | relative_url }}');">
   <div class="container mx-auto px-4 py-20 text-white">
     <div class="max-w-3xl space-y-5">
       <p class="text-xs font-semibold uppercase tracking-[0.4em] text-primary-accent">Entrümpelung Wien &amp; NÖ</p>
@@ -54,7 +54,7 @@ layout: default
 <section class="bg-white py-16 defer-section" id="leistungen">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Services</p>
+      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Services</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Alle Leistungen &amp; Spezialfälle</h2>
       <p class="mt-2 text-base text-text-light">{{ page.services_intro }}</p>
     </div>
@@ -75,7 +75,7 @@ layout: default
 <section class="bg-background-light py-16 defer-section">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Trifecta of Trust</p>
+      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Trifecta of Trust</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Warum Sie uns wählen sollten</h2>
       <p class="mt-2 text-base text-text-light">{{ page.why_intro }}</p>
     </div>
@@ -93,7 +93,7 @@ layout: default
 <section class="bg-white py-16 defer-section" id="ratgeber">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Ratgeber</p>
+      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Ratgeber</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Lokales Wissen rund um Entrümpelungen</h2>
       <p class="mt-2 text-base text-text-light">Tipps zu Behördenwegen, Kosten und Spezialfällen – damit Sie jede Räumung souverän planen.</p>
     </div>
@@ -101,7 +101,7 @@ layout: default
       {% assign guides = site.guides | sort: 'date' | reverse %}
       {% for guide in guides limit:3 %}
       <article class="flex h-full flex-col gap-3 rounded-2xl border border-gray-200 bg-background-light p-6 shadow-sm">
-        <p class="text-xs uppercase tracking-[0.3em] text-primary-accent">{{ guide.category | default: 'Guide' }}</p>
+        <p class="text-xs uppercase tracking-[0.3em] text-primary-light">{{ guide.category | default: 'Guide' }}</p>
         <h3 class="text-xl font-bold text-primary">{{ guide.title }}</h3>
         <p class="flex-1 text-sm text-text-light">{{ guide.excerpt | strip_html | truncate: 140 }}</p>
         <a href="{{ guide.url | relative_url }}" class="inline-flex items-center gap-1 text-sm font-semibold text-primary">
@@ -122,7 +122,7 @@ layout: default
     <div class="mt-8 flex gap-6 overflow-x-auto px-1 py-4 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
       {% for testimonial in site.data.testimonials %}
       <div class="min-w-[280px] flex-1 rounded-2xl bg-white p-6 shadow">
-        <div class="flex items-center gap-1 text-primary-accent">
+        <div class="flex items-center gap-1 text-primary-light">
           {% assign full_stars = testimonial.rating | floor %}
           {% for i in (1..full_stars) %}
           <span class="material-symbols-outlined">star</span>
@@ -148,7 +148,7 @@ layout: default
   <div class="container mx-auto px-4">
     <div class="grid gap-12 lg:grid-cols-2">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">FAQ</p>
+        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">FAQ</p>
         <h2 class="mt-2 text-3xl font-extrabold text-primary">Häufige Fragen</h2>
         <p class="mt-3 text-base text-text-light">Direkte Antworten, damit Kund:innen schnell Klarheit zu Preisen, Ablauf und Wertausgleich erhalten.</p>
         <div class="mt-8 space-y-4">
@@ -164,7 +164,7 @@ layout: default
         </div>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl" id="angebot">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Gratis Angebot</p>
+        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Gratis Angebot</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Kostenlose Besichtigung &amp; Fixpreis erhalten</h3>
         <p class="mt-2 text-sm text-text-light">Nur die wichtigsten Felder + Foto-Upload für eine schnelle Ersteinschätzung.</p>
         <div class="mt-6">

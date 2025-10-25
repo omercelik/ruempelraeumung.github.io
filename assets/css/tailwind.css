@@ -12,6 +12,21 @@ body {
   min-height: 100vh;
 }
 
+[data-hero-banner] {
+  --hero-image: var(--hero-desktop);
+  background-image: linear-gradient(rgba(10, 35, 66, 0.35), rgba(10, 35, 66, 0.75)), var(--hero-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  [data-hero-banner] {
+    /* Swap to mobile hero asset when available */
+    --hero-image: var(--hero-mobile, var(--hero-desktop));
+  }
+}
+
 @font-face {
   font-family: 'Material Symbols Outlined';
   font-style: normal;
