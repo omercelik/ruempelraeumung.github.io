@@ -28,6 +28,12 @@ body {
   text-transform: uppercase;
 }
 
+.defer-section {
+  /* Delay layout/paint work for below-the-fold sections without layout shifts */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
+}
+
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
