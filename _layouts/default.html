@@ -44,8 +44,7 @@
     {% if hero_preload %}
     <link rel="preload" href="{{ hero_preload | relative_url }}" as="image" fetchpriority="high"/>
     {% endif %}
-    {% seo %}
-    {% include structured_data.html %}
+    {% include seo.html %}
   </head>
   <body class="bg-background-light font-display text-text-light">
     <div class="relative flex min-h-screen flex-col overflow-x-hidden">
