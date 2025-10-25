@@ -27,7 +27,7 @@ module.exports = {
         "text-dark": "#F5F5F5"
       },
       fontFamily: {
-        display: ["Manrope", "sans-serif"]
+        display: ["Segoe UI", "Inter", "system-ui", "-apple-system", "BlinkMacSystemFont", "Roboto", "sans-serif"]
       }
     }
   },
