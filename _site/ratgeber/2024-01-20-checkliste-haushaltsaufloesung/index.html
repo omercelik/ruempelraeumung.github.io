@@ -164,6 +164,9 @@
         <span class="sr-only">Rümpel Räumung</span>
         <img src="/logo.svg" alt="Rümpel Räumung" class="h-11 w-auto" width="808" height="270" />
       </a>
+      
+      
+      
       <nav class="hidden items-center gap-6 text-sm font-semibold md:flex" data-critical-nav>
         <div class="group relative">
           <button class="flex items-center gap-1 hover:text-primary-accent focus:outline-none" type="button">
@@ -252,9 +255,37 @@
           </div>
         </div>
         
+        <div class="group relative">
+          <button class="flex items-center gap-1 hover:text-primary-accent focus:outline-none" type="button">
+            Bundesländer
+            <span class="material-symbols-outlined text-base">expand_more</span>
+          </button>
+          <div class="invisible absolute left-1/2 z-30 mt-5 w-64 -translate-x-1/2 rounded-2xl bg-white p-4 text-text-light opacity-0 shadow-xl transition-all duration-200 group-hover:visible group-hover:opacity-100">
+            <p class="mb-3 text-xs font-semibold uppercase tracking-[0.3em] text-primary">Standorte</p>
+            <ul class="space-y-2 text-sm">
+              
+              <li><a class="hover:text-primary" href="/bundesland/wien/">Entrümpelung in Wien</a></li>
+              
+              <li><a class="hover:text-primary" href="/bundesland/niederoesterreich/">Entrümpelung in Niederösterreich</a></li>
+              
+              <li><a class="hover:text-primary" href="/bundesland/burgenland/">Entrümpelung in Burgenland</a></li>
+              
+            </ul>
+            <div class="mt-4 border-t border-gray-100 pt-3 text-sm">
+              <a class="inline-flex items-center gap-1 text-primary hover:text-primary-light" href="/bezirke/">
+                Alle Standorte
+                <span class="material-symbols-outlined text-base">north_east</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        
+        
         <a class="hover:text-primary-accent transition" href="/ablauf/">Ablauf</a>
         
         <a class="hover:text-primary-accent transition" href="/preise/">Preise</a>
+        
+        <a class="hover:text-primary-accent transition" href="/bewertungen/">Bewertungen</a>
         
         <a class="hover:text-primary-accent transition" href="/ratgeber/">Ratgeber</a>
         
@@ -277,7 +308,10 @@
   </div>
 </header>
 
-      <div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-primary/95 text-white backdrop-blur-md md:hidden" data-mobile-menu>
+      
+
+
+<div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-primary/95 text-white backdrop-blur-md md:hidden" data-mobile-menu>
   <div class="flex items-center justify-between gap-4 border-b border-white/20 p-4">
     <a href="/" class="flex max-w-[65vw] items-center gap-3">
       <span class="sr-only">Rümpel Räumung</span>
@@ -361,11 +395,34 @@
         </a>
       </div>
     </div>
+    
+    <div class="mt-4">
+      <button class="flex w-full items-center justify-between border-b border-white/20 py-3 text-lg font-semibold" onclick="toggleSubMenu('mobile-states')">
+        <span>Bundesländer</span>
+        <span class="material-symbols-outlined text-xl">expand_more</span>
+      </button>
+      <div id="mobile-states" class="hidden space-y-2 pt-3 text-sm">
+        
+        <a class="block hover:text-primary-accent" href="/bundesland/wien/" onclick="mobileMenuToggle()">Entrümpelung in Wien</a>
+        
+        <a class="block hover:text-primary-accent" href="/bundesland/niederoesterreich/" onclick="mobileMenuToggle()">Entrümpelung in Niederösterreich</a>
+        
+        <a class="block hover:text-primary-accent" href="/bundesland/burgenland/" onclick="mobileMenuToggle()">Entrümpelung in Burgenland</a>
+        
+        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="/bezirke/" onclick="mobileMenuToggle()">
+          Alle Standorte
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
+      </div>
+    </div>
+    
     <div class="mt-6 space-y-2">
       
       <a class="block border-b border-white/20 py-3 text-lg font-semibold hover:text-primary-accent" href="/ablauf/" onclick="mobileMenuToggle()">Ablauf</a>
       
       <a class="block border-b border-white/20 py-3 text-lg font-semibold hover:text-primary-accent" href="/preise/" onclick="mobileMenuToggle()">Preise</a>
+      
+      <a class="block border-b border-white/20 py-3 text-lg font-semibold hover:text-primary-accent" href="/bewertungen/" onclick="mobileMenuToggle()">Bewertungen</a>
       
       <a class="block border-b border-white/20 py-3 text-lg font-semibold hover:text-primary-accent" href="/ratgeber/" onclick="mobileMenuToggle()">Ratgeber</a>
       
@@ -525,10 +582,13 @@
 
 
       </main>
-      <footer class="bg-primary text-white">
+      
+
+
+<footer class="bg-primary text-white">
   <div class="container mx-auto px-4 py-10">
-    <div class="grid grid-cols-1 gap-8 md:grid-cols-4">
-      <div id="kontakt">
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-6">
+      <div id="kontakt" class="lg:col-span-2">
         <h3 class="text-lg font-bold">Rümpel Räumung</h3>
         <p class="mt-2 text-sm text-gray-300">Zertifizierter Entrümpelungsbetrieb für Wien &amp; Umgebung. Fixpreis + Wertausgleich + besenreine Übergabe.</p>
         <address class="mt-4 space-y-1 text-sm text-gray-300 not-italic">
@@ -583,6 +643,21 @@
           <li><a class="hover:text-primary-accent font-semibold" href="/bezirke/">Alle Bezirke</a></li>
         </ul>
       </div>
+      
+      <div>
+        <h3 class="text-lg font-bold">Bundesländer</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          
+          <li><a class="hover:text-primary-accent" href="/bundesland/wien/">Entrümpelung in Wien</a></li>
+          
+          <li><a class="hover:text-primary-accent" href="/bundesland/niederoesterreich/">Entrümpelung in Niederösterreich</a></li>
+          
+          <li><a class="hover:text-primary-accent" href="/bundesland/burgenland/">Entrümpelung in Burgenland</a></li>
+          
+          <li><a class="hover:text-primary-accent font-semibold" href="/bezirke/">Alle Standorte</a></li>
+        </ul>
+      </div>
+      
       <div>
         <h3 class="text-lg font-bold">Mehr</h3>
         <ul class="mt-4 space-y-2 text-sm">

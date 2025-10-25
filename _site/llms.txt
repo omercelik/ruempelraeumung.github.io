@@ -1,5 +1,5 @@
 # LLM Resource Index – Rümpel Räumung
-_Generated 2025-10-25 14:43 BST_
+_Generated 2025-10-25 15:23 BST_
 
 This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry.
 
@@ -20,6 +20,8 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 - [Ihr Weg zur besenreinen Immobilie](/ablauf/): Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe.
 
 - [Kostenloses Angebot anfordern](/angebot/): Kostenlose Vor-Ort-Besichtigung, schriftlicher Fixpreis & Wertausgleich. Nutzen Sie das Formular oder rufen Sie uns an.
+
+- [Bewertungen & Erfahrungsberichte](/bewertungen/): Mehr als nur Sterne: Lesen Sie echte Erfahrungsberichte aus Haushaltsauflösungen, Firmenräumungen und Spezialfällen in Wien & Niederöster...
 
 - [Entrümpelung in Wien & Umgebung](/bezirke/): Alle Standortseiten von Rümpel Räumung – mit Fokus auf Wien und zusätzlichen Hubs in Niederösterreich & Burgenland.
 

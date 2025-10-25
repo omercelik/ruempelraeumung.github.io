@@ -1,7 +1,12 @@
+{% assign states = site.states | default: site.collections.states.docs %}
+{% if states == nil %}
+{% assign states = '' | split: '' %}
+{% endif %}
+{% assign states = states | sort: 'order' %}
 <footer class="bg-primary text-white">
   <div class="container mx-auto px-4 py-10">
-    <div class="grid grid-cols-1 gap-8 md:grid-cols-4">
-      <div id="kontakt">
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-6">
+      <div id="kontakt" class="lg:col-span-2">
         <h3 class="text-lg font-bold">{{ site.title }}</h3>
         <p class="mt-2 text-sm text-gray-300">Zertifizierter Entrümpelungsbetrieb für Wien &amp; Umgebung. Fixpreis + Wertausgleich + besenreine Übergabe.</p>
         <address class="mt-4 space-y-1 text-sm text-gray-300 not-italic">
@@ -30,6 +35,17 @@
           <li><a class="hover:text-primary-accent font-semibold" href="{{ '/bezirke/' | relative_url }}">Alle Bezirke</a></li>
         </ul>
       </div>
+      {% if states.size > 0 %}
+      <div>
+        <h3 class="text-lg font-bold">Bundesländer</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          {% for state in states %}
+          <li><a class="hover:text-primary-accent" href="{{ state.url | relative_url }}">Entrümpelung in {{ state.title }}</a></li>
+          {% endfor %}
+          <li><a class="hover:text-primary-accent font-semibold" href="{{ '/bezirke/' | relative_url }}">Alle Standorte</a></li>
+        </ul>
+      </div>
+      {% endif %}
       <div>
         <h3 class="text-lg font-bold">Mehr</h3>
         <ul class="mt-4 space-y-2 text-sm">

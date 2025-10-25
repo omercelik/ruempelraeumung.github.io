@@ -156,6 +156,9 @@
 <loc>http://localhost:4000/angebot/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/bewertungen/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/bezirke/</loc>
 </url>
 <url>

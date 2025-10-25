@@ -37,6 +37,8 @@ links:
     url: /ablauf/
   - label: Preise
     url: /preise/
+  - label: Bewertungen
+    url: /bewertungen/
   - label: Ratgeber
     url: /ratgeber/
   - label: Über Uns

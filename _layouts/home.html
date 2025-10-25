@@ -126,7 +126,7 @@ layout: default
       <p class="mt-2 text-base text-text-light">Social Proof direkt bei jeder Conversion.</p>
     </div>
     <div class="mt-8 flex gap-6 overflow-x-auto px-1 py-4 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-      {% for testimonial in site.data.testimonials %}
+      {% for testimonial in site.data.testimonials limit:3 %}
       <div class="min-w-[280px] flex-1 rounded-2xl bg-white p-6 shadow">
         <div class="flex items-center gap-1 text-primary-light" aria-label="5,0 von 5 Sternen">
           {% for i in (1..5) %}
@@ -138,6 +138,12 @@ layout: default
         <p class="text-sm text-gray-500">{{ testimonial.role }}</p>
       </div>
       {% endfor %}
+    </div>
+    <div class="mt-8 text-center">
+      <a href="{{ '/bewertungen/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white hover:bg-primary-light">
+        Alle Bewertungen ansehen
+        <span class="material-symbols-outlined text-base">north_east</span>
+      </a>
     </div>
   </div>
 </section>
