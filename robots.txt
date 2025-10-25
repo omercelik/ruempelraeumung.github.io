@@ -1,6 +1,7 @@
 ---
 permalink: /robots.txt
 llm_exclude: true
+layout: null
 ---
 User-agent: *
 Allow: /

@@ -1,9 +1,15 @@
+var mobileMenu = document.getElementById('mobile-menu');
+var faqButtons = document.querySelectorAll('[data-faq-toggle]');
+
+function setBodyOverflow(hidden) {
+  document.body.style.overflow = hidden ? 'hidden' : '';
+}
+
 window.mobileMenuToggle = function mobileMenuToggle() {
-  var menu = document.getElementById('mobile-menu');
-  if (!menu) return;
-  menu.classList.toggle('hidden');
-  var hidden = menu.classList.contains('hidden');
-  document.body.style.overflow = hidden ? '' : 'hidden';
+  if (!mobileMenu) return;
+  mobileMenu.classList.toggle('hidden');
+  var isHidden = mobileMenu.classList.contains('hidden');
+  setBodyOverflow(!isHidden);
 };
 
 window.toggleSubMenu = function toggleSubMenu(targetId) {
@@ -13,12 +19,14 @@ window.toggleSubMenu = function toggleSubMenu(targetId) {
 };
 
 document.addEventListener('DOMContentLoaded', function domReady() {
+  mobileMenu = document.getElementById('mobile-menu');
+  faqButtons = document.querySelectorAll('[data-faq-toggle]');
+
   var yearTarget = document.getElementById('current-year');
   if (yearTarget) {
     yearTarget.textContent = new Date().getFullYear();
   }
 
-  var faqButtons = document.querySelectorAll('[data-faq-toggle]');
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
       var answerId = btn.getAttribute('data-faq-toggle');
