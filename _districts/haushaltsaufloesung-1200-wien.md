@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1200 Wien"
 description: "Entrümpelung in Brigittenau – Donauufer, Millennium City und Gemeindebauten zwischen Wallensteinplatz und Brigittaplatz."
 kicker: "Bezirk 1200"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Hochhäusern & Neubauten entlang der Donau

@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1120 Wien"
 description: "Entrümpelung in Meidling – von Altbauwohnungen bei der Meidlinger Hauptstraße bis zu Terrassenhäusern in Hetzendorf."
 kicker: "Bezirk 1120"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Routine in Gemeindebauten & Dachgeschoßausbauten

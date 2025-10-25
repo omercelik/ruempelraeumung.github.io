@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1190 Wien"
 description: "Entrümpelungen in Döbling – vom Heurigenviertel bis zu den Weinbergen."
 kicker: "Bezirk 1190"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Hanglagen & schmalen Zufahrten

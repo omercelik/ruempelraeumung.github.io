@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1180 Wien"
 description: "Entrümpelung in Währing – Cottageviertel, Eduardgasse und Studentenwohnungen rund um die BOKU."
 kicker: "Bezirk 1180"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Sorgfalt für Villen & Altbauten im Cottageviertel

@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1060 Wien"
 description: "Entrümpelung in Mariahilf – Naschmarkt-Lofts, Boutiquen in der Gumpendorfer Straße und Dachwohnungen nahe Haus des Meeres."
 kicker: "Bezirk 1060"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - City-taugliche Teams für hippe Dachböden & Co-Living-Flächen

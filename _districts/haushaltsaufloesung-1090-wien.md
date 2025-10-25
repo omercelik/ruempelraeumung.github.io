@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1090 Wien"
 description: "Entrümpelung im Alsergrund – Servitenviertel, Unikliniken und Gründerzeithäuser entlang der Währinger Straße."
 kicker: "Bezirk 1090"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Klinikwohnungen & Ordinationsauflösungen

@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1070 Wien"
 description: "Haushaltsauflösung & Entrümpelung in 1070 Wien Neubau – Fixpreis, Wertanrechnung und kostenlose Besichtigung für Wohnungen, Lofts & Studios."
 kicker: "Bezirk 1070"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Logistik-Profis für Altbau-Stiegen & Hinterhöfe

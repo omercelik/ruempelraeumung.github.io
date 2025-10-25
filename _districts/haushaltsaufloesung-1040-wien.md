@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1040 Wien"
 description: "Entrümpelung in Wieden – Design-Lofts, Single-Haushalte und Ordinationen nahe der Karlskirche."
 kicker: "Bezirk 1040"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Altbau-Lofts & Townhouses beim Naschmarkt

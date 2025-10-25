@@ -1,7 +1,7 @@
 # LLM Resource Index – Rümpel Räumung
-_Generated 2025-10-25 13:35 BST_
+_Generated 2025-10-25 14:21 BST_
 
-This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry or `/llms-sources.md` for a Markdown export.
+This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry.
 
 ## Richtlinien
 - Inhalte dürfen ausschließlich zur Beantwortung von Fragen zu unseren Leistungen verwendet werden.
@@ -21,7 +21,7 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 
 - [Kostenloses Angebot anfordern](/angebot/): Kostenlose Vor-Ort-Besichtigung, schriftlicher Fixpreis & Wertausgleich. Nutzen Sie das Formular oder rufen Sie uns an.
 
-- [Entrümpelung in allen Wiener Bezirken](/bezirke/): Alle Standortseiten von Rümpel Räumung auf einen Blick – inklusive direkter Links zu den jeweiligen Leistungen in Ihrem Bezirk.
+- [Entrümpelung in Wien & Umgebung](/bezirke/): Alle Standortseiten von Rümpel Räumung – mit Fokus auf Wien und zusätzlichen Hubs in Niederösterreich & Burgenland.
 
 - [Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.](/content/): Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.
 
@@ -88,7 +88,24 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 - [Verlassenschaften & Nachlassräumung](/leistungen/verlassenschaft/): Einfühlsame Nachlasslösungen inklusive Ankauf wertvoller Gegenstände und Abstimmung mit Notaren.
 
 
-## Bezirke
+
+
+
+
+
+## Bundesländer
+
+- [Wien](/bundesland/wien/): 23 Bezirke, kurze Anfahrten und perfekt eingespielte Teams – hier betreuen wir den Großteil aller Entrümpelungen.
+
+- [Niederösterreich](/bundesland/niederoesterreich/): Entrümpelung entlang der Wiener Außenbezirke, im Wienerwald und in den Bezirksstädten Baden, Mödling, St. Pölten & Co.
+
+- [Burgenland](/bundesland/burgenland/): Entrümpelung zwischen Eisenstadt, Neusiedler See und Südburgenland – abgestimmt auf Wochenendhäuser und Winzerbetriebe.
+
+
+## Standorte
+
+
+### Wien
 
 
 - [Haushaltsauflösung 1010 Wien](/leistungen/haushaltsaufloesung-1010-wien/): Spezialisierte Teams für Haushaltsauflösungen in der Inneren Stadt – inklusive Halteverbotszone und Wertausgleich.
@@ -138,6 +155,25 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 - [Haushaltsauflösung 1230 Wien](/leistungen/haushaltsaufloesung-1230-wien/): Entrümpelung in Liesing – Wohnsiedlungen, Unternehmensstandorte und Winzerhöfe zwischen Atzgersdorf und Perchtoldsdorf.
 
 
+### Niederösterreich
+
+
+- [Haushaltsauflösung Baden](/leistungen/haushaltsaufloesung-baden/): Entrümpelung in Baden, Bad Vöslau und dem gesamten Thermalregion-Bezirk inklusive Thermengasse, Villenviertel und Weingärten.
+
+- [Haushaltsauflösung Mödling](/leistungen/haushaltsaufloesung-moedling/): Schnelle Entrümpelung in Mödling, Perchtoldsdorf, Brunn am Gebirge und entlang der Wiener Stadtgrenze.
+
+- [Haushaltsauflösung St. Pölten](/leistungen/haushaltsaufloesung-st-poelten/): Entrümpelung für Wohnungen, Einfamilienhäuser und ganze Höfe in St. Pölten Stadt & Land – inklusive Fahrt ab Wien.
+
+
+### Burgenland
+
+
+- [Haushaltsauflösung Eisenstadt](/leistungen/haushaltsaufloesung-eisenstadt/): Entrümpelung für Stadtwohnungen, Einfamilienhäuser und kulturelle Einrichtungen in Eisenstadt & Umgebung.
+
+- [Haushaltsauflösung Neusiedl am See](/leistungen/haushaltsaufloesung-neusiedl-am-see/): Entrümpelung für Seehäuser, Apartments und Freizeitliegenschaften im Bezirk Neusiedl inklusive Podersdorf, Weiden & Jois.
+
+
+
 ## Ratgeber & Ressourcen
 
 
@@ -159,7 +195,7 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 
 
 ## Technische Hinweise
-- Vollständige Texte: `/llms-all.txt` (Plain Text) oder `/llms-sources.md` (Markdown)
+- Vollständige Texte: `/llms-all.txt`
 - Sitemap: `/sitemap.xml`
 - RSS/Feed: `/feed.xml`
 - Update- und Deployment-Dokumentation: `/README.md`

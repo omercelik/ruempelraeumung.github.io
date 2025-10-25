@@ -8,7 +8,11 @@ _Generiert {{ site.time | date: '%Y-%m-%d %H:%M %Z' }}_
 
 Dieses Dokument enthält den textbasierten Inhalt aller veröffentlichten Markdown-Seiten. Jede Sektion ist durch `---` getrennt.
 
-{% assign resources = site.pages | concat: site.services | concat: site.districts | concat: site.guides %}
+{% assign states = site.states | default: site.collections.states.docs %}
+{% if states == nil %}
+{% assign states = '' | split: '' %}
+{% endif %}
+{% assign resources = site.pages | concat: site.services | concat: site.districts | concat: site.guides | concat: states %}
 {% assign filtered = resources | where_exp: 'item', 'item.llm_exclude != true' %}
 {% assign sorted = filtered | sort: 'url' %}
 {% for resource in sorted %}

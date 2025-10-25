@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1140 Wien"
 description: "Entrümpelung in Penzing – Villen in Hietzing-Nähe, Gemeindebauten in Breitensee und Gewerbeobjekte bis Auhof."
 kicker: "Bezirk 1140"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Hanglagen & Gartenanlagen professionell gesichert

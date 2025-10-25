@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1150 Wien"
 description: "Entrümpelung in Rudolfsheim-Fünfhaus – Gründerzeitgürtel, Stadthallen-Viertel und Airbnb-Apartments nahe Westbahnhof."
 kicker: "Bezirk 1150"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Schnelle Räumungen für Anlegerwohnungen & Kurzzeitvermietung

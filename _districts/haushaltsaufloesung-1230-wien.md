@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1230 Wien"
 description: "Entrümpelung in Liesing – Wohnsiedlungen, Unternehmensstandorte und Winzerhöfe zwischen Atzgersdorf und Perchtoldsdorf."
 kicker: "Bezirk 1230"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Großobjekte, Lagerhallen & Produktionsstätten inklusive

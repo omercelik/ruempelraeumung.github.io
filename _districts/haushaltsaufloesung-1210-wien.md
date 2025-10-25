@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1210 Wien"
 description: "Entrümpelung in Floridsdorf – Einfamilienhäuser, Kleingärten und Unternehmensflächen vom Bisamberg bis Kagran."
 kicker: "Bezirk 1210"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Großflächige Räumungen inkl. Nebengebäude & Außenareal

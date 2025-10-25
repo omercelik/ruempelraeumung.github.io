@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1170 Wien"
 description: "Entrümpelung in Hernals – Vorstadtvillen, Gemeindebauten und Gewerbeflächen zwischen Elterleinplatz und Dornbach."
 kicker: "Bezirk 1170"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Hanglagen & Gartenanlagen professionell geräumt

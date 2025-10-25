@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1130 Wien"
 description: "Diskrete Räumung von Häusern und Villen in Hietzing – inklusive Bewertung hochwertiger Nachlässe."
 kicker: "Bezirk 1130"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Schutz hochwertiger Böden & Gartenanlagen

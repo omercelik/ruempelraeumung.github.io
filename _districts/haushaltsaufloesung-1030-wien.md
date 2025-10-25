@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1030 Wien"
 description: "Entrümpelung & Wohnungsauflösung in der Landstraße – vom Botschaftsviertel bis St. Marx."
 kicker: "Bezirk 1030"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Diskrete Teams für Botschaften & internationale Kanzleien

@@ -1,7 +1,9 @@
 # Rümpel Räumung – Vollständiger Content Export
-_Generiert 2025-10-25 13:35 BST_
+_Generiert 2025-10-25 14:21 BST_
 
 Dieses Dokument enthält den textbasierten Inhalt aller veröffentlichten Markdown-Seiten. Jede Sektion ist durch `---` getrennt.
+
+
 
 
 
@@ -51,11 +53,50 @@ Standort &amp; Anfahrt      Büro &amp; Lager    Grinzinger Str. 11190 Wien     
 
 
 
-## Entrümpelung in allen Wiener Bezirken
+## Entrümpelung in Wien & Umgebung
 **Pfad:** /bezirke/
 **Aktualisiert:** 2025-10-25
 
-Bezirke      Alle Wiener Bezirke im Überblick              Jeder Bezirk stellt eigene Anforderungen – vom Halteverbot in der Inneren Stadt bis zu Hanglagen in Döbling. Auf dieser Seite finden Sie sämtliche        Standortseiten mit lokalen Besonderheiten, Preisen und FAQ. Wählen Sie Ihren Bezirk und holen Sie sich direkt ein maßgeschneidertes Angebot.                              Kostenloses Angebot anfordern                          call          +43 660 606 0628                                Bezirk auswählen      Direkt zur passenden Entrümpelung      Sortiert nach Bezirksnummer – jede Karte führt auf eine eigene Landing Page mit Ablauf, Checkliste und FAQ.                                            Bezirk 1010          Haushaltsauflösung 1010 Wien                north_east                                    Bezirk 1020          Haushaltsauflösung 1020 Wien                north_east                                    Bezirk 1030          Haushaltsauflösung 1030 Wien                north_east                                    Bezirk 1040          Haushaltsauflösung 1040 Wien                north_east                                    Bezirk 1050          Haushaltsauflösung 1050 Wien                north_east                                    Bezirk 1060          Haushaltsauflösung 1060 Wien                north_east                                    Bezirk 1070          Haushaltsauflösung 1070 Wien                north_east                                    Bezirk 1080          Haushaltsauflösung 1080 Wien                north_east                                    Bezirk 1090          Haushaltsauflösung 1090 Wien                north_east                                    Bezirk 1100          Haushaltsauflösung 1100 Wien                north_east                                    Bezirk 1110          Haushaltsauflösung 1110 Wien                north_east                                    Bezirk 1120          Haushaltsauflösung 1120 Wien                north_east                                    Bezirk 1130          Haushaltsauflösung 1130 Wien                north_east                                    Bezirk 1140          Haushaltsauflösung 1140 Wien                north_east                                    Bezirk 1150          Haushaltsauflösung 1150 Wien                north_east                                    Bezirk 1160          Haushaltsauflösung 1160 Wien                north_east                                    Bezirk 1170          Haushaltsauflösung 1170 Wien                north_east                                    Bezirk 1180          Haushaltsauflösung 1180 Wien                north_east                                    Bezirk 1190          Haushaltsauflösung 1190 Wien                north_east                                    Bezirk 1200          Haushaltsauflösung 1200 Wien                north_east                                    Bezirk 1210          Haushaltsauflösung 1210 Wien                north_east                                    Bezirk 1220          Haushaltsauflösung 1220 Wien                north_east                                    Bezirk 1230          Haushaltsauflösung 1230 Wien                north_east                                      Serviceversprechen        Fixpreis + Wertausgleich für jeden Bezirk                  Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,          kümmern uns um Halteverbotszonen und rechnen verwertbare Gegenstände an.                          ✔️ Kostenlose Besichtigung &amp; schriftliches Angebot vor Ort          ✔️ Behördenwege &amp; Halteverbotszonen inklusive          ✔️ Wertanrechnung für Antiquitäten, Technik oder Sammlungen          ✔️ Besenreine Übergabe mit Protokoll für Hausverwaltungen                            Schnelle Anfrage        Noch nicht sicher, welcher Bezirk passt?                  Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.                                  Name*                  E-Mail*                    Telefon*                        PLZ*                    Wunschtermin                  Kurzbeschreibung*            Fotos hochladen        Max. 10MB pro Datei. Fotos helfen uns bei einer schnellen Ersteinschätzung.              Jetzt kostenloses Angebot sichern        Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.
+Standorte      Wien bleibt Kerngebiet – wir erweitern für Sie              Über 80 % unserer Einsätze finden in Wien statt – deshalb bleiben dort Teams, Lager und Halteverbotsmaterialien stationiert. Für Kund:innen mit        Objekten in Niederösterreich oder dem nördlichen Burgenland fahren dieselben Profis hinaus, damit Sie keine neuen Dienstleister suchen müssen. Wählen Sie        Ihr Bundesland, entdecken Sie die jeweiligen Bezirksseiten und fordern Sie ein maßgeschneidertes Angebot an.                              Kostenloses Angebot anfordern                          call          +43 660 606 0628                                Bundesland wählen      Standort auswählen &amp; Details öffnen      Zuerst Wien, dann Niederösterreich und Burgenland – innerhalb jedes Bundeslands finden Sie unsere Bezirks- und Regionsseiten.                                                        Bundesland          Entrümpelung in Wien          23 Bezirke, kurze Anfahrten und perfekt eingespielte Teams – hier betreuen wir den Großteil aller Entrümpelungen.                                                                Haushaltsauflösung 1010 Wien                north_east                                                                                Haushaltsauflösung 1020 Wien                north_east                                                                                Haushaltsauflösung 1030 Wien                north_east                                                              + 20 weitere Standorte                                                Bundesland-Seite öffnen                                                  Bundesland          Entrümpelung in Niederösterreich          Entrümpelung entlang der Wiener Außenbezirke, im Wienerwald und in den Bezirksstädten Baden, Mödling, St. Pölten &amp; Co.                                                                Haushaltsauflösung Baden                north_east                                                                                Haushaltsauflösung Mödling                north_east                                                                                Haushaltsauflösung St. Pölten                north_east                                                                                      Bundesland-Seite öffnen                                                  Bundesland          Entrümpelung in Burgenland          Entrümpelung zwischen Eisenstadt, Neusiedler See und Südburgenland – abgestimmt auf Wochenendhäuser und Winzerbetriebe.                                                                Haushaltsauflösung Eisenstadt                north_east                                                                                Haushaltsauflösung Neusiedl am See                north_east                                                                                      Bundesland-Seite öffnen                                              Serviceversprechen        Fixpreis + Wertausgleich für jeden Bezirk                  Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,          kümmern uns um Halteverbotszonen und rechnen verwertbare Gegenstände an.                          ✔️ Kostenlose Besichtigung &amp; schriftliches Angebot vor Ort          ✔️ Behördenwege &amp; Halteverbotszonen inklusive          ✔️ Wertanrechnung für Antiquitäten, Technik oder Sammlungen          ✔️ Besenreine Übergabe mit Protokoll für Hausverwaltungen                            Schnelle Anfrage        Noch nicht sicher, welcher Bezirk passt?                  Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.                                  Name*                  E-Mail*                    Telefon*                        PLZ*                    Wunschtermin                  Kurzbeschreibung*            Fotos hochladen        Max. 10MB pro Datei. Fotos helfen uns bei einer schnellen Ersteinschätzung.              Jetzt kostenloses Angebot sichern        Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.
+
+---
+
+
+
+
+
+
+## Burgenland
+**Pfad:** /bundesland/burgenland/
+**Aktualisiert:** 2025-10-25
+
+Spezialisiert auf Wochenend- &amp; BestandsobjekteViele Burgenland-Projekte starten mit einer Schlüsselübergabe in Wien. Wir übernehmen Planung, Transport und Koordination mit lokalen Entsorgern. Besonders am Nordufer des Neusiedler Sees sowie rund um Eisenstadt sind Tagesprojekte üblich. Bei Hallen, Landwirtschaftsflächen oder ganzen Gutshöfen planen wir zwei bis drei Tage inklusive Containerlogistik.
+
+---
+
+
+
+
+
+
+## Niederösterreich
+**Pfad:** /bundesland/niederoesterreich/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung mit Wiener Teams, niederösterreichische FlexibilitätViele Kund:innen ziehen aus Wien ins Umland oder erben Objekte in Niederösterreich. Wir starten in Wien, laden Equipment in unseren Depots in Döbling oder Liesing und erreichen Baden, Mödling, Klosterneuburg oder St. Pölten in unter einer Stunde. Für größere Liegenschaften koordinieren wir Container, Schuttmulden und Zwischenlager in der Region, damit keine Mehrwege entstehen.
+
+---
+
+
+
+
+
+
+## Wien
+**Pfad:** /bundesland/wien/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung direkt aus WienÜber 80 % unserer Einsätze finden in Wien statt. Deshalb stehen Teams, Spezialwerkzeuge und Halteverbotsmaterialien jederzeit bereit. Die Bezirksseiten geben Ihnen einen ersten Eindruck zu Preisen, Besonderheiten und häufigen Fragen. Bei komplexen Räumungen – Dachböden, große Gründerzeithäuser oder Messie-Wohnungen – besichtigen wir innerhalb eines Werktags und erstellen einen Fixpreis inklusive Wertanrechnung.
 
 ---
 
@@ -641,6 +682,71 @@ Entrümpelung für alle Teile der DonaustadtOb Reihenhaus in Aspern oder Dachges
 **Aktualisiert:** 2025-10-25
 
 Liesing: Raum für nächste ProjekteLiesing wächst entlang der Breitenfurter Straße und beherbergt viele Unternehmenssitze. Wir verbinden industrielle Räumungskompetenz mit liebevollem Umgang bei Winzerhöfen oder Einfamilienhäusern – inklusive Containerdienst, Wertausgleich und Übergabeprotokoll.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung Baden
+**Pfad:** /leistungen/haushaltsaufloesung-baden/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung mit Thermenregion-ErfahrungDie Kombination aus Wiener Stiegenhäusern und Thermenregion-Villen verlangt Fingerspitzengefühl. Wir schützen Böden, koordinieren Lifte und kümmern uns um Halteverbote in engen Altstadtgassen. Für Gutshöfe oder Winzerbetriebe stellen wir zusätzliche Container und sortieren verwertbare Gerätschaften für den Wertausgleich.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung Eisenstadt
+**Pfad:** /leistungen/haushaltsaufloesung-eisenstadt/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung für Eisenstadt Stadt &amp; LandWir vereinen Wiener Logistik mit burgenländischer Regionalkenntnis. Unsere Teams kennen die engen Altstadtgassen und koordinieren Halteverbote mit der Stadt Eisenstadt. Gleichzeitig arbeiten wir mit regionalen Entsorgern zusammen, damit Recyclingkosten transparent bleiben. Egal ob Dachgeschoss, Archiv oder Keller – Sie erhalten ein Fixpreisangebot inklusive Wertanrechnung.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung Mödling
+**Pfad:** /leistungen/haushaltsaufloesung-moedling/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung an der Wiener StadtgrenzeViele Mödlinger Projekte sind mit Wien verbunden – entweder ziehen Kund:innen um oder lösen Zweitwohnsitze auf. Wir nutzen unsere Teams aus Wien, lagern Materialien in Liesing zwischen und starten frühmorgens, um Stau zu vermeiden. So bleibt der Vorteil der Wiener Infrastruktur erhalten, auch wenn die Immobilie bereits in Niederösterreich liegt.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung Neusiedl am See
+**Pfad:** /leistungen/haushaltsaufloesung-neusiedl-am-see/
+**Aktualisiert:** 2025-10-25
+
+Wochenend- und Freizeitobjekte stressfrei räumenRund um den Neusiedler See arbeiten wir besonders saisonabhängig. Wir stimmen Termine mit Seebetreibern ab, nutzen leichte Transportfahrzeuge und schützen Stege sowie Boardwalks mit Matten. So lassen sich Seehäuser, Appartements oder ganze Clubanlagen entrümpeln, ohne dass der laufende Betrieb leidet.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung St. Pölten
+**Pfad:** /leistungen/haushaltsaufloesung-st-poelten/
+**Aktualisiert:** 2025-10-25
+
+Haushaltsauflösung zwischen Traisen und WienerwaldWir kennen die Zufahrten, Recyclinghöfe und Marktgemeinden in St. Pölten. Egal ob Stadtwohnung, Einfamilienhaus oder Vierkanthof: Wir organisieren Container, Demontagearbeiten und die komplette Entsorgung. Dank Basis in Wien sparen Sie sich Übernachtungskosten und erhalten ein transparentes Fixpreisangebot inkl. Wertanrechnung.
 
 ---
 

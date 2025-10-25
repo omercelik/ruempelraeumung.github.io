@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1110 Wien"
 description: "Entrümpelung in Simmering – Gasometer-Lofts, Einfamilienhäuser und Gewerbehallen zwischen Zentralfriedhof und Alberner Hafen."
 kicker: "Bezirk 1110"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Großflächen & Industrieauflösungen inklusive Entsorgungskonzepte

@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1220 Wien"
 description: "Flächendeckende Räumungen in der Donaustadt – von Stadlau bis Aspern Seestadt."
 kicker: "Bezirk 1220"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Große Fahrzeugflotte für Einfamilienhäuser & Wohnungen

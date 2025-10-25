@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1050 Wien"
 description: "Entrümpelung in Margareten – vom Gemeindebau in Reinprechtsdorf bis zur Gründerzeitwohnung beim Schlossquadrat."
 kicker: "Bezirk 1050"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Innenhof-Zufahrten & engen Stiegenhäusern

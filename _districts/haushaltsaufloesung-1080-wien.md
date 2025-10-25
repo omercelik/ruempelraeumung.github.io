@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1080 Wien"
 description: "Entrümpelung in der Josefstadt – Palais, Theaterwohnungen und Townhouses zwischen Rathaus und Gürtel."
 kicker: "Bezirk 1080"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Schonender Umgang mit Stuckdecken & Parkett in Palaisvierteln

@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1010 Wien"
 description: "Spezialisierte Teams für Haushaltsauflösungen in der Inneren Stadt – inklusive Halteverbotszone und Wertausgleich."
 kicker: "Bezirk 1010"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Halteverbotszonen & Behördenwege inklusive

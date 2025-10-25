@@ -2,6 +2,8 @@
 title: "Haushaltsauflösung 1160 Wien"
 description: "Entrümpelung in Ottakring – Yppenplatz-Lofts, Gemeindebauten und Werkstätten am Wilhelminenberg."
 kicker: "Bezirk 1160"
+state: wien
+region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
   - Erfahrung mit Fabriksetagen & Hinterhofwerkstätten

@@ -65,18 +65,38 @@ layout: default
   <div class="container mx-auto px-4">
     <div class="flex flex-col gap-3 text-center">
       <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Bezirke</p>
-      <h2 class="text-3xl font-extrabold text-primary">Alle Wiener Bezirke im Überblick</h2>
+      <h2 class="text-3xl font-extrabold text-primary">Standorte in Wien & Umgebung</h2>
       {% if page.districts_intro %}
       <p class="text-base text-text-light">{{ page.districts_intro }}</p>
       {% endif %}
     </div>
-    <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-      {% assign districts = site.districts | sort: 'title' %}
-      {% for district in districts %}
-      <a href="{{ district.url | relative_url }}" class="flex items-center justify-between rounded-2xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-primary hover:border-primary">
-        <span>{{ district.title }}</span>
-        <span class="material-symbols-outlined text-base">north_east</span>
-      </a>
+    {% assign states = site.states | default: site.collections.states.docs %}
+    {% if states == nil %}
+    {% assign states = '' | split: '' %}
+    {% endif %}
+    {% assign states = states | sort: 'order' %}
+    {% assign all_locations = site.districts | sort: 'title' %}
+    <div class="mt-8 grid gap-6">
+      {% for state in states %}
+      {% assign state_locations = all_locations | where: 'state', state.slug %}
+      {% if state_locations.size == 0 %}{% continue %}{% endif %}
+      <div class="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
+        <div class="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary">{{ state.title }}</p>
+            <h3 class="text-xl font-bold text-primary">{{ state_locations.size }} Standorte</h3>
+          </div>
+          <a href="{{ state.url | relative_url }}" class="inline-flex items-center gap-2 text-sm font-semibold text-primary">Bundesland ansehen <span class="material-symbols-outlined text-base">north_east</span></a>
+        </div>
+        <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {% for district in state_locations %}
+          <a href="{{ district.url | relative_url }}" class="flex items-center justify-between rounded-2xl border border-gray-100 bg-background-light px-4 py-3 text-sm font-semibold text-primary hover:border-primary">
+            <span>{{ district.title }}</span>
+            <span class="material-symbols-outlined text-base">north_east</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
       {% endfor %}
     </div>
   </div>
