@@ -1,5 +1,5 @@
 # LLM Resource Index – Rümpel Räumung
-_Generated 2025-10-25 13:08 BST_
+_Generated 2025-10-25 13:15 BST_
 
 This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry or `/llms-sources.md` for a Markdown export.
 
