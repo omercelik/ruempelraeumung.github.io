@@ -1,5 +1,5 @@
 # Rümpel Räumung – Vollständiger Content Export
-_Generiert 2025-10-25 02:53 BST_
+_Generiert 2025-10-25 12:07 BST_
 
 Dieses Dokument enthält den textbasierten Inhalt aller veröffentlichten Markdown-Seiten. Jede Sektion ist durch `---` getrennt.
 
@@ -42,7 +42,7 @@ Schritt 1: Kontakt &amp; Kostenlose BesichtigungSie rufen uns an oder füllen da
 **Pfad:** /angebot/
 **Aktualisiert:** 2025-10-25
 
-Direkter Kontakt  Telefon: +43 660 606 0628  E-Mail: office@ruempelraeumung.at  Adresse: Grinzinger Str. 1, 1190 Wien  Öffnungszeiten: Montag–Freitag 08:00–18:00 Uhr, Samstag 09:00–14:00 UhrSo funktioniert Ihre Anfrage  Formular ausfüllen oder anrufen  Kostenlose Besichtigung erhalten  Schriftliches Fixpreis-Angebot inklusive Wertausgleich  Räumungstermin bestätigen – wir erledigen den RestSie möchten uns vorab Fotos schicken? Nutzen Sie das Upload-Feld im Formular für eine erste Einschätzung.
+Standort &amp; Anfahrt      Büro &amp; Lager    Grinzinger Str. 11190 Wien          &rarr; Route auf Google Maps öffnen              Telefon:      +43 660 606 0628      E-Mail:      office@ruempelraeumung.at
 
 ---
 
