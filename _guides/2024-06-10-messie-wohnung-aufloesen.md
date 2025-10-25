@@ -1,7 +1,7 @@
 ---
 title: "Messie-Wohnung räumen: Sicherheits- und Hygieneplan"
 description: "Praxisleitfaden für Messie- und Hortungswohnungen inklusive Schutzmaßnahmen, Ablaufplan und Nachbetreuung."
-date: 2025-10-23
+date: 2024-06-10
 category: "Spezialfall"
 tags:
   - messie
@@ -14,7 +14,7 @@ faqs:
   - question: Können Schädlingsbefall und Gerüche mit entfernt werden?
     answer: Wir koordinieren Schädlingsbekämpfer*innen, entsorgen belastete Materialien getrennt und setzen Geruchsneutralisation ein, damit die Wohnung wieder bewohnbar wird.
 ---
-Messie-Wohnungen stellen hohe Anforderungen an Sicherheit, Psychologie und Logistik. Dieser Guide erklärt, wie Entrümpelung, Entsorgung und Reinigung zusammenspielen.
+[Messie-Wohnungen](/leistungen/messie-entruempelung/) stellen hohe Anforderungen an Sicherheit, Psychologie und Logistik. Dieser Guide erklärt, wie Entrümpelung, Entsorgung und Reinigung zusammenspielen.
 
 ## Phase 1: Vorbereitung und Risikocheck
 

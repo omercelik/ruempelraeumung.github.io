@@ -32,3 +32,8 @@ permalink: /leistungen/verlassenschaft/
 ## Respektvolle Nachlassräumung
 
 Verlassenschaften benötigen Zeit und Empathie. Wir erstellen Inventarlisten, trennen Erinnerungsstücke und kümmern uns um Spenden sowie Auktionen. Auf Wunsch organisieren wir die Reinigung für die Schlüsselübergabe an Makler:innen oder neue Mieter:innen.
+
+### Verwandte Dienstleistungen
+
+- **[Haushaltsauflösung](/leistungen/haushaltsauflösung/):** Der Standard-Service für komplette Wohnungsräumungen.
+- **[Messie Entrümpelung](/leistungen/messie-entruempelung/):** Hilfe bei extremen Hortungsfällen.

@@ -32,3 +32,8 @@ permalink: /leistungen/lagerraeumung/
 ## Alles raus aus Lager & Halle
 
 Gewerbeparks stellen hohe Anforderungen an Sicherheit und Dokumentation. Wir übernehmen Kommunikation mit Vermietern, führen Übergabeprotokolle und sorgen dafür, dass Brandschutz, Rammschutz und Bodenmarkierungen fachgerecht entfernt werden.
+
+### Verwandte Dienstleistungen
+
+- **[Firmenauflösung](/leistungen/firmenaufloesung/):** Räumung von Büro- und Verwaltungstrakten.
+- **[Gastro & Retail Räumung](/leistungen/gastronomie-raeumung/):** Wenn auch Ladenlokale oder Küchen betroffen sind.

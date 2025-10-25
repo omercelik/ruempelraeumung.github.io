@@ -48,3 +48,9 @@ Unsere eigenen Sachverständigen bewerten Antiquitäten, Designmöbel oder Samml
 - Optional: Desinfektion & Feinreinigung
 
 > **Vorsprung gegenüber DIY & Billiganbietern:** keine versteckten Kosten, volle Haftpflichtversicherung und ein Team, das täglich Wohnungen in Wien räumt.
+
+### Verwandte Dienstleistungen
+
+- **[Verlassenschaft](/leistungen/verlassenschaft/):** Sensible Räumungen im Todesfall.
+- **[Messie Entrümpelung](/leistungen/messie-entruempelung/):** Spezialisierte Hilfe bei Hortungsfällen.
+- **[Kellerräumung](/leistungen/kellerraeumung/):** Schafft schnell Platz in Nebenräumen.
