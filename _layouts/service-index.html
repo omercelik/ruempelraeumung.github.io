@@ -12,12 +12,12 @@ layout: default
     </div>
   </div>
 </section>
-{% assign trimmed = page.content | strip %}
+{% assign trimmed = content | strip %}
 {% unless trimmed == '' %}
 <section class="bg-background-light py-12">
   <div class="container mx-auto px-4">
     <div class="richtext max-w-4xl">
-      {{ page.content }}
+      {{ content }}
     </div>
   </div>
 </section>
