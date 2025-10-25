@@ -20,17 +20,17 @@ hero_preload: /topbg.webp
 <section class="relative overflow-hidden bg-primary text-white">
   <div class="container mx-auto px-4 py-20">
     <div class="max-w-3xl space-y-5">
-      <p class="text-xs font-semibold uppercase tracking-[0.4em] text-white/70">Bewertungen</p>
+      <p class="text-l font-semibold uppercase tracking-[0.4em] text-primary-light">Bewertungen</p>
       <h1 class="text-4xl font-black leading-tight md:text-5xl">Das sagen Kund:innen über Rümpel Räumung</h1>
       <p class="text-lg text-white/90">Transparente Erfahrungsberichte mit dokumentierten Fixpreisen, Wertausgleich und besenreinen Übergaben in ganz Wien &amp; NÖ.</p>
       <div class="grid gap-4 rounded-2xl bg-white/10 p-6 text-sm font-semibold uppercase tracking-[0.2em] text-white md:grid-cols-2">
         <div>
           <p class="text-4xl font-black tracking-normal">{{ average_rating_display | replace: '.', ',' }}</p>
-          <p class="text-xs font-medium uppercase tracking-[0.3em] text-white/70">Durchschnitt</p>
+          <p class="text-xs font-medium uppercase tracking-[0.3em] text-primary-light">Durchschnitt</p>
         </div>
         <div>
           <p class="text-4xl font-black tracking-normal">{{ average_rating_display | replace: '.', ',' }} ★</p>
-          <p class="text-xs font-medium uppercase tracking-[0.3em] text-white/70">Google &amp; ProvenExpert</p>
+          <p class="text-xs font-medium uppercase tracking-[0.3em] text-primary-light">Google &amp; ProvenExpert</p>
         </div>
       </div>
       <div class="flex flex-col gap-3 text-sm font-semibold uppercase tracking-[0.2em] text-white/80 sm:flex-row sm:items-center">
@@ -49,7 +49,7 @@ hero_preload: /topbg.webp
 
 <section class="bg-white py-10">
   <div class="container mx-auto px-4">
-    <div class="flex flex-wrap items-center justify-center gap-4 text-xs font-semibold uppercase tracking-[0.3em] text-primary">
+    <div class="flex flex-wrap items-center justify-center gap-4 text-l font-semibold uppercase tracking-[0.3em] text-primary">
       {% for badge in site.data.trust_bar %}
       <span class="rounded-full border border-primary/20 px-4 py-2 text-center">{{ badge.label }}</span>
       {% endfor %}
@@ -60,7 +60,7 @@ hero_preload: /topbg.webp
 <section class="bg-background-light py-16">
   <div class="container mx-auto px-4">
     <div class="max-w-3xl">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Testimonials</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Bewertungen</p>
       <h2 class="mt-3 text-3xl font-extrabold text-primary">Authentische Erfahrungsberichte aus Wohnungs-, Haus- &amp; Firmenräumungen</h2>
       <p class="mt-4 text-base text-text-light">Jede Geschichte steht für eine erledigte Räumung mit fixiertem Zeitplan, dokumentierter Übergabe und sauberer Abrechnung. Filtern Sie direkt nach Ihrer Situation oder scrollen Sie durch alle Stimmen.</p>
     </div>
@@ -95,7 +95,7 @@ hero_preload: /topbg.webp
   <div class="container mx-auto px-4">
     <div class="grid gap-12 lg:grid-cols-2">
       <div class="space-y-5">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Warum das Feedback zählt</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Warum das Feedback zählt</p>
         <h3 class="text-3xl font-extrabold text-primary">Jede Bewertung fließt in bessere Abläufe und transparente Angebote ein</h3>
         <p class="text-base text-text-light">Ob Dachbodenräumung, Büroauflösung oder Messie-Spezialfall – wir analysieren jedes Kundenfeedback und verbessern daraus Logistik, Wertausgleich und Dokumentation. So stellen wir sicher, dass der nächste Einsatz noch reibungsloser abläuft.</p>
         <ul class="space-y-3 text-base text-text-light">
@@ -105,7 +105,7 @@ hero_preload: /topbg.webp
         </ul>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Gratis Angebot</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Gratis Angebot</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Ersteinschätzung &amp; Fixpreis erhalten</h3>
         <p class="mt-2 text-sm text-text-light">Laden Sie Fotos hoch oder schildern Sie kurz den Umfang. Wir melden uns innerhalb eines Werktags.</p>
         <div class="mt-6">

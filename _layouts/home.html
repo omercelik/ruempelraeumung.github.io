@@ -7,7 +7,7 @@ layout: default
 <section class="relative overflow-hidden text-white bg-primary/95 bg-center bg-cover bg-no-repeat" data-hero-banner style="--hero-mobile: url('{{ hero_mobile | relative_url }}'); --hero-desktop: url('{{ hero_desktop | relative_url }}');">
   <div class="container mx-auto px-4 py-20 text-white">
     <div class="max-w-3xl space-y-5">
-      <p class="text-xs font-semibold uppercase tracking-[0.4em] text-primary-accent">Entrümpelung Wien &amp; NÖ</p>
+      <p class="text-l font-semibold uppercase tracking-[0.4em] text-primary-accent">Entrümpelung Wien &amp; NÖ</p>
       <h1 class="text-4xl font-black leading-tight md:text-5xl" data-hero-heading>{{ page.hero.title }}</h1>
       <p class="text-lg text-white/90 md:text-xl">{{ page.hero.subtitle }}</p>
       <div class="flex flex-col gap-3 sm:flex-row">
@@ -24,7 +24,7 @@ layout: default
 </section>
 <section class="bg-white defer-section">
   <div class="container mx-auto px-4 py-6">
-    <div class="flex flex-col gap-3 text-center text-xs font-semibold uppercase tracking-[0.3em] text-primary md:flex-row md:flex-wrap md:items-center md:justify-center">
+    <div class="flex flex-col gap-3 text-center text-l font-semibold uppercase tracking-[0.3em] text-primary md:flex-row md:flex-wrap md:items-center md:justify-center">
       {% for badge in site.data.trust_bar %}
       <span class="trust-badge">{{ badge.label }}</span>
       {% endfor %}
@@ -54,7 +54,7 @@ layout: default
 <section class="bg-white py-16 defer-section" id="leistungen">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Services</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Services</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Alle Leistungen &amp; Spezialfälle</h2>
       <p class="mt-2 text-base text-text-light">{{ page.services_intro }}</p>
     </div>
@@ -75,7 +75,7 @@ layout: default
 <section class="bg-background-light py-16 defer-section">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Trifecta of Trust</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Trifecta of Trust</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Warum Sie uns wählen sollten</h2>
       <p class="mt-2 text-base text-text-light">{{ page.why_intro }}</p>
     </div>
@@ -93,7 +93,7 @@ layout: default
 <section class="bg-white py-16 defer-section" id="ratgeber">
   <div class="container mx-auto px-4">
     <div class="text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Ratgeber</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Ratgeber</p>
       <h2 class="mt-2 text-3xl font-extrabold text-primary">Lokales Wissen rund um Entrümpelungen</h2>
       <p class="mt-2 text-base text-text-light">Tipps zu Behördenwegen, Kosten und Spezialfällen – damit Sie jede Räumung souverän planen.</p>
     </div>
@@ -156,7 +156,7 @@ layout: default
   <div class="container mx-auto px-4">
     <div class="grid gap-12 lg:grid-cols-2">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">FAQ</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">FAQ</p>
         <h2 class="mt-2 text-3xl font-extrabold text-primary">Häufige Fragen</h2>
         <p class="mt-3 text-base text-text-light">Direkte Antworten, damit Kund:innen schnell Klarheit zu Preisen, Ablauf und Wertausgleich erhalten.</p>
         <div class="mt-8 space-y-4">
@@ -172,7 +172,7 @@ layout: default
         </div>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl" id="angebot">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-light">Gratis Angebot</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-light">Gratis Angebot</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Kostenlose Besichtigung &amp; Fixpreis erhalten</h3>
         <p class="mt-2 text-sm text-text-light">Nur die wichtigsten Felder + Foto-Upload für eine schnelle Ersteinschätzung.</p>
         <div class="mt-6">

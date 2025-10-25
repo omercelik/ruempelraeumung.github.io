@@ -8,7 +8,7 @@ kicker: "Standorte"
 <section class="bg-white py-16">
   <div class="container mx-auto px-4">
     <div class="max-w-3xl">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.kicker }}</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.kicker }}</p>
       <h1 class="mt-3 text-4xl font-black text-primary">Wien bleibt Kerngebiet – wir erweitern für Sie</h1>
       <p class="mt-4 text-lg text-text-light">
         Über 80&nbsp;% unserer Einsätze finden in Wien statt – deshalb bleiben dort Teams, Lager und Halteverbotsmaterialien stationiert. Für Kund:innen mit
@@ -30,7 +30,7 @@ kicker: "Standorte"
 <section class="bg-background-light py-16">
   <div class="container mx-auto px-4">
     <div class="flex flex-col gap-3 text-center">
-      <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Bundesland wählen</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Bundesland wählen</p>
       <h2 class="text-3xl font-extrabold text-primary">Standort auswählen & Details öffnen</h2>
       <p class="text-base text-text-light">Zuerst Wien, dann Niederösterreich und Burgenland – innerhalb jedes Bundeslands finden Sie unsere Bezirks- und Regionsseiten.</p>
     </div>
@@ -44,7 +44,7 @@ kicker: "Standorte"
       {% assign locations = site.districts | where: 'state', state.slug | sort: 'title' %}
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
         <div>
-          <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary">{{ state.kicker | default: 'Bundesland' }}</p>
+          <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ state.kicker | default: 'Bundesland' }}</p>
           <h3 class="mt-2 text-xl font-bold text-primary">Entrümpelung in {{ state.title }}</h3>
           <p class="mt-2 text-sm text-text-light">{{ state.description }}</p>
           <ul class="mt-4 space-y-1 text-sm text-primary">
@@ -73,7 +73,7 @@ kicker: "Standorte"
   <div class="container mx-auto px-4">
     <div class="grid gap-8 lg:grid-cols-2">
       <div class="space-y-4">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Serviceversprechen</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Serviceversprechen</p>
         <h2 class="text-3xl font-extrabold text-primary">Fixpreis + Wertausgleich für jeden Bezirk</h2>
         <p class="text-base text-text-light">
           Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,
@@ -87,7 +87,7 @@ kicker: "Standorte"
         </ul>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl">
-        <p class="text-xs font-semibold uppercase tracking-[0.3em] text-primary-accent">Schnelle Anfrage</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Schnelle Anfrage</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Noch nicht sicher, welcher Bezirk passt?</h3>
         <p class="mt-2 text-sm text-text-light">
           Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.
