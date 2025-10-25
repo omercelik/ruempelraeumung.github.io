@@ -24,4 +24,3 @@ Diskrete und professionelle Unterstützung für besondere und anspruchsvolle Sit
 
 *   **[Verlassenschaften (Nachlassräumung)](./verlassenschaft/)**
 *   **[Messie-Entrümpelung](./messie-entruempelung/)**
-*   **[Sperrmüllabholung](./sperrmuellabholung/)**
