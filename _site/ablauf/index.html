@@ -49,14 +49,14 @@
 <meta property="og:locale" content="de" />
 <meta name="description" content="Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe." />
 <meta property="og:description" content="Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe." />
-<link rel="canonical" href="http://localhost:4000/ablauf/" />
-<meta property="og:url" content="http://localhost:4000/ablauf/" />
+<link rel="canonical" href="https://ruempelraeumung.omercelik.com/ablauf/" />
+<meta property="og:url" content="https://ruempelraeumung.omercelik.com/ablauf/" />
 <meta property="og:site_name" content="Rümpel Räumung" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Ihr Weg zur besenreinen Immobilie" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe.","headline":"Ihr Weg zur besenreinen Immobilie","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/logo.svg"}},"url":"http://localhost:4000/ablauf/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe.","headline":"Ihr Weg zur besenreinen Immobilie","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://ruempelraeumung.omercelik.com/logo.svg"}},"url":"https://ruempelraeumung.omercelik.com/ablauf/"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -66,8 +66,8 @@
   "@context": "https://schema.org",
   "@type": "HomeAndConstructionBusiness",
   "name": "Rümpel Räumung",
-  "image": "http://localhost:4000/logo.svg",
-  "url": "http://localhost:4000",
+  "image": "https://ruempelraeumung.omercelik.com/logo.svg",
+  "url": "https://ruempelraeumung.omercelik.com",
   "telephone": "+43 660 606 0628",
   "priceRange": "€€",
   "address": {
@@ -191,6 +191,10 @@
             </div>
           </div>
         </div>
+        <a class="flex items-center gap-1 text-sm font-semibold transition hover:text-primary-accent" href="/leistungen/">
+          Alle Leistungen
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
         <div class="group relative">
           <button class="flex items-center gap-1 hover:text-primary-accent focus:outline-none" type="button">
             Bezirke
@@ -211,6 +215,10 @@
             </ul>
           </div>
         </div>
+        <a class="flex items-center gap-1 text-sm font-semibold transition hover:text-primary-accent" href="/bezirke/">
+          Alle Bezirke
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
         
         <a class="hover:text-primary-accent transition" href="/ablauf/">Ablauf</a>
         
@@ -238,10 +246,13 @@
 </header>
 
       <div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-primary/95 text-white backdrop-blur-md md:hidden" data-mobile-menu>
-  <div class="flex items-center justify-between border-b border-white/20 p-4">
-    <p class="text-lg font-semibold">Navigation</p>
-    <button class="text-white" onclick="mobileMenuToggle()" aria-label="Menü schließen">
-      <span class="material-symbols-outlined text-3xl">close</span>
+  <div class="flex items-center justify-between gap-4 border-b border-white/20 p-4">
+    <a href="/" class="flex max-w-[65vw] items-center gap-3">
+      <span class="sr-only">Rümpel Räumung</span>
+      <img src="/logo.svg" alt="Rümpel Räumung" class="h-8 w-auto" width="808" height="270" />
+    </a>
+    <button class="flex h-12 w-14 shrink-0 items-center justify-center text-white" onclick="mobileMenuToggle()" aria-label="Menü schließen">
+      <span class="material-symbols-outlined text-[40px] leading-none">close</span>
     </button>
   </div>
   <div class="flex-1 overflow-y-auto px-4 py-6">
@@ -291,6 +302,10 @@
           </ul>
         </div>
         
+        <a class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="/leistungen/" onclick="mobileMenuToggle()">
+          Alle Leistungen ansehen
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
       </div>
     </div>
     <div class="mt-4">
@@ -308,6 +323,10 @@
         
         <a class="block hover:text-primary-accent" href="/leistungen/haushaltsaufloesung-1220-wien/" onclick="mobileMenuToggle()">1220 Donaustadt</a>
         
+        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="/bezirke/" onclick="mobileMenuToggle()">
+          Alle Bezirke anzeigen
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
       </div>
     </div>
     <div class="mt-6 space-y-2">
@@ -488,6 +507,7 @@
           
           <li><a class="hover:text-primary-accent" href="/leistungen/haushaltsaufloesung-1220-wien/">1220 Donaustadt</a></li>
           
+          <li><a class="hover:text-primary-accent font-semibold" href="/bezirke/">Alle Bezirke</a></li>
         </ul>
       </div>
       <div>

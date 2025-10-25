@@ -27,6 +27,7 @@
           {% for district in site.data.navigation.districts %}
           <li><a class="hover:text-primary-accent" href="{{ district.url | relative_url }}">{{ district.title }}</a></li>
           {% endfor %}
+          <li><a class="hover:text-primary-accent font-semibold" href="{{ '/bezirke/' | relative_url }}">Alle Bezirke</a></li>
         </ul>
       </div>
       <div>

@@ -1,5 +1,5 @@
 # LLM Resource Index – Rümpel Räumung
-_Generated 2025-10-25 12:19 BST_
+_Generated 2025-10-25 12:52 BST_
 
 This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry or `/llms-sources.md` for a Markdown export.
 
@@ -20,6 +20,8 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 - [Ihr Weg zur besenreinen Immobilie](/ablauf/): Der Entrümpelungsprozess in vier transparenten Schritten – von der kostenlosen Besichtigung bis zur dokumentierten Übergabe.
 
 - [Kostenloses Angebot anfordern](/angebot/): Kostenlose Vor-Ort-Besichtigung, schriftlicher Fixpreis & Wertausgleich. Nutzen Sie das Formular oder rufen Sie uns an.
+
+- [Entrümpelung in allen Wiener Bezirken](/bezirke/): Alle Standortseiten von Rümpel Räumung auf einen Blick – inklusive direkter Links zu den jeweiligen Leistungen in Ihrem Bezirk.
 
 - [Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.](/content/): Wiens zuverlässigster Partner für Entrümpelung &amp; Haushaltsauflösung.
 
@@ -90,6 +92,8 @@ This document lists every public page in a crawler-friendly hierarchy. Fetch `/l
 
 ## Bezirke
 
+
+- [Entrümpelung 1070 Wien Neubau](/leistungen/entruempelung-1070-wien-neubau/): Professionelle Entrümpelung in 1070 Wien Neubau. Garantierter Fixpreis, Wertanrechnung für Ihre Schätze & kostenlose Besichtigung. Wir kümmern uns um alles! ...
 
 - [Haushaltsauflösung 1010 Wien](/leistungen/haushaltsaufloesung-1010-wien/): Spezialisierte Teams für Haushaltsauflösungen in der Inneren Stadt – inklusive Halteverbotszone und Wertausgleich.
 
