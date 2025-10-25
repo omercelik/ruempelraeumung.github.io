@@ -6,14 +6,14 @@ state: wien
 region_type: Bezirk
 hero_image: /topbg.webp
 highlights:
-  - City-taugliche Teams für hippe Dachböden & Co-Living-Flächen
+  - City-taugliche Teams für hippe [Dachböden](/leistungen/dachbodenraeumung/) & Co-Living-Flächen
   - Erfahrung mit Retailflächen entlang der Mariahilfer Straße
   - Nachhaltige Verwertung von Deko, Fashion und Technik
   - Logistikplanung für hochfrequentierte Fußgängerzonen
 checklist:
   - Designerwohnungen zwischen Museumsquartier & Esterházygasse
-  - Flagship-Stores, Pop-up-Shops und Lager hinter der Mariahilfer Straße
-  - Kellergewölbe & Proberäume in Gründerzeithäusern
+  - Flagship-Stores, Pop-up-Shops und [Lager](/leistungen/lagerraeumung/) hinter der Mariahilfer Straße
+  - [Kellergewölbe](/leistungen/kellerraeumung/) & Proberäume in Gründerzeithäusern
   - Wohnungen in den ruhigen Seitengassen der Gumpendorfer Straße
 process:
   - title: Standort-Scouting

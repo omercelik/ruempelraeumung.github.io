@@ -12,8 +12,8 @@ highlights:
   - Logistik für die engen Gassen der Altstadt und die modernen Gewerbegebiete
 checklist:
   - Reihenhäuser und Villen in Wiener Neudorf, Maria Enzersdorf & Perchtoldsdorf
-  - Dachgeschosswohnungen an der Stadtgrenze zu Wien-Liesing
-  - Ateliers, Büros und Werkstätten im Wirtschaftspark Mödling und IZ NÖ-Süd
+  - [Dachgeschosswohnungen](/leistungen/dachbodenraeumung/) an der Stadtgrenze zu Wien-Liesing
+  - [Ateliers, Büros und Werkstätten](/leistungen/firmenaufloesung/) im Wirtschaftspark Mödling und IZ NÖ-Süd
   - Wohnungen in der historischen Altstadt von Mödling
 process:
   - title: Kostenlose Besichtigung & Planung

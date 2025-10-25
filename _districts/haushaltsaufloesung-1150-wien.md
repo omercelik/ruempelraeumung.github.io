@@ -12,8 +12,8 @@ highlights:
   - Logistikplanung für die hochfrequentierte Umgebung des Westbahnhofs
 checklist:
   - Miethäuser zwischen Gürtel, Westbahnhof und der Schmelz
-  - Proberäume, Lagereinheiten & Studios rund um die Wiener Stadthalle
-  - Einzelhandels- & Gastronomieflächen an der äußeren Mariahilfer Straße
+  - Proberäume, [Lagereinheiten](/leistungen/kellerraeumung/) & Studios rund um die Wiener Stadthalle
+  - [Einzelhandels- & Gastronomieflächen](/leistungen/firmenaufloesung/) an der äußeren Mariahilfer Straße
   - Wohnungen in den multikulturellen und lebendigen Grätzeln des Bezirks
 process:
   - title: Objektanalyse & Planung

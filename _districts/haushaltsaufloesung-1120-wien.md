@@ -12,8 +12,8 @@ highlights:
   - Logistik für belebte Geschäftsstraßen und ruhige Wohnviertel
 checklist:
   - Zinshäuser entlang der Wienzeile & am Margaretengürtel
-  - Familienhäuser, Gärten und Garagen in Hetzendorf & Altmannsdorf
-  - Gewerbeflächen im Business Park Vienna und Euro Plaza
+  - Familienhäuser, [Gärten](/leistungen/raeumung/) und Garagen in Hetzendorf & Altmannsdorf
+  - [Gewerbeflächen](/leistungen/firmenaufloesung/) im Business Park Vienna und Euro Plaza
   - Wohnungen in den großen Wohnhausanlagen wie dem "Am Schöpfwerk"
 process:
   - title: Vor-Ort-Check & Planung

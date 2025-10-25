@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Altbauwohnungen im Zentrum & entlang der Braitnerstraße und Antonsgasse
   - Villen in der Helenenstraße, im Rauhenstein-Viertel und in den umliegenden Weingegenden
-  - Gewerbeobjekte & Kurbetriebe in Bad Vöslau und Baden
-  - Weinkeller, Presshäuser und landwirtschaftliche Nebengebäude
+  - [Gewerbeobjekte](/leistungen/firmenaufloesung/) & Kurbetriebe in Bad Vöslau und Baden
+  - [Weinkeller](/leistungen/kellerraeumung/), Presshäuser und landwirtschaftliche Nebengebäude
 process:
   - title: Kostenlose Besichtigung & Wertanalyse
     description: Wir prüfen Ihr Inventar, bewerten technische Geräte und Sammlungen und rechnen Ihnen alle verwertbaren Stücke direkt auf den Preis an.

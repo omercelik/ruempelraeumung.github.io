@@ -12,8 +12,8 @@ highlights:
   - Logistik für die belebten Gebiete rund um den Hannovermarkt
 checklist:
   - Gemeindebauten, Loftwohnungen & Penthouses am Donaukanal und an der Donau
-  - Büroflächen & Shops in der Millennium City und Umgebung
-  - Kellerräume, Lagerflächen und Hausverwaltungsbestände im 20. Bezirk
+  - [Büroflächen & Shops](/leistungen/firmenaufloesung/) in der Millennium City und Umgebung
+  - [Kellerräume, Lagerflächen](/leistungen/kellerraeumung/) und Hausverwaltungsbestände im 20. Bezirk
   - Wohnungen in den multikulturellen und lebendigen Grätzeln rund um den Wallensteinplatz
 process:
   - title: Detaillierte Objektanalyse

@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Gemeindewohnungen (z.B. am Antonsplatz oder in der Per-Albin-Hansson-Siedlung)
   - Reihenhäuser und Einfamilienhäuser am Laaer Berg und in Oberlaa
-  - Keller, Dachböden und Gemeinschaftsräume in den großen Wohnhausanlagen
+  - [Keller](/leistungen/kellerraeumung/), [Dachböden](/leistungen/dachbodenraeumung/) und Gemeinschaftsräume in den großen Wohnhausanlagen
   - Wohnungen in den modernen Hochhäusern der Wienerberg City
 process:
   - title: Kapazitätsplanung

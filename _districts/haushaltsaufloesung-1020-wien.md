@@ -12,9 +12,9 @@ highlights:
   - Logistik für enge Gassen & Kurzparkzonen
 checklist:
   - Wohnungen im Stuwerviertel & Nordbahnviertel
-  - Kellerabteile & Tiefgaragenboxen
+  - [Kellerabteile](/leistungen/kellerraeumung/) & Tiefgaragenboxen
   - Balkone & Terrassen inklusive Pflanzenentsorgung
-  - Büros nahe der Messe Wien oder am Donaukanal
+  - [Büros](/leistungen/firmenaufloesung/) nahe der Messe Wien oder am Donaukanal
 process:
   - title: Besichtigung & Bestandsaufnahme
     description: Wir sichten Innenhöfe, Aufzüge und Zufahrten, um den besten Ablauf zu planen – egal ob im Altbau am Augarten oder im Neubau bei der WU.

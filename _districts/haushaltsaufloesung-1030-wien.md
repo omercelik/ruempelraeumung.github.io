@@ -12,9 +12,9 @@ highlights:
   - Logistik für die Landstraßer Hauptstraße & Seitengassen
 checklist:
   - Stadtwohnungen zwischen Belvedere, Rochusviertel & Erdberg
-  - Kanzleien, Serviced Apartments & Diplomatenwohnungen
-  - Start-ups, Labore & Lagerflächen im Neu Marx Areal
-  - Keller und Dachböden in den Gemeindebauten des Fasanviertels
+  - [Kanzleien](/leistungen/firmenaufloesung/), Serviced Apartments & Diplomatenwohnungen
+  - Start-ups, Labore & [Lagerflächen](/leistungen/lagerraeumung/) im Neu Marx Areal
+  - [Keller](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/) in den Gemeindebauten des Fasanviertels
 process:
   - title: Umfeldanalyse
     description: Wir prüfen Lieferfenster, Ladezonen und Sicherheitsvorgaben, besonders im diplomatischen Viertel.

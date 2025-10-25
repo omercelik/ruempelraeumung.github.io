@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Altbauwohnungen am Hamerlingpark & Piaristenplatz
   - Theaterdepots, Probebühnen und Kostümfundus
-  - Kanzleien & Ordinationen entlang der Josefstädter Straße
+  - [Kanzleien](/leistungen/firmenaufloesung/) & [Ordinationen](/leistungen/firmenaufloesung/) entlang der Josefstädter Straße
   - Wohnungen in den historischen Palais und Zinshäusern
 process:
   - title: Substanzschutz

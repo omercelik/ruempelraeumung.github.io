@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Ärztewohnungen und WG-Zimmer rund um die MedUni und das Juridicum
   - Palais-Wohnungen im Servitenviertel und am Donaukanal
-  - Beratungsbüros & NGOs bei der Alser Straße und Währinger Straße
-  - Keller und Dachböden in den Gründerzeithäusern des französischen Viertels
+  - [Beratungsbüros](/leistungen/firmenaufloesung/) & NGOs bei der Alser Straße und Währinger Straße
+  - [Keller](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/) in den Gründerzeithäusern des französischen Viertels
 process:
   - title: Terminabstimmung & Logistik
     description: Wir koordinieren uns mit Hausverwaltungen, Ordinationen und organisieren Halteverbotszonen in den engen Gassen.
