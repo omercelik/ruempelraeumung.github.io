@@ -12,9 +12,9 @@ highlights:
   - Logistik für die Landstraßer Hauptstraße & Seitengassen
 checklist:
   - Stadtwohnungen zwischen Belvedere, Rochusviertel & Erdberg
-  - [Kanzleien](/leistungen/firmenaufloesung/), Serviced Apartments & Diplomatenwohnungen
-  - Start-ups, Labore & [Lagerflächen](/leistungen/lagerraeumung/) im Neu Marx Areal
-  - [Keller](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/) in den Gemeindebauten des Fasanviertels
+  - Kanzleien, Serviced Apartments & Diplomatenwohnungen
+  - Start-ups, Labore & Lagerflächen im Neu Marx Areal
+  - Keller und Dachböden in den Gemeindebauten des Fasanviertels
 process:
   - title: Umfeldanalyse
     description: Wir prüfen Lieferfenster, Ladezonen und Sicherheitsvorgaben, besonders im diplomatischen Viertel.
@@ -46,4 +46,4 @@ Die Landstraßer Hauptstraße, eine der wichtigsten Verkehrsadern Wiens, stellt 
 
 ### Von Gründerzeit bis zu den Triiiple Towers
 
-Die Architektur im 3. Bezirk ist so vielfältig wie seine Bewohner. In den prächtigen Gründerzeithäusern nahe dem Belvedere oder dem Rennweg sind oft keine Aufzüge vorhanden. Unsere erfahrenen Teams sind geschult, auch schwere Möbelstücke sicher durch enge, historische Stiegenhäuser zu transportieren, ohne Wände oder Geländer zu beschädigen. Im Gegensatz dazu erfordern die modernen Wohn- und Bürotürme wie die **Triiiple Towers** oder die Gebäude in Neu Marx eine enge Abstimmung mit der Hausverwaltung, um Lastenaufzüge und Ladezonen optimal zu nutzen. Wir schützen empfindliche Böden und hochwertige Oberflächen mit speziellem Abdeckmaterial und arbeiten stets sauber und effizient.
+Die Architektur im 3. Bezirk ist so vielfältig wie seine Bewohner. In den prächtigen Gründerzeithäusern nahe dem Belvedere oder dem Rennweg sind oft keine Aufzüge vorhanden. Unsere erfahrenen Teams sind geschult, auch schwere Möbelstücke sicher durch enge, historische Stiegenhäuser zu transportieren, ohne Wände oder Geländer zu beschädigen. Im Gegensatz dazu erfordern die modernen Wohn- und Bürotürme wie die **Triiiple Towers** oder die Gebäude in Neu Marx eine enge Abstimmung mit der Hausverwaltung, um Lastenaufzüge und Ladezonen optimal zu nutzen. Wir schützen empfindliche Böden und hochwertige Oberflächen mit speziellem Abdeckmaterial und arbeiten stets sauber und effizient, egal ob es sich um eine [Kanzleiauflösung](/leistungen/firmenaufloesung/), die Räumung von [Lagerräumen](/leistungen/lagerraeumung/) oder die Entrümpelung von [Kellern](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/) handelt.

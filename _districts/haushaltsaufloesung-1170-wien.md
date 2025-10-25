@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Familienhäuser und Villen in Dornbach & Neuwaldegg
   - Gründerzeithäuser und Gemeindebauten rund um den Elterleinplatz
-  - [Werkstätten](/leistungen/firmenaufloesung/), [Lager](/leistungen/kellerraeumung/) und Ateliers entlang der Hernalser Hauptstraße
+  - Werkstätten, Lager und Ateliers entlang der Hernalser Hauptstraße
   - Wohnungen in den Cottage-Vierteln mit empfindlicher Bausubstanz
 process:
   - title: Zugang & Geländecheck
@@ -46,4 +46,4 @@ Die Topografie von Hernals ist anspruchsvoll. Die steilen Hänge und engen Gasse
 
 ### Von der Biedermeierwohnung zur Winzervilla
 
-Die Architektur in Hernals ist so vielfältig wie der Bezirk selbst. Von der klassischen Biedermeierwohnung über die großen Gemeindebauten bis hin zur großzügigen Winzervilla – jede Immobilie hat ihren eigenen Charakter und erfordert eine angepasste Vorgehensweise. Bei der Räumung von historischen Gebäuden legen wir größten Wert auf den Schutz der Bausubstanz. Bei der Auflösung von Häusern in den Heurigengegenden kümmern wir uns auch um die fachgerechte Entsorgung von landwirtschaftlichen Geräten oder alten Weinfässern. Wir arbeiten stets mit der nötigen Sorgfalt, dem Respekt vor dem Eigentum unserer Kunden und dem Wissen um die Besonderheiten dieses charmanten Bezirks.
+Die Architektur in Hernals ist so vielfältig wie der Bezirk selbst. Von der klassischen Biedermeierwohnung über die großen Gemeindebauten bis hin zur großzügigen Winzervilla – jede Immobilie hat ihren eigenen Charakter und erfordert eine angepasste Vorgehensweise. Bei der Räumung von historischen Gebäuden legen wir größten Wert auf den Schutz der Bausubstanz. Bei der Auflösung von Häusern in den Heurigengegenden kümmern wir uns auch um die fachgerechte Entsorgung von landwirtschaftlichen Geräten oder alten Weinfässern. Wir arbeiten stets mit der nötigen Sorgfalt, dem Respekt vor dem Eigentum unserer Kunden und dem Wissen um die Besonderheiten dieses charmanten Bezirks, egal ob es sich um [Werkstätten](/leistungen/firmenaufloesung/) oder [Lager](/leistungen/kellerraeumung/) handelt.

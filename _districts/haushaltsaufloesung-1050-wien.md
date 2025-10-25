@@ -11,9 +11,9 @@ highlights:
   - Transparente Fixpreise für Kleinunternehmen entlang der Siebenbrunnengasse
   - Logistiklösungen für dicht besiedelte Wohngebiete
 checklist:
-  - Gemeindebauten & [Dachböden](/leistungen/dachbodenraeumung/) im Herzen von Margareten
-  - Lokale Shops, Werkstätten & [Kreativbüros](/leistungen/firmenaufloesung/) bei der Margaretenstraße
-  - [Kellerabteile](/leistungen/kellerraeumung/) und [Lagerräume](/leistungen/lagerraeumung/) im Gründerzeitgürtel
+  - Gemeindebauten & Dachböden im Herzen von Margareten
+  - Lokale Shops, Werkstätten & Kreativbüros bei der Margaretenstraße
+  - Kellerabteile und Lagerräume im Gründerzeitgürtel
   - Wohnungen in den Arbeiter-und-Angestellten-Bauten der 20er und 30er Jahre
 process:
   - title: Zugang & Genehmigungen
@@ -46,4 +46,4 @@ Die Parkplatzsituation in Margareten ist notorisch angespannt. Um einen reibungs
 
 ### Ein Bezirk im Wandel
 
-Margareten hat sich in den letzten Jahren zu einem lebendigen Kreativ-Hotspot entwickelt. Neben den traditionellen Wohnungen finden sich hier zahlreiche Ateliers, kleine Werkstätten und Designbüros. Bei der Auflösung solcher Kreativflächen achten wir besonders auf den sorgfältigen Umgang mit empfindlichen Materialien und Geräten. Ob es sich um eine klassische Wohnung im Matzleinsdorfer Hochhaus, ein Geschäftslokal in der Reinprechtsdorfer Straße oder ein Künstleratelier im Schlossquadrat handelt – wir bieten für jede Anforderung die passende Lösung und sorgen für eine schnelle und professionelle Räumung.
+Margareten hat sich in den letzten Jahren zu einem lebendigen Kreativ-Hotspot entwickelt. Neben den traditionellen Wohnungen finden sich hier zahlreiche Ateliers, kleine Werkstätten und Designbüros. Bei der Auflösung solcher Kreativflächen achten wir besonders auf den sorgfältigen Umgang mit empfindlichen Materialien und Geräten. Ob es sich um eine klassische Wohnung im Matzleinsdorfer Hochhaus, die Räumung von [Kellern](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/), ein [Geschäftslokal](/leistungen/firmenaufloesung/) in der Reinprechtsdorfer Straße oder ein Künstleratelier im Schlossquadrat handelt – wir bieten für jede Anforderung die passende Lösung und sorgen für eine schnelle und professionelle Räumung.

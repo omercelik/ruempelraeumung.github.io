@@ -12,8 +12,8 @@ highlights:
   - Erfahrung mit den großen Gemeindebauten und den ländlichen Gebieten des Bezirks
 checklist:
   - Einfamilienhäuser in Stammersdorf, Jedlersdorf & Strebersdorf
-  - Kleingartenvereine, Wochenendhäuser und [Weinkeller](/leistungen/kellerraeumung/) am Bisamberg
-  - [Gewerbeparks, Lagerflächen und Autowerkstätten](/leistungen/firmenaufloesung/) entlang der Brünner Straße
+  - Kleingartenvereine, Wochenendhäuser und Weinkeller am Bisamberg
+  - Gewerbeparks, Lagerflächen und Autowerkstätten entlang der Brünner Straße
   - Wohnungen in den großen Wohnhausanlagen wie der Großfeldsiedlung
 process:
   - title: Detaillierter Geländeplan
@@ -46,4 +46,4 @@ Die Weitläufigkeit Floridsdorfs stellt besondere Anforderungen an die Logistik.
 
 ### Ein Bezirk für alle Lebenslagen
 
-Die Vielfalt der Immobilien in Floridsdorf ist beeindruckend. Ob es sich um die Auflösung einer kleinen Wohnung in einem der zahlreichen Gemeindebauten, die Räumung eines Einfamilienhauses mit großem Garten in Jedlesee oder die Entrümpelung eines Weinkellers in Stammersdorf handelt – wir haben für jede Situation die passende Lösung. Wir kennen die Besonderheiten der großen Wohnhausanlagen und arbeiten eng mit den Hausverwaltungen zusammen. Gleichzeitig haben wir das nötige Know-how, um landwirtschaftliche Geräte, Werkzeuge oder sogar ganze Fuhrparks fair zu bewerten und einer neuen Verwendung zuzuführen.
+Die Vielfalt der Immobilien in Floridsdorf ist beeindruckend. Ob es sich um die Auflösung einer kleinen Wohnung in einem der zahlreichen Gemeindebauten, die Räumung eines Einfamilienhauses mit großem Garten in Jedlesee oder die Entrümpelung eines [Weinkellers](/leistungen/kellerraeumung/) in Stammersdorf handelt – wir haben für jede Situation die passende Lösung. Wir kennen die Besonderheiten der großen Wohnhausanlagen und arbeiten eng mit den Hausverwaltungen zusammen. Gleichzeitig haben wir das nötige Know-how, um landwirtschaftliche Geräte, Werkzeuge oder sogar ganze Fuhrparks fair zu bewerten und einer neuen Verwendung zuzuführen, auch im Falle von [Gewerbeparks, Lagerflächen und Autowerkstätten](/leistungen/firmenaufloesung/).

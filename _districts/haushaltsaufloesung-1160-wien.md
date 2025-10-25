@@ -11,9 +11,9 @@ highlights:
   - Fixpreise inklusive Keller, Dachboden und Innenhof
   - Logistik für die belebten Märkte und die ruhigen Villenviertel
 checklist:
-  - Bauernmärkte, Lofts & [Start-up-Flächen](/leistungen/firmenaufloesung/) beim Brunnenviertel und Yppenplatz
+  - Bauernmärkte, Lofts & Start-up-Flächen beim Brunnenviertel und Yppenplatz
   - Einfamilienhäuser und Villen am Wilhelminenberg und in Neuwaldegg
-  - [Produktionsflächen & Werkstätten](/leistungen/firmenaufloesung/) entlang des Gürtels
+  - Produktionsflächen & Werkstätten entlang des Gürtels
   - Wohnungen in den traditionellen Zinshäusern und Gemeindebauten
 process:
   - title: Vor-Ort-Analyse
@@ -46,4 +46,4 @@ Das rege Treiben rund um den **Brunnenmarkt**, einen der längsten Straßenmärk
 
 ### Ein Bezirk mit Geschichte und Zukunft
 
-Ottakring blickt auf eine lange Geschichte als Arbeiter- und Industriebezirk zurück. Viele ehemalige Fabriksetagen und Hinterhofwerkstätten werden heute als Ateliers, Lofts oder Start-up-Büros genutzt. Bei der Räumung solcher Objekte bringen wir unser Know-how im Umgang mit schweren Maschinen und speziellen Materialien ein. Gleichzeitig ist Ottakring ein Bezirk, der sich ständig weiterentwickelt. Ob es sich um die Auflösung einer traditionellen Wohnung, die Räumung eines modernen Penthouses mit Blick über die Stadt oder die Entrümpelung eines Kleingartens in Neuwaldegg handelt – wir arbeiten schnell, professionell und mit dem nötigen Respekt für die Geschichte und die Menschen dieses einzigartigen Bezirks.
+Ottakring blickt auf eine lange Geschichte als Arbeiter- und Industriebezirk zurück. Viele ehemalige Fabriksetagen und Hinterhofwerkstätten werden heute als Ateliers, Lofts oder [Start-up-Büros](/leistungen/firmenaufloesung/) genutzt. Bei der Räumung solcher Objekte, wie auch von [Produktionsflächen & Werkstätten](/leistungen/firmenaufloesung/), bringen wir unser Know-how im Umgang mit schweren Maschinen und speziellen Materialien ein. Gleichzeitig ist Ottakring ein Bezirk, der sich ständig weiterentwickelt. Ob es sich um die Auflösung einer traditionellen Wohnung, die Räumung eines modernen Penthouses mit Blick über die Stadt oder die Entrümpelung eines Kleingartens in Neuwaldegg handelt – wir arbeiten schnell, professionell und mit dem nötigen Respekt für die Geschichte und die Menschen dieses einzigartigen Bezirks.

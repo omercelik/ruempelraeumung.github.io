@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Gemeindewohnungen (z.B. am Antonsplatz oder in der Per-Albin-Hansson-Siedlung)
   - Reihenhäuser und Einfamilienhäuser am Laaer Berg und in Oberlaa
-  - [Keller](/leistungen/kellerraeumung/), [Dachböden](/leistungen/dachbodenraeumung/) und Gemeinschaftsräume in den großen Wohnhausanlagen
+  - Keller, Dachböden und Gemeinschaftsräume in den großen Wohnhausanlagen
   - Wohnungen in den modernen Hochhäusern der Wienerberg City
 process:
   - title: Kapazitätsplanung
@@ -46,4 +46,4 @@ Nirgendwo in Wien gibt es so viele große Wohnhausanlagen wie in Favoriten. Wir 
 
 ### Vom Schrebergarten bis zum Penthouse
 
-Favoriten ist mehr als nur Beton. Die weitläufigen Grünflächen am Laaer Berg und in Oberlaa beherbergen zahlreiche Einfamilienhäuser und Kleingärten. Bei der Auflösung solcher Objekte kümmern wir uns nicht nur um das Haus, sondern auch um Schuppen, Garagen und Gärten. Im krassen Gegensatz dazu stehen die modernen Penthouses und Apartments in der **Wienerberg City**. Hier ist ein besonders sorgfältiger Umgang mit hochwertigen Materialien und Designermöbeln gefragt. Wir schützen empfindliche Oberflächen und arbeiten mit größter Diskretion, um die Privatsphäre der Bewohner zu wahren.
+Favoriten ist mehr als nur Beton. Die weitläufigen Grünflächen am Laaer Berg und in Oberlaa beherbergen zahlreiche Einfamilienhäuser und Kleingärten. Bei der Auflösung solcher Objekte kümmern wir uns nicht nur um das Haus, sondern auch um Schuppen, Garagen und Gärten. Im krassen Gegensatz dazu stehen die modernen Penthouses und Apartments in der **Wienerberg City**. Hier ist ein besonders sorgfältiger Umgang mit hochwertigen Materialien und Designermöbeln gefragt. Wir schützen empfindliche Oberflächen und arbeiten mit größter Diskretion, um die Privatsphäre der Bewohner zu wahren, egal ob es um [Keller](/leistungen/kellerraeumung/) oder [Dachböden](/leistungen/dachbodenraeumung/) geht.

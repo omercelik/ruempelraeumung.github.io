@@ -12,9 +12,9 @@ highlights:
   - Logistik für enge Gassen und hochfrequentierte Bereiche
 checklist:
   - Dachgeschoßwohnungen am Karlsplatz & in der Schleifmühlgasse
-  - Ateliers, Tonstudios und [Agenturbüros](/leistungen/firmenaufloesung/) in ehemaligen Fabriketagen
+  - Ateliers, Tonstudios und Agenturbüros in ehemaligen Fabriketagen
   - Co-Living- und Studentenwohnungen beim Theresianum
-  - [Keller](/leistungen/kellerraeumung/) und [Lagerräume](/leistungen/lagerraeumung/) in den historischen Zinshäusern
+  - Keller und Lagerräume in den historischen Zinshäusern
 process:
   - title: Bestandsaufnahme
     description: Wir kartieren sensible Böden, Glaswände und gebäudetechnische Anlagen, um Schäden zu vermeiden.
@@ -46,4 +46,4 @@ Wieden ist bekannt für seine charmanten, aber oft sehr engen Gassen, wie die Sc
 
 ### Vom Studenten-Apartment bis zur Altbau-Wohnung
 
-Die Nähe zur TU Wien sorgt für eine hohe Dichte an Studentenwohnungen und Co-Living-Spaces, insbesondere rund um das Theresianum. Diese müssen oft schnell und effizient für den nächsten Mieter geräumt werden. Gleichzeitig beherbergt Wieden exklusive Dachgeschosswohnungen mit empfindlichen Designermöbeln und wertvoller Kunst. Wir behandeln jedes Objekt mit der gebotenen Sorgfalt und Diskretion. Ob es sich um eine kleine Studentenwohnung oder eine großzügige Ordination in der Nähe des Karlsplatzes handelt, wir passen unsere Vorgehensweise individuell an die Bedürfnisse unserer Kunden an und sorgen für eine stressfreie Abwicklung.
+Die Nähe zur TU Wien sorgt für eine hohe Dichte an Studentenwohnungen und Co-Living-Spaces, insbesondere rund um das Theresianum. Diese müssen oft schnell und effizient für den nächsten Mieter geräumt werden. Gleichzeitig beherbergt Wieden exklusive Dachgeschosswohnungen mit empfindlichen Designermöbeln und wertvoller Kunst. Wir behandeln jedes Objekt mit der gebotenen Sorgfalt und Diskretion. Ob es sich um eine kleine Studentenwohnung, ein [Agenturbüro](/leistungen/firmenaufloesung/) in einer ehemaligen Fabriketage oder die Entrümpelung von [Kellern](/leistungen/kellerraeumung/) und [Lagerräumen](/leistungen/lagerraeumung/) handelt, wir passen unsere Vorgehensweise individuell an die Bedürfnisse unserer Kunden an und sorgen für eine stressfreie Abwicklung.

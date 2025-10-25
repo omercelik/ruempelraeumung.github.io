@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Cottages, Botschaftsresidenzen und Familienhäuser in Gersthof und Pötzleinsdorf
   - Studentenwohnungen und WGs entlang der Währinger Straße und Gentzgasse
-  - [Schul- und Institutsgebäude](/leistungen/firmenaufloesung/) nahe dem Türkenschanzpark und der BOKU
+  - Schul- und Institutsgebäude nahe dem Türkenschanzpark und der BOKU
   - Empfindliche Bausubstanz in den historischen Zinshäusern
 process:
   - title: Detaillierter Substanz-Check
@@ -46,4 +46,4 @@ Die prächtigen Villen und eleganten Zinshäuser in Währing sind oft architekto
 
 ### Zwischen Universität und Diplomatie
 
-Währing ist nicht nur ein nobler Wohnbezirk, sondern auch ein wichtiger akademischer Standort, geprägt durch die Universität für Bodenkultur (BOKU). Wir haben Erfahrung in der Räumung von Studentenwohnungen, aber auch in der Auflösung von Institutsbibliotheken und Archiven. Die Nähe zu vielen diplomatischen Vertretungen erfordert ein besonderes Maß an Sensibilität und die Einhaltung strengster Datenschutzrichtlinien. Ob es sich um die Auflösung einer großbürgerlichen Wohnung, die Räumung einer Botschaftsresidenz oder die Entrümpelung eines Kellers in einem der charmanten Biedermeierhäuser handelt – wir sind Ihr verlässlicher und diskreter Partner im 18. Bezirk.
+Währing ist nicht nur ein nobler Wohnbezirk, sondern auch ein wichtiger akademischer Standort, geprägt durch die Universität für Bodenkultur (BOKU). Wir haben Erfahrung in der Räumung von Studentenwohnungen, aber auch in der Auflösung von Institutsbibliotheken und Archiven. Die Nähe zu vielen diplomatischen Vertretungen erfordert ein besonderes Maß an Sensibilität und die Einhaltung strengster Datenschutzrichtlinien. Ob es sich um die Auflösung einer großbürgerlichen Wohnung, die Räumung einer Botschaftsresidenz, die Auflösung von [Schul- und Institutsgebäuden](/leistungen/firmenaufloesung/) oder die Entrümpelung eines Kellers in einem der charmanten Biedermeierhäuser handelt – wir sind Ihr verlässlicher und diskreter Partner im 18. Bezirk.

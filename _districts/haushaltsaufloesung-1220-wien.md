@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Einfamilienhäuser & Reihenhäuser in Aspern, Essling und Breitenlee
   - Neubauwohnungen in der Seestadt Aspern und in Kaisermühlen
-  - [Keller](/leistungen/kellerraeumung/), [Gartenhäuser, Schuppen](/leistungen/raeumung/) und Pools
+  - Keller, Gartenhäuser, Schuppen und Pools
   - Wohnungen in den Hochhäusern der Donau City und rund um das Donauzentrum
 process:
   - title: Kostenlose Besichtigung vor Ort
@@ -46,4 +46,4 @@ Die schiere Größe der Donaustadt stellt besondere logistische Anforderungen. U
 
 ### Ein Bezirk für alle Wünsche
 
-Ob es sich um die Räumung eines modernen Lofts in der Seestadt, die Auflösung eines Kleingartens an der Alten Donau oder die Entrümpelung eines alten Bauernhofs in Essling handelt – wir haben für jede Herausforderung die passende Lösung. Wir kennen die Besonderheiten der modernen Wohnkomplexe und stimmen uns eng mit den Hausverwaltungen ab. Gleichzeitig haben wir das nötige Know-how und die Ausrüstung, um Gärten, Schuppen, Pools und sogar kleine Badehäuschen fachgerecht zu räumen. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in allen Teilen der Donaustadt.
+Ob es sich um die Räumung eines modernen Lofts in der Seestadt, die Auflösung eines Kleingartens an der Alten Donau oder die Entrümpelung eines alten Bauernhofs in Essling handelt – wir haben für jede Herausforderung die passende Lösung. Wir kennen die Besonderheiten der modernen Wohnkomplexe und stimmen uns eng mit den Hausverwaltungen ab. Gleichzeitig haben wir das nötige Know-how und die Ausrüstung, um [Gärten, Schuppen](/leistungen/raeumung/), Pools und sogar kleine Badehäuschen fachgerecht zu räumen, sowie [Keller](/leistungen/kellerraeumung/) zu entrümpeln. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in allen Teilen der Donaustadt.

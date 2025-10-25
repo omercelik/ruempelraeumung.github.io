@@ -12,8 +12,8 @@ highlights:
   - Logistik für die belebten Gebiete rund um den Hannovermarkt
 checklist:
   - Gemeindebauten, Loftwohnungen & Penthouses am Donaukanal und an der Donau
-  - [Büroflächen & Shops](/leistungen/firmenaufloesung/) in der Millennium City und Umgebung
-  - [Kellerräume, Lagerflächen](/leistungen/kellerraeumung/) und Hausverwaltungsbestände im 20. Bezirk
+  - Büroflächen & Shops in der Millennium City und Umgebung
+  - Kellerräume, Lagerflächen und Hausverwaltungsbestände im 20. Bezirk
   - Wohnungen in den multikulturellen und lebendigen Grätzeln rund um den Wallensteinplatz
 process:
   - title: Detaillierte Objektanalyse
@@ -46,4 +46,4 @@ Die Brigittenau ist geprägt von einer hohen Bevölkerungsdichte und einer Misch
 
 ### Ein Bezirk mit vielen Gesichtern
 
-Von der Auflösung eines modernen Büros in der **Millennium City** bis zur Räumung einer kleinen Wohnung in einem der zahlreichen Gemeindebauten – die Anforderungen im 20. Bezirk sind vielfältig. Wir bieten für jede Situation die passende Lösung. Bei der Auflösung von Anlegerwohnungen oder Serviced Apartments arbeiten wir schnell und diskret, um Leerstandszeiten zu minimieren. In den großen Wohnhausanlagen stimmen wir uns eng mit den Hausverwaltungen ab, um die Gemeinschaftsbereiche zu schützen und die Nachbarn so wenig wie möglich zu stören. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in der Brigittenau.
+Von der Auflösung eines modernen [Büros in der **Millennium City**](/leistungen/firmenaufloesung/) bis zur Räumung einer kleinen Wohnung in einem der zahlreichen Gemeindebauten – die Anforderungen im 20. Bezirk sind vielfältig. Wir bieten für jede Situation die passende Lösung. Bei der Auflösung von Anlegerwohnungen oder Serviced Apartments arbeiten wir schnell und diskret, um Leerstandszeiten zu minimieren. In den großen Wohnhausanlagen stimmen wir uns eng mit den Hausverwaltungen ab, um die Gemeinschaftsbereiche zu schützen und die Nachbarn so wenig wie möglich zu stören. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in der Brigittenau, inklusive der Räumung von [Kellerräumen und Lagerflächen](/leistungen/kellerraeumung/).

@@ -12,11 +12,11 @@ highlights:
   - Spezialisiert auf die engen Gassen des Spittelbergs
 checklist:
   - Haushalte & Wohnungen inkl. Küchen, Möbeln und Elektrogeräten
-  - [Keller](/leistungen/kellerraeumung/) & [Dachböden](/leistungen/dachbodenraeumung/) in den Biedermeierhäusern
-  - [Büros](/leistungen/firmenaufloesung/) & Studios mit DSGVO-konformer Aktenvernichtung
+  - Keller & Dachböden in den Biedermeierhäusern
+  - Büros & Studios mit DSGVO-konformer Aktenvernichtung
   - Sperrmüll & Einzelstücke vom Kühlschrank bis zur Couch
-  - [Verlassenschaften](/leistungen/verlassenschaft/) mit sensibler Begleitung
-  - [Messie-Wohnungen](/leistungen/messie-entruempelung/) diskret & strukturiert
+  - Verlassenschaften mit sensibler Begleitung
+  - Messie-Wohnungen diskret & strukturiert
 process:
   - title: Kontakt & Termin
     description: Sie melden sich, wir vereinbaren kurzfristig eine kostenlose Besichtigung in Neubau.
@@ -48,4 +48,4 @@ Der 7. Bezirk ist geprägt von wunderschönen, aber oft auch herausfordernden Bi
 
 ### Wertschätzung für das Besondere
 
-Neubau ist ein Bezirk der Individualisten. Hier finden sich in den Wohnungen oft einzigartige Sammlungen, sei es eine umfangreiche Vinyl-Bibliothek, eine Sammlung von Vintage-Möbeln oder wertvolle Kunst. Wir wissen diesen Schatz zu schätzen. Unsere Experten für Wertanrechnung bewerten Ihre Gegenstände fair und transparent, sodass sich der Wert Ihrer Schätze direkt in einem geringeren Preis für die Haushaltsauflösung niederschlägt. So schaffen wir nicht nur Platz für Neues, sondern sorgen auch dafür, dass Gutes und Schönes erhalten bleibt.
+Neubau ist ein Bezirk der Individualisten. Hier finden sich in den Wohnungen oft einzigartige Sammlungen, sei es eine umfangreiche Vinyl-Bibliothek, eine Sammlung von Vintage-Möbeln oder wertvolle Kunst. Wir wissen diesen Schatz zu schätzen. Unsere Experten für Wertanrechnung bewerten Ihre Gegenstände fair und transparent, sodass sich der Wert Ihrer Schätze direkt in einem geringeren Preis für die Haushaltsauflösung niederschlägt. Ob es sich um [Büros](/leistungen/firmenaufloesung/), [Keller](/leistungen/kellerraeumung/), [Dachböden](/leistungen/dachbodenraeumung/), [Verlassenschaften](/leistungen/verlassenschaftsraeumung/) oder [Messie-Wohnungen](/leistungen/messie-wohnung-raeumen/) handelt, wir sorgen dafür, dass Gutes und Schönes erhalten bleibt.

@@ -14,7 +14,7 @@ checklist:
   - Stadtwohnungen rund um den Rathausplatz, den Domplatz und den Traisenpark
   - Einfamilienhäuser in den Stadtteilen Pottenbrunn, Stattersdorf & Viehofen
   - Vierkanthöfe und landwirtschaftliche Anwesen in den umliegenden Gemeinden
-  - [Büros und Archive](/leistungen/firmenaufloesung/) im Regierungsviertel und den angrenzenden Business-Parks
+  - Büros und Archive im Regierungsviertel und den angrenzenden Business-Parks
 process:
   - title: Kostenlose Vor-Ort-Besichtigung
     description: Wir starten in Wien und sind innerhalb von 45 Minuten bei Ihnen, um jeden Raum für ein transparentes Fixpreisangebot zu dokumentieren.
@@ -46,4 +46,4 @@ Als zentraler Verkehrsknotenpunkt ist St. Pölten von Wien aus schnell und einfa
 
 ### Ein Bezirk mit Stadt- und Landleben
 
-Ob es sich um die Auflösung einer Beamtenwohnung im Regierungsviertel, die Räumung eines Einfamilienhauses in einem der grünen Stadtteile oder die Entrümpelung eines alten Bauernhofes im Traisental handelt – wir bringen für jede Aufgabe das passende Know-how mit. Wir wissen um den Wert von traditionellen Bauernmöbeln ebenso wie um den von modernen Designklassikern und sorgen für eine faire Wertanrechnung. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in der gesamten Region St. Pölten.
+Ob es sich um die Auflösung einer Beamtenwohnung oder von [Büros und Archiven](/leistungen/firmenaufloesung/) im Regierungsviertel, die Räumung eines Einfamilienhauses in einem der grünen Stadtteile oder die Entrümpelung eines alten Bauernhofes im Traisental handelt – wir bringen für jede Aufgabe das passende Know-how mit. Wir wissen um den Wert von traditionellen Bauernmöbeln ebenso wie um den von modernen Designklassikern und sorgen für eine faire Wertanrechnung. Wir sind Ihr verlässlicher Partner für eine professionelle und stressfreie Haushaltsauflösung in der gesamten Region St. Pölten.

@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Reihenhäuser und Gemeindebauten rund um die Simmeringer Hauptstraße
   - Proberäume, Studios und Storage-Einheiten in den Gasometern
-  - [Lagerhallen, Werkstätten](/leistungen/firmenaufloesung/) und Logistikflächen beim Alberner Hafen
+  - Lagerhallen, Werkstätten und Logistikflächen beim Alberner Hafen
   - Wohnungen in den Neubauprojekten rund um den Leberberg
 process:
   - title: Flächenaufmaß & Planung
@@ -46,4 +46,4 @@ Simmering ist flächenmäßig einer der größten Bezirke Wiens und beherbergt z
 
 ### Einzigartige Wohnwelten: Von den Gasometern bis zum Zentralfriedhof
 
-Eine besondere Herausforderung und zugleich ein Wahrzeichen des Bezirks sind die **Gasometer**. Die Auflösung einer Wohnung in diesen denkmalgeschützten Gebäuden erfordert nicht nur eine sorgfältige Planung, sondern auch einen besonders behutsamen Umgang mit der einzigartigen Architektur. Im Kontrast dazu stehen die zahlreichen Einfamilienhäuser und Kleingartenanlagen, bei deren Räumung oft auch Gärten, Schuppen und Lauben berücksichtigt werden müssen. Und nicht zuletzt erfordert die Nähe zum **Zentralfriedhof**, einer der größten Friedhofsanlagen Europas, bei Verlassenschaften ein besonders hohes Maß an Sensibilität und Diskretion.
+Eine besondere Herausforderung und zugleich ein Wahrzeichen des Bezirks sind die **Gasometer**. Die Auflösung einer Wohnung in diesen denkmalgeschützten Gebäuden erfordert nicht nur eine sorgfältige Planung, sondern auch einen besonders behutsamen Umgang mit der einzigartigen Architektur. Im Kontrast dazu stehen die zahlreichen Einfamilienhäuser und Kleingartenanlagen, bei deren Räumung oft auch Gärten, Schuppen und Lauben berücksichtigt werden müssen. Wir kümmern uns um [Lagerhallen und Werkstätten](/leistungen/firmenaufloesung/) ebenso wie um Verlassenschaften, bei denen die Nähe zum **Zentralfriedhof**, einer der größten Friedhofsanlagen Europas, ein besonders hohes Maß an Sensibilität und Diskretion erfordert.

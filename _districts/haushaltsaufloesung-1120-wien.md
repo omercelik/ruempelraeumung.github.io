@@ -12,8 +12,8 @@ highlights:
   - Logistik für belebte Geschäftsstraßen und ruhige Wohnviertel
 checklist:
   - Zinshäuser entlang der Wienzeile & am Margaretengürtel
-  - Familienhäuser, [Gärten](/leistungen/raeumung/) und Garagen in Hetzendorf & Altmannsdorf
-  - [Gewerbeflächen](/leistungen/firmenaufloesung/) im Business Park Vienna und Euro Plaza
+  - Familienhäuser, Gärten und Garagen in Hetzendorf & Altmannsdorf
+  - Gewerbeflächen im Business Park Vienna und Euro Plaza
   - Wohnungen in den großen Wohnhausanlagen wie dem "Am Schöpfwerk"
 process:
   - title: Vor-Ort-Check & Planung
@@ -46,4 +46,4 @@ Als wichtiger Verkehrsknotenpunkt mit dem Bahnhof Meidling ist der 12. Bezirk he
 
 ### Von der Gründerzeitwohnung bis zum Business Park
 
-Meidling bietet eine breite Palette an Immobilientypen. Die prächtigen Zinshäuser entlang der Wienzeile erfordern einen sorgsamen Umgang mit historischer Bausubstanz. Im Gegensatz dazu stehen die modernen Bürokomplexe wie der **Business Park Vienna** oder das **Euro Plaza**. Bei der Auflösung von Geschäftsflächen hier sind Diskretion und die Einhaltung strenger interner Regelungen oberstes Gebot. Ob es sich um eine kleine Wohnung in einem der zahlreichen Gemeindebauten, ein Einfamilienhaus mit Garten in Altmannsdorf oder ein ganzes Büro handelt – wir bieten für jede Herausforderung die passende Lösung und garantieren eine professionelle und stressfreie Abwicklung.
+Meidling bietet eine breite Palette an Immobilientypen. Die prächtigen Zinshäuser entlang der Wienzeile erfordern einen sorgsamen Umgang mit historischer Bausubstanz. Im Gegensatz dazu stehen die modernen Bürokomplexe wie der **Business Park Vienna** oder das **Euro Plaza**. Bei der Auflösung von [Geschäftsflächen](/leistungen/firmenaufloesung/) hier sind Diskretion und die Einhaltung strenger interner Regelungen oberstes Gebot. Ob es sich um eine kleine Wohnung in einem der zahlreichen Gemeindebauten, ein Einfamilienhaus mit [Garten](/leistungen/raeumung/) in Altmannsdorf oder ein ganzes Büro handelt – wir bieten für jede Herausforderung die passende Lösung und garantieren eine professionelle und stressfreie Abwicklung.

@@ -12,8 +12,8 @@ highlights:
   - Logistikplanung für die hochfrequentierte Umgebung des Westbahnhofs
 checklist:
   - Miethäuser zwischen Gürtel, Westbahnhof und der Schmelz
-  - Proberäume, [Lagereinheiten](/leistungen/kellerraeumung/) & Studios rund um die Wiener Stadthalle
-  - [Einzelhandels- & Gastronomieflächen](/leistungen/firmenaufloesung/) an der äußeren Mariahilfer Straße
+  - Proberäume, Lagereinheiten & Studios rund um die Wiener Stadthalle
+  - Einzelhandels- & Gastronomieflächen an der äußeren Mariahilfer Straße
   - Wohnungen in den multikulturellen und lebendigen Grätzeln des Bezirks
 process:
   - title: Objektanalyse & Planung
@@ -46,4 +46,4 @@ Der 15. Bezirk ist einer der am dichtesten besiedelten Bezirke Wiens. Die unzäh
 
 ### Ein Bezirk im Wandel
 
-Rudolfsheim-Fünfhaus hat sich in den letzten Jahren stark gewandelt. Neben den klassischen Zinshäusern gibt es immer mehr modernisierte Wohnungen, die oft für die Kurzzeitvermietung (Airbnb) genutzt werden. Wir bieten spezielle Services für Vermieter an und führen Räumungen und Reinigungen in den kurzen Zeitfenstern zwischen zwei Buchungen durch. Ob es sich um eine kleine Anlegerwohnung, ein Geschäftslokal auf der Sechshauser Straße oder eine Verlassenschaft in einem der ruhigeren Grätzel handelt – wir arbeiten schnell, diskret und übergeben jedes Objekt besenrein und bereit für die Zukunft.
+Rudolfsheim-Fünfhaus hat sich in den letzten Jahren stark gewandelt. Neben den klassischen Zinshäusern gibt es immer mehr modernisierte Wohnungen, die oft für die Kurzzeitvermietung (Airbnb) genutzt werden. Wir bieten spezielle Services für Vermieter an und führen Räumungen und Reinigungen in den kurzen Zeitfenstern zwischen zwei Buchungen durch. Ob es sich um eine kleine Anlegerwohnung, ein [Geschäftslokal](/leistungen/firmenaufloesung/) auf der Sechshauser Straße, die Räumung von [Lagereinheiten](/leistungen/kellerraeumung/) oder eine Verlassenschaft in einem der ruhigeren Grätzel handelt – wir arbeiten schnell, diskret und übergeben jedes Objekt besenrein und bereit für die Zukunft.

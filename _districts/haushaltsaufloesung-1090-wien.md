@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Ärztewohnungen und WG-Zimmer rund um die MedUni und das Juridicum
   - Palais-Wohnungen im Servitenviertel und am Donaukanal
-  - [Beratungsbüros](/leistungen/firmenaufloesung/) & NGOs bei der Alser Straße und Währinger Straße
-  - [Keller](/leistungen/kellerraeumung/) und [Dachböden](/leistungen/dachbodenraeumung/) in den Gründerzeithäusern des französischen Viertels
+  - Beratungsbüros & NGOs bei der Alser Straße und Währinger Straße
+  - Keller und Dachböden in den Gründerzeithäusern des französischen Viertels
 process:
   - title: Terminabstimmung & Logistik
     description: Wir koordinieren uns mit Hausverwaltungen, Ordinationen und organisieren Halteverbotszonen in den engen Gassen.
@@ -46,4 +46,4 @@ Die Architektur des Alsergrunds ist beeindruckend, aber auch herausfordernd. Die
 
 ### Spezialisiert auf besondere Anforderungen
 
-Die Klientel im 9. Bezirk ist so vielfältig wie anspruchsvoll. Bei der Auflösung von Arztpraxen oder Laboratorien garantieren wir die fachgerechte und zertifizierte Entsorgung von medizinischem Material und die **DSGVO-konforme Vernichtung** sensibler Patientendaten. Für die Auflösung von Anwaltskanzleien oder Professorenhaushalten bieten wir einen speziellen Service für große Bibliotheken an: von der Katalogisierung über die Spende an wissenschaftliche Einrichtungen bis hin zur fairen Wertanrechnung für wertvolle Sammlungen. Wir arbeiten diskret, schnell und mit dem nötigen Respekt für das geistige und materielle Erbe unserer Kunden.
+Die Klientel im 9. Bezirk ist so vielfältig wie anspruchsvoll. Bei der Auflösung von [Arztpraxen](/leistungen/firmenaufloesung/) oder Laboratorien garantieren wir die fachgerechte und zertifizierte Entsorgung von medizinischem Material und die **DSGVO-konforme Vernichtung** sensibler Patientendaten. Für die Auflösung von Anwaltskanzleien oder Professorenhaushalten bieten wir einen speziellen Service für große Bibliotheken an: von der Katalogisierung über die Spende an wissenschaftliche Einrichtungen bis hin zur fairen Wertanrechnung für wertvolle Sammlungen. Wir arbeiten diskret, schnell und mit dem nötigen Respekt für das geistige und materielle Erbe unserer Kunden, egal ob es um [Keller](/leistungen/kellerraeumung/) oder [Dachböden](/leistungen/dachbodenraeumung/) geht.

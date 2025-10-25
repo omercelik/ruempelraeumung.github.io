@@ -12,8 +12,8 @@ highlights:
   - Logistik für die weitläufigen Gewerbegebiete und die idyllischen Weinberge
 checklist:
   - Reihenhausanlagen in Siebenhirten, Atzgersdorf & am Liesingbach
-  - [Gewerbeparks, Büros und Produktionshallen](/leistungen/firmenaufloesung/) im Industriegebiet Liesing
-  - Heurigenbetriebe, [Weinkeller](/leistungen/kellerraeumung/) & Presshäuser in Mauer und Rodaun
+  - Gewerbeparks, Büros und Produktionshallen im Industriegebiet Liesing
+  - Heurigenbetriebe, Weinkeller & Presshäuser in Mauer und Rodaun
   - Wohnungen im architektonisch einzigartigen Wohnpark Alterlaa
 process:
   - title: Detaillierte Projektplanung
@@ -46,4 +46,4 @@ Liesing ist ein Bezirk der großen Flächen. Die ausgedehnten Gewerbegebiete in 
 
 ### Einzigartige Wohnwelten: Von Alterlaa bis zum Weinberg
 
-Eine architektonische Besonderheit des Bezirks ist der **Wohnpark Alterlaa**, eine der größten Wohnanlagen Österreichs. Die Räumung einer Wohnung in diesen Terrassenhäusern erfordert ein spezielles Know-how und eine enge Abstimmung mit der Hausverwaltung. Genauso zu Hause fühlen wir uns in den zahlreichen Einfamilienhaus- und Reihenhaussiedlungen, wo wir uns nicht nur um das Haus, sondern auch um Gärten, Garagen und Keller kümmern. Und in den Weinbaugebieten von Mauer und Kalksburg bringen wir unsere Expertise bei der Auflösung von Heurigenbetrieben und der Bewertung von Weinkellern ein. Wir sind Ihr kompetenter Partner für jede Art von Haushaltsauflösung im vielseitigen 23. Bezirk.
+Eine architektonische Besonderheit des Bezirks ist der **Wohnpark Alterlaa**, eine der größten Wohnanlagen Österreichs. Die Räumung einer Wohnung in diesen Terrassenhäusern erfordert ein spezielles Know-how und eine enge Abstimmung mit der Hausverwaltung. Genauso zu Hause fühlen wir uns in den zahlreichen Einfamilienhaus- und Reihenhaussiedlungen, wo wir uns nicht nur um das Haus, sondern auch um Gärten, Garagen und [Keller](/leistungen/kellerraeumung/) kümmern. Und in den Weinbaugebieten von Mauer und Kalksburg bringen wir unsere Expertise bei der Auflösung von Heurigenbetrieben und der Bewertung von [Weinkellern](/leistungen/kellerraeumung/) ein. Wir sind Ihr kompetenter Partner für jede Art von Haushaltsauflösung im vielseitigen 23. Bezirk, inklusive [Gewerbeparks, Büros und Produktionshallen](/leistungen/firmenaufloesung/).

@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Seehäuser und Ferienwohnungen entlang der Mole West, in Podersdorf, Weiden und Rust
   - Appartements und Häuser in Jois, Gols und dem Designer Outlet Parndorf
-  - [Lagerflächen, Surfschulen und Freizeitclubs](/leistungen/firmenaufloesung/) rund um den Seewinkel
-  - [Weinkeller](/leistungen/kellerraeumung/) und landwirtschaftliche Betriebe in der Weinbauregion Neusiedlersee
+  - Lagerflächen, Surfschulen und Freizeitclubs rund um den Seewinkel
+  - Weinkeller und landwirtschaftliche Betriebe in der Weinbauregion Neusiedlersee
 process:
   - title: Lage-Check & umweltschonende Planung
     description: Wir prüfen die Zufahrten zu Stegen und Ufergrundstücken und planen den Einsatz von passendem, umweltschonendem Equipment.
@@ -46,4 +46,4 @@ Die Räumung einer Immobilie am Neusiedler See erfordert eine besondere Rücksic
 
 ### Ein Paradies für Wassersportler und Weinliebhaber
 
-Viele der aufzulösenden Haushalte rund um den See beherbergen spezielle Schätze: von Surfbrettern und Segelbooten bis hin zu kompletten Weinkellern. Wir haben das Know-how, um auch solche speziellen Gegenstände fair zu bewerten und einer neuen Verwendung zuzuführen. Wir arbeiten mit einem Netzwerk von Händlern und Liebhabern zusammen, um für Sie den besten Wertausgleich zu erzielen. Ob es sich um ein Ferienhaus in Podersdorf, ein Winzerhaus in Gols oder ein Geschäftslokal im Designer Outlet Parndorf handelt – wir sind Ihr kompetenter Partner für eine sorgenfreie Haushaltsauflösung in der gesamten Region Neusiedler See.
+Viele der aufzulösenden Haushalte rund um den See beherbergen spezielle Schätze: von Surfbrettern und Segelbooten bis hin zu kompletten [Weinkellern](/leistungen/kellerraeumung/). Wir haben das Know-how, um auch solche speziellen Gegenstände fair zu bewerten und einer neuen Verwendung zuzuführen. Wir arbeiten mit einem Netzwerk von Händlern und Liebhabern zusammen, um für Sie den besten Wertausgleich zu erzielen. Ob es sich um ein Ferienhaus in Podersdorf, ein Winzerhaus in Gols oder ein [Geschäftslokal](/leistungen/firmenaufloesung/) im Designer Outlet Parndorf handelt – wir sind Ihr kompetenter Partner für eine sorgenfreie Haushaltsauflösung in der gesamten Region Neusiedler See.

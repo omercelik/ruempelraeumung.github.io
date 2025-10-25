@@ -12,8 +12,8 @@ highlights:
   - Diskrete Vorgehensweise in den ruhigen Wohngegenden des Bezirks
 checklist:
   - Einfamilienhäuser und Altvillen in Baumgarten, Hütteldorf und am Wolfersberg
-  - [Dachgeschoße](/leistungen/dachbodenraeumung/) und Wohnungen entlang der Linzer Straße und Johnstraße
-  - [Werkstätten, Studios und Lagerhallen](/leistungen/firmenaufloesung/) beim Technologiestandort Auhof
+  - Dachgeschoße und Wohnungen entlang der Linzer Straße und Johnstraße
+  - Werkstätten, Studios und Lagerhallen beim Technologiestandort Auhof
   - Gemeindewohnungen und Zinshäuser in Breitensee
 process:
   - title: Analyse von Zugang & Gelände
@@ -46,4 +46,4 @@ Die geografische Vielfalt Penzings erfordert eine flexible und durchdachte Logis
 
 ### Von der Villa bis zur Gemeindewohnung
 
-Die Architektur in Penzing ist so vielfältig wie der Bezirk selbst. Von den prachtvollen Villen Otto Wagners bis zu den großen Gemeindebauten in Breitensee – jede Immobilie hat ihren eigenen Charakter. Bei der Räumung einer historischen Villa legen wir größten Wert auf den Schutz der Bausubstanz und den sorgfältigen Umgang mit wertvollem Interieur. In den großen Wohnhausanlagen hingegen kommt es vor allem auf Effizienz und eine gute Koordination mit der Hausverwaltung an. Ob es sich um ein Einfamilienhaus mit großem Garten, ein Künstleratelier oder eine kleine Wohnung handelt – wir bieten für jede Anforderung die passende Lösung und sorgen für eine professionelle und stressfreie Abwicklung.
+Die Architektur in Penzing ist so vielfältig wie der Bezirk selbst. Von den prachtvollen Villen Otto Wagners bis zu den großen Gemeindebauten in Breitensee – jede Immobilie hat ihren eigenen Charakter. Bei der Räumung einer historischen Villa legen wir größten Wert auf den Schutz der Bausubstanz und den sorgfältigen Umgang mit wertvollem Interieur. In den großen Wohnhausanlagen hingegen kommt es vor allem auf Effizienz und eine gute Koordination mit der Hausverwaltung an. Ob es sich um ein Einfamilienhaus mit großem Garten, ein Künstleratelier, [Werkstätten, Studios und Lagerhallen](/leistungen/firmenaufloesung/) oder eine kleine Wohnung mit [Dachgeschoß](/leistungen/dachbodenraeumung/) handelt – wir bieten für jede Anforderung die passende Lösung und sorgen für eine professionelle und stressfreie Abwicklung.

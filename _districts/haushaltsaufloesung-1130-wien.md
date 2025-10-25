@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Villen und Einfamilienhäuser in Ober St. Veit, Lainz und Speising
   - Wohnungen in den eleganten Zinshäusern nahe Schloss Schönbrunn
-  - Nebengebäude wie [Gartenhäuser](/leistungen/raeumung/), [Garagen](/leistungen/garagenraeumung/) und Ateliers
-  - Komplette [Verlassenschaften](/leistungen/verlassenschaftsraeumung/) inklusive Antiquitäten und Sammlungen
+  - Nebengebäude wie Gartenhäuser, Garagen und Ateliers
+  - Komplette Verlassenschaften inklusive Antiquitäten und Sammlungen
 process:
   - title: Familiengespräch & Planung
     description: Wir führen einen gemeinsamen Rundgang durch, erstellen eine Prioritätenliste und übernehmen die sichere Verwahrung empfindlicher Gegenstände.
@@ -46,4 +46,4 @@ In Hietzing geht es nicht nur darum, ein Haus zu räumen. Es geht darum, ein Erb
 
 ### Ein Partner für höchste Ansprüche
 
-Die Auflösung eines Haushalts in Hietzing ist oft mit der Bewertung eines wertvollen Nachlasses verbunden. Unsere Experten für Kunst und Antiquitäten erstellen fundierte Gutachten und sorgen in Zusammenarbeit mit renommierten Auktionshäusern dafür, dass Sie für Ihre Wertgegenstände den bestmöglichen Preis erzielen. Wir verstehen, dass hinter jedem Objekt eine Geschichte steht, und behandeln jedes einzelne Stück mit dem gebotenen Respekt. Von der ersten Besichtigung bis zur finalen Übergabe steht Ihnen eine persönliche Ansprechpartnerin zur Seite, die sich um alle Ihre Anliegen kümmert und für einen reibungslosen und stressfreien Ablauf sorgt.
+Die Auflösung eines Haushalts in Hietzing ist oft mit der Bewertung eines wertvollen Nachlasses verbunden. Unsere Experten für Kunst und Antiquitäten erstellen fundierte Gutachten und sorgen in Zusammenarbeit mit renommierten Auktionshäusern dafür, dass Sie für Ihre Wertgegenstände den bestmöglichen Preis erzielen. Wir verstehen, dass hinter jedem Objekt eine Geschichte steht, und behandeln jedes einzelne Stück mit dem gebotenen Respekt. Von der ersten Besichtigung von [Gartenhäusern](/leistungen/raeumung/), [Garagen](/leistungen/garagenraeumung/) bis zur finalen Übergabe kompletter [Verlassenschaften](/leistungen/verlassenschaftsraeumung/), steht Ihnen eine persönliche Ansprechpartnerin zur Seite, die sich um alle Ihre Anliegen kümmert und für einen reibungslosen und stressfreien Ablauf sorgt.

@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Villen und Einfamilienhäuser in Weidling, Kierling und am Ölberg
   - Wohnungen in der historischen Altstadt und entlang der Donau
-  - Heurigenbetriebe und [Weinkeller](/leistungen/kellerraeumung/) in den umliegenden Weinbergen
-  - [Ateliers und Werkstätten](/leistungen/firmenaufloesung/) in den ehemaligen Gewerbegebieten
+  - Heurigenbetriebe und Weinkeller in den umliegenden Weinbergen
+  - Ateliers und Werkstätten in den ehemaligen Gewerbegebieten
 process:
   - title: Unverbindliche Besichtigung & Planung
     description: Wir kommen zu Ihnen, analysieren die Gegebenheiten und erstellen ein transparentes Fixpreis-Angebot.
@@ -46,4 +46,4 @@ Die Topografie Klosterneuburgs mit ihren steilen Hängen und engen Gassen erford
 
 ### Ein Ort voller Werte
 
-Die Villen und großbürgerlichen Haushalte in Klosterneuburg beherbergen oft bedeutende Werte – von umfangreichen Bibliotheken über Kunstsammlungen bis hin zu erlesenen Weinkellern. Unsere Experten verfügen über das nötige Fachwissen, um diese Werte zu erkennen und eine faire Anrechnung zu gewährleisten. Wir arbeiten mit einem Netzwerk von Spezialisten, von Kunsthistorikern bis zu Weinexperten, um für Sie das bestmögliche Ergebnis zu erzielen. Ob es sich um die Auflösung einer repräsentativen Villa, die Räumung einer Wohnung mit Blick auf die Donau oder die Entrümpelung eines alten Heurigen handelt – wir sind Ihr verlässlicher und diskreter Partner in Klosterneuburg.
+Die Villen und großbürgerlichen Haushalte in Klosterneuburg beherbergen oft bedeutende Werte – von umfangreichen Bibliotheken über Kunstsammlungen bis hin zu erlesenen [Weinkellern](/leistungen/kellerraeumung/). Unsere Experten verfügen über das nötige Fachwissen, um diese Werte zu erkennen und eine faire Anrechnung zu gewährleisten. Wir arbeiten mit einem Netzwerk von Spezialisten, von Kunsthistorikern bis zu Weinexperten, um für Sie das bestmögliche Ergebnis zu erzielen. Ob es sich um die Auflösung einer repräsentativen Villa, die Räumung einer Wohnung mit Blick auf die Donau oder die Entrümpelung eines alten Heurigen oder von [Ateliers und Werkstätten](/leistungen/firmenaufloesung/) handelt – wir sind Ihr verlässlicher und diskreter Partner in Klosterneuburg.

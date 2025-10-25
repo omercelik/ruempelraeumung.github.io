@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Altbauwohnungen im Zentrum & entlang der Braitnerstraße und Antonsgasse
   - Villen in der Helenenstraße, im Rauhenstein-Viertel und in den umliegenden Weingegenden
-  - [Gewerbeobjekte](/leistungen/firmenaufloesung/) & Kurbetriebe in Bad Vöslau und Baden
-  - [Weinkeller](/leistungen/kellerraeumung/), Presshäuser und landwirtschaftliche Nebengebäude
+  - Gewerbeobjekte & Kurbetriebe in Bad Vöslau und Baden
+  - Weinkeller, Presshäuser und landwirtschaftliche Nebengebäude
 process:
   - title: Kostenlose Besichtigung & Wertanalyse
     description: Wir prüfen Ihr Inventar, bewerten technische Geräte und Sammlungen und rechnen Ihnen alle verwertbaren Stücke direkt auf den Preis an.
@@ -46,4 +46,4 @@ Die engen, oft verkehrsberuhigten Gassen der Badener Innenstadt erfordern eine p
 
 ### Vom Weinkeller bis zur Villa
 
-Die Thermenregion ist bekannt für ihren Weinbau. Wir haben langjährige Erfahrung in der Räumung von **Weinkellern, Presshäusern und landwirtschaftlichen Nebengebäuden**. Wir bewerten fair, was noch von Wert ist, und entsorgen fachgerecht, was nicht mehr gebraucht wird. Ob es sich um die Auflösung einer eleganten Stadtvilla, die Räumung einer kleinen Pension oder die Entrümpelung eines alten Winzerhofes handelt – wir bieten für jede Herausforderung die passende Lösung und garantieren eine diskrete, professionelle und stressfreie Abwicklung in der gesamten Region Baden.
+Die Thermenregion ist bekannt für ihren Weinbau. Wir haben langjährige Erfahrung in der Räumung von [**Weinkellern, Presshäusern und landwirtschaftlichen Nebengebäuden**](/leistungen/kellerraeumung/). Wir bewerten fair, was noch von Wert ist, und entsorgen fachgerecht, was nicht mehr gebraucht wird. Ob es sich um die Auflösung einer eleganten Stadtvilla, die Räumung einer kleinen Pension oder die Entrümpelung eines alten Winzerhofes oder [Gewerbeobjekts](/leistungen/firmenaufloesung/) handelt – wir bieten für jede Herausforderung die passende Lösung und garantieren eine diskrete, professionelle und stressfreie Abwicklung in der gesamten Region Baden.

@@ -12,8 +12,8 @@ highlights:
   - Logistik für die engen Gassen der Altstadt und die modernen Gewerbegebiete
 checklist:
   - Reihenhäuser und Villen in Wiener Neudorf, Maria Enzersdorf & Perchtoldsdorf
-  - [Dachgeschosswohnungen](/leistungen/dachbodenraeumung/) an der Stadtgrenze zu Wien-Liesing
-  - [Ateliers, Büros und Werkstätten](/leistungen/firmenaufloesung/) im Wirtschaftspark Mödling und IZ NÖ-Süd
+  - Dachgeschosswohnungen an der Stadtgrenze zu Wien-Liesing
+  - Ateliers, Büros und Werkstätten im Wirtschaftspark Mödling und IZ NÖ-Süd
   - Wohnungen in der historischen Altstadt von Mödling
 process:
   - title: Kostenlose Besichtigung & Planung
@@ -46,4 +46,4 @@ Die historische Altstadt von Mödling mit ihrer belebten Fußgängerzone und den
 
 ### Ein Bezirk mit vielen Facetten
 
-Von der Auflösung einer traditionsreichen Kanzlei in der Mödlinger Innenstadt über die Räumung einer Villa mit Blick auf den Husarentempel bis hin zur Entrümpelung eines modernen Büros im Wirtschaftspark – wir haben für jede Herausforderung die passende Lösung. Wir wissen um den Wert von Designklassikern, die sich oft in den Häusern der Region finden, und sorgen für eine faire Wertanrechnung. Gleichzeitig sind wir mit den Anforderungen von Gewerbebetrieben vertraut und garantieren eine schnelle und diskrete Abwicklung, um den Geschäftsbetrieb nicht zu stören. Wir sind Ihr verlässlicher Partner für eine professionelle Haushaltsauflösung im gesamten Bezirk Mödling.
+Von der Auflösung einer traditionsreichen Kanzlei in der Mödlinger Innenstadt über die Räumung einer Villa mit Blick auf den Husarentempel bis hin zur Entrümpelung eines modernen [Büros](/leistungen/firmenaufloesung/) im Wirtschaftspark – wir haben für jede Herausforderung die passende Lösung. Wir wissen um den Wert von Designklassikern, die sich oft in den Häusern der Region finden, und sorgen für eine faire Wertanrechnung. Gleichzeitig sind wir mit den Anforderungen von Gewerbebetrieben wie [Ateliers und Werkstätten](/leistungen/firmenaufloesung/) vertraut und garantieren eine schnelle und diskrete Abwicklung, um den Geschäftsbetrieb nicht zu stören, egal ob es sich um eine [Dachgeschosswohnung](/leistungen/dachbodenraeumung/) oder andere Objekte handelt. Wir sind Ihr verlässlicher Partner für eine professionelle Haushaltsauflösung im gesamten Bezirk Mödling.

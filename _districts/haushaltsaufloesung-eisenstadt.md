@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Wohnungen in der historischen Altstadt rund um Schloss Esterházy & die Fußgängerzone
   - Einfamilienhäuser in den Ortsteilen Kleinhöflein, St. Georgen und in den umliegenden Gemeinden
-  - [Büros, Archive](/leistungen/firmenaufloesung/) & Kulturflächen in den Eisenstädter Firmenzonen
-  - [Weinkeller](/leistungen/kellerraeumung/) und Heurigenbetriebe am Leithagebirge
+  - Büros, Archive & Kulturflächen in den Eisenstädter Firmenzonen
+  - Weinkeller und Heurigenbetriebe am Leithagebirge
 process:
   - title: Flexible Terminvereinbarung & Anfahrt
     description: Die Schlüsselübergabe kann wahlweise in Wien oder direkt vor Ort in Eisenstadt erfolgen. Wir planen effiziente Tagesprojekte mit frühem Start.
@@ -46,4 +46,4 @@ Die engen, verwinkelten Gassen der Eisenstädter Altstadt erfordern eine umsicht
 
 ### Ein Herz für Kultur und Wein
 
-Als langjähriger Wohn- und Schaffensort Joseph Haydns hat Eisenstadt eine besondere Beziehung zur Musik und Kultur. Bei der Auflösung von Haushalten finden sich oft wertvolle Musikinstrumente, Notensammlungen oder andere Kulturschätze. Unsere Experten wissen diese Werte zu schätzen und sorgen für eine faire Anrechnung. Gleichzeitig ist Eisenstadt das Zentrum einer bedeutenden Weinbauregion. Wir haben das Know-how, um **Weinkeller und Heurigenbetriebe** fachgerecht zu räumen, Lagerbestände zu bewerten und Gerätschaften einer neuen Verwendung zuzuführen. Ob es sich um eine Stadtwohnung mit Blick auf den Schlosspark, ein Einfamilienhaus in St. Georgen oder einen Winzerhof in Kleinhöflein handelt – wir sind Ihr kompetenter Partner für eine sorgenfreie Haushaltsauflösung in der Region Eisenstadt.
+Als langjähriger Wohn- und Schaffensort Joseph Haydns hat Eisenstadt eine besondere Beziehung zur Musik und Kultur. Bei der Auflösung von Haushalten finden sich oft wertvolle Musikinstrumente, Notensammlungen oder andere Kulturschätze. Unsere Experten wissen diese Werte zu schätzen und sorgen für eine faire Anrechnung. Gleichzeitig ist Eisenstadt das Zentrum einer bedeutenden Weinbauregion. Wir haben das Know-how, um [**Weinkeller**](/leistungen/kellerraeumung/) und Heurigenbetriebe fachgerecht zu räumen, Lagerbestände zu bewerten und Gerätschaften einer neuen Verwendung zuzuführen. Ob es sich um eine Stadtwohnung mit Blick auf den Schlosspark, die Räumung von [Büros und Archiven](/leistungen/firmenaufloesung/), ein Einfamilienhaus in St. Georgen oder einen Winzerhof in Kleinhöflein handelt – wir sind Ihr kompetenter Partner für eine sorgenfreie Haushaltsauflösung in der Region Eisenstadt.

@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Altbauwohnungen am Hamerlingpark & Piaristenplatz
   - Theaterdepots, Probebühnen und Kostümfundus
-  - [Kanzleien](/leistungen/firmenaufloesung/) & [Ordinationen](/leistungen/firmenaufloesung/) entlang der Josefstädter Straße
+  - Kanzleien & Ordinationen entlang der Josefstädter Straße
   - Wohnungen in den historischen Palais und Zinshäusern
 process:
   - title: Substanzschutz
@@ -46,4 +46,4 @@ Der 8. Bezirk ist ein Netz aus engen Einbahnstraßen und Gassen. Eine sorgfälti
 
 ### Schutz für das historische Erbe
 
-In kaum einem anderen Bezirk ist der Schutz der Bausubstanz so wichtig wie in der Josefstadt. Stuckdecken, antike Parkettböden und filigrane Holzarbeiten in den Stiegenhäusern sind keine Seltenheit. Wir arbeiten mit speziellem Schutzmaterial wie Vliesabdeckungen, Kantenschutz und gepolsterten Transportmitteln, um sicherzustellen, dass die historische Pracht der Gebäude unversehrt bleibt. Ob es sich um die Auflösung einer Wohnung in einem der prächtigen Palais, die Räumung einer Arztpraxis in der Nähe des Allgemeinen Krankenhauses (AKH) oder die Entrümpelung eines Künstlerateliers handelt – wir arbeiten mit der gebotenen Sorgfalt und dem Respekt, den dieser einzigartige Bezirk verdient.
+In kaum einem anderen Bezirk ist der Schutz der Bausubstanz so wichtig wie in der Josefstadt. Stuckdecken, antike Parkettböden und filigrane Holzarbeiten in den Stiegenhäusern sind keine Seltenheit. Wir arbeiten mit speziellem Schutzmaterial wie Vliesabdeckungen, Kantenschutz und gepolsterten Transportmitteln, um sicherzustellen, dass die historische Pracht der Gebäude unversehrt bleibt. Ob es sich um die Auflösung einer Wohnung in einem der prächtigen Palais, die Räumung einer [Arztpraxis](/leistungen/firmenaufloesung/) in der Nähe des Allgemeinen Krankenhauses (AKH) oder die Entrümpelung eines Künstlerateliers handelt – wir arbeiten mit der gebotenen Sorgfalt und dem Respekt, den dieser einzigartige Bezirk verdient.

@@ -12,9 +12,9 @@ highlights:
   - Logistik für enge Gassen & Kurzparkzonen
 checklist:
   - Wohnungen im Stuwerviertel & Nordbahnviertel
-  - [Kellerabteile](/leistungen/kellerraeumung/) & Tiefgaragenboxen
+  - Kellerabteile & Tiefgaragenboxen
   - Balkone & Terrassen inklusive Pflanzenentsorgung
-  - [Büros](/leistungen/firmenaufloesung/) nahe der Messe Wien oder am Donaukanal
+  - Büros nahe der Messe Wien oder am Donaukanal
 process:
   - title: Besichtigung & Bestandsaufnahme
     description: Wir sichten Innenhöfe, Aufzüge und Zufahrten, um den besten Ablauf zu planen – egal ob im Altbau am Augarten oder im Neubau bei der WU.
@@ -48,4 +48,4 @@ Die engen Gassen rund um den Karmelitermarkt oder die Taborstraße erfordern ein
 
 ### Vielfältige Gebäudetypen, flexible Lösungen
 
-Die Leopoldstadt bietet alles: vom prachtvollen Altbau mit hohen Decken und empfindlichen Böden bis zum funktionalen Gemeindebau aus den 50er-Jahren. Jedes Gebäude hat seine Eigenheiten. In den modernen Wohnkomplexen nahe der Wirtschaftsuniversität (WU) oder der Messe Wien stimmen wir uns eng mit der Hausverwaltung ab, um Aufzüge und Ladezonen effizient zu nutzen. Bei Altbauten am Donaukanal achten wir besonders auf den Schutz des Stiegenhauses und der historischen Bausubstanz. Egal ob es sich um eine kleine Wohnung mit Blick auf den Prater oder ein großes Büro handelt – wir haben die passende Lösung.
+Die Leopoldstadt bietet alles: vom prachtvollen Altbau mit hohen Decken und empfindlichen Böden bis zum funktionalen Gemeindebau aus den 50er-Jahren. Jedes Gebäude hat seine Eigenheiten. In den modernen Wohnkomplexen nahe der Wirtschaftsuniversität (WU) oder der Messe Wien stimmen wir uns eng mit der Hausverwaltung ab, um Aufzüge und Ladezonen effizient zu nutzen. Bei Altbauten am Donaukanal achten wir besonders auf den Schutz des Stiegenhauses und der historischen Bausubstanz. Egal ob es sich um eine kleine Wohnung mit Blick auf den Prater, die Räumung eines vollen [Kellerabteils](/leistungen/kellerraeumung/) oder ein großes [Büro](/leistungen/firmenaufloesung/) handelt – wir haben die passende Lösung.

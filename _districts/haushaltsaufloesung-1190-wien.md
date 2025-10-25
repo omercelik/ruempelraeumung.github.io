@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Winzerhäuser und Villen in Grinzing, Sievering & Neustift am Walde
   - Wohnungen im historischen Karl-Marx-Hof in Heiligenstadt
-  - [Garagen](/leistungen/garagenraeumung/), [Weinkeller](/leistungen/kellerraeumung/) und Presshäuser in den Weinbergen
+  - Garagen, Weinkeller und Presshäuser in den Weinbergen
   - Penthäuser und Terrassenwohnungen mit Blick auf die Stadt
 process:
   - title: Detaillierte Zufahrts- & Logistikplanung
@@ -46,4 +46,4 @@ Die malerischen, aber oft steilen und engen Gassen in den Weinbergen stellen ein
 
 ### Ein Bezirk voller Schätze
 
-Die Villen und großbürgerlichen Wohnungen in Döbling beherbergen oft wahre Schätze: von wertvollen Kunstsammlungen über antike Möbel bis hin zu erlesenen Weinkellern. Unsere Experten für Wertanrechnung verfügen über das nötige Fachwissen, um diese Werte zu erkennen und fair zu bewerten. Wir arbeiten eng mit Auktionshäusern und Sammlern zusammen, um für Sie den besten Erlös zu erzielen. Im Gegensatz dazu erfordert die Räumung einer Wohnung im **Karl-Marx-Hof**, einem der längsten Wohngebäude der Welt, vor allem Effizienz und eine gute Koordination mit der Hausverwaltung. Wir meistern beide Welten mit der gleichen Professionalität und Hingabe.
+Die Villen und großbürgerlichen Wohnungen in Döbling beherbergen oft wahre Schätze: von wertvollen Kunstsammlungen über antike Möbel bis hin zu erlesenen [Weinkellern](/leistungen/kellerraeumung/). Unsere Experten für Wertanrechnung verfügen über das nötige Fachwissen, um diese Werte zu erkennen und fair zu bewerten. Wir arbeiten eng mit Auktionshäusern und Sammlern zusammen, um für Sie den besten Erlös zu erzielen. Im Gegensatz dazu erfordert die Räumung einer Wohnung im **Karl-Marx-Hof**, einem der längsten Wohngebäude der Welt, vor allem Effizienz und eine gute Koordination mit der Hausverwaltung. Wir meistern beide Welten mit der gleichen Professionalität und Hingabe, auch wenn es um [Garagen](/leistungen/garagenraeumung/) geht.
