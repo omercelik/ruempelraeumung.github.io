@@ -81,3 +81,56 @@ body {
     scroll-behavior: auto !important;
   }
 }
+
+@layer components {
+  .richtext {
+    @apply max-w-none text-base leading-relaxed text-text-light;
+  }
+
+  .richtext > *:first-child {
+    margin-top: 0;
+  }
+
+  .richtext h2 {
+    @apply mt-10 text-3xl font-extrabold text-primary;
+  }
+
+  .richtext h3 {
+    @apply mt-8 text-2xl font-bold text-primary;
+  }
+
+  .richtext h4 {
+    @apply mt-6 text-xl font-semibold text-primary;
+  }
+
+  .richtext p,
+  .richtext ul,
+  .richtext ol,
+  .richtext blockquote {
+    @apply mt-4;
+  }
+
+  .richtext ul {
+    @apply list-disc space-y-2 pl-5;
+  }
+
+  .richtext ol {
+    @apply list-decimal space-y-2 pl-5;
+  }
+
+  .richtext li {
+    @apply text-base leading-relaxed text-text-light;
+  }
+
+  .richtext blockquote {
+    @apply border-l-4 border-primary/40 pl-4 italic text-primary;
+  }
+
+  .richtext a {
+    @apply font-semibold text-primary underline-offset-4 hover:text-primary-light;
+  }
+
+  .richtext strong {
+    @apply font-semibold text-primary;
+  }
+}
