@@ -86,7 +86,7 @@
         {% for link in site.data.navigation.links %}
         <a class="hover:text-primary-accent transition" href="{{ link.url | relative_url }}">{{ link.label }}</a>
         {% endfor %}
-        <a class="rounded-full bg-primary-accent px-5 py-2 text-primary hover:bg-white" href="{{ site.data.navigation.cta.url | relative_url }}">{{ site.data.navigation.cta.label }}</a>
+        <a class="rounded-full bg-primary-button px-5 py-2 text-primary hover:bg-white" href="{{ site.data.navigation.cta.url | relative_url }}">{{ site.data.navigation.cta.label }}</a>
       </nav>
       <div class="flex items-center gap-4 md:hidden">
         <a href="tel:{{ site.phone | replace: ' ', '' }}" class="inline-flex items-center rounded-full border border-white/40 px-3 py-2 text-xs font-semibold uppercase tracking-[0.2em]">

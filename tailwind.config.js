@@ -19,7 +19,8 @@ module.exports = {
         primary: {
           DEFAULT: "#0A2342",
           light: "#2CA58D",
-          accent: "#FFD700"
+          button: "#FFA500",
+          accent: "#FFA500"
         },
         content: {
           accent: "#9C5E00",
