@@ -4,12 +4,7 @@ layout: default
 {% assign hero_mobile = site.images.hero_mobile | default: site.images.hero %}
 {% assign hero_desktop = site.images.hero_desktop | default: hero_mobile %}
 <link rel="preload" href="{{ hero_desktop | relative_url }}" as="image" fetchpriority="high" imagesrcset="{{ hero_mobile | relative_url }} 768w, {{ hero_desktop | relative_url }} 1440w" imagesizes="100vw"/>
-<section class="relative overflow-hidden text-white" style="background-color:#0A2342;">
-  <picture class="absolute inset-0 -z-10 h-full w-full" aria-hidden="true">
-    <source media="(min-width: 1024px)" srcset="{{ hero_desktop | relative_url }}" type="image/webp"/>
-    <img src="{{ hero_mobile | relative_url }}" alt="" class="h-full w-full object-cover" loading="eager" decoding="async" fetchpriority="high"/>
-  </picture>
-  <div class="absolute inset-0 -z-10 bg-gradient-to-b from-[#0A2342]/40 via-[#0A2342]/60 to-[#0A2342]/85"></div>
+<section class="relative overflow-hidden text-white bg-primary/95 bg-center" style="background-image: linear-gradient(rgba(10,35,66,0.35), rgba(10,35,66,0.75)), url('{{ hero_desktop | relative_url }}');">
   <div class="container mx-auto px-4 py-20 text-white">
     <div class="max-w-3xl space-y-5">
       <p class="text-xs font-semibold uppercase tracking-[0.4em] text-primary-accent">Entrümpelung Wien &amp; NÖ</p>
