@@ -18,7 +18,7 @@ module.exports = {
       colors: {
         primary: {
           DEFAULT: "#0A2342",
-          light: "#2CA58D",
+          light: "#FFA500",
           button: "#FFA500",
           accent: "#FFA500"
         },
