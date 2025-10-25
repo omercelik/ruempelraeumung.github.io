@@ -1,7 +1,7 @@
 ---
 title: "Halteverbot für die Entrümpelung in Wien beantragen"
 description: "Schritt-für-Schritt-Anleitung für Halteverbotszonen bei Haushaltsauflösungen inklusive Fristen, Kosten und typischen Fehlern."
-date: 2025-10-21
+date: 2024-04-15
 category: "Logistik"
 tags:
   - halteverbot
@@ -14,7 +14,7 @@ faqs:
   - question: Kümmern Sie sich um Halteverbotszonen?
     answer: Ja, wir übernehmen Antrag, Beschilderung, Aufbau und Abholung – inklusive Fotos als Nachweis für die Behörde.
 ---
-Ein genehmigtes Halteverbot direkt vor dem Objekt entscheidet, ob eine Räumung in wenigen Stunden oder in mehreren Tagen erledigt ist. Hier erfahren Sie, wie Sie die Halteverbotszone (HVZ) für Ihre Entrümpelung in Wien rechtssicher organisieren.
+Ein genehmigtes Halteverbot direkt vor dem Objekt entscheidet, ob eine [Räumung](/leistungen/haushaltsaufloesung/) in wenigen Stunden oder in mehreren Tagen erledigt ist. Hier erfahren Sie, wie Sie die Halteverbotszone (HVZ) für Ihre Entrümpelung in Wien rechtssicher organisieren.
 
 ## Warum die Halteverbotszone entscheidend ist
 

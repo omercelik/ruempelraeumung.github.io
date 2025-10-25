@@ -12,7 +12,7 @@ faqs:
   - question: Welche Unterlagen muss ich sichern?
     answer: Verträge, Zeugnisse, Versicherungsunterlagen und persönliche Dokumente sollten separat aufbewahrt werden.
 ---
-Eine Haushaltsauflösung kann überfordern. Mit der richtigen Struktur behalten Sie jedoch den Überblick. Nutzen Sie diese Checkliste, um Schritt für Schritt vorzugehen und nichts Wichtiges zu vergessen.
+Eine [Haushaltsauflösung](/leistungen/haushaltsaufloesung/) kann überfordern. Mit der richtigen Struktur behalten Sie jedoch den Überblick. Nutzen Sie diese Checkliste, um Schritt für Schritt vorzugehen und nichts Wichtiges zu vergessen.
 
 ## Phase 1: Zwei bis vier Wochen vorher
 

@@ -12,7 +12,7 @@ faqs:
   - question: Sind Stundensätze sinnvoll?
     answer: Nein, Fixpreise nach Besichtigung schützen vor Nachforderungen und spiegeln den tatsächlichen Aufwand besser wider.
 ---
-Was kostet eine Haushaltsauflösung wirklich? Dieser Leitfaden zeigt die wichtigsten Faktoren und Preisspannen in Wien.
+Was kostet eine [Haushaltsauflösung](/leistungen/haushaltsaufloesung/) wirklich? Dieser Leitfaden zeigt die wichtigsten Faktoren und Preisspannen in Wien.
 
 ## Kostenfaktoren
 

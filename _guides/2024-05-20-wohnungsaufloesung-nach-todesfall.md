@@ -1,7 +1,7 @@
 ---
 title: "Wohnungsauflösung nach einem Todesfall in Wien"
 description: "Behördenwege, Fristen und emotionale Unterstützung für Nachlass- und Leerräumungen inklusive Checkliste."
-date: 2025-10-22
+date: 2024-05-20
 category: "Guide"
 tags:
   - todesfall
@@ -14,7 +14,7 @@ faqs:
   - question: Bis wann muss die Wohnung geräumt sein?
     answer: Spätestens zum Ende der Kündigungsfrist. Viele Vermieter*innen erwarten eine Übergabe innerhalb von 1–3 Monaten nach dem Todesfall, daher früh planen.
 ---
-Eine Wohnungsauflösung nach einem Todesfall verlangt Fingerspitzengefühl und klare Prozesse. Mit dieser Anleitung behalten Sie den Überblick über Formalitäten, Zeitplan und emotionale Aspekte.
+Eine [Wohnungsauflösung nach einem Todesfall](/leistungen/verlassenschaft/) verlangt Fingerspitzengefühl und klare Prozesse. Mit dieser Anleitung behalten Sie den Überblick über Formalitäten, Zeitplan und emotionale Aspekte.
 
 ## Phase 1 (0–7 Tage): Formalitäten sichern
 

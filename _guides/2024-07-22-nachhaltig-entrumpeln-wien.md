@@ -1,7 +1,7 @@
 ---
 title: "Nachhaltig entrümpeln in Wien: Wertausgleich, Spenden, Recycling"
 description: "Strategien für klimafreundliche Entrümpelungen mit Fokus auf Wiederverkauf, Sozialspenden und CO₂-Einsparung."
-date: 2025-10-25
+date: 2024-07-22
 category: "Nachhaltigkeit"
 tags:
   - nachhaltig
@@ -14,7 +14,7 @@ faqs:
   - question: Wie kalkuliere ich den CO₂-Fußabdruck einer Räumung?
     answer: Addieren Sie Transportkilometer, Entsorgungswege und Recyclingquoten. Wir liefern auf Wunsch eine kurze CO₂-Bilanz nach GHG Protocol.
 ---
-Entrümpeln muss kein Wegwerfprojekt sein. Mit Wertausgleich, Spenden und sortenreiner Trennung holen Sie das Maximum aus jedem Gegenstand heraus und verbessern gleichzeitig Ihre Nachhaltigkeitsbilanz.
+[Nachhaltig entrümpeln](/leistungen/haushaltsaufloesung/) muss kein Wegwerfprojekt sein. Mit Wertausgleich, Spenden und sortenreiner Trennung holen Sie das Maximum aus jedem Gegenstand heraus und verbessern gleichzeitig Ihre Nachhaltigkeitsbilanz.
 
 ## Schritt 1: Werthaltiges erkennen
 

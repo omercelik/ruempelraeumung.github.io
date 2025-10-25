@@ -1,7 +1,7 @@
 ---
 title: "Büro- und Gewerberäumung DSGVO-konform abwickeln"
 description: "Ablaufplan für Geschäftsauflösungen inklusive IT-Deinstallation, Aktenvernichtung und Fixpreisstruktur."
-date: 2025-10-24
+date: 2024-07-01
 category: "Business"
 tags:
   - buero
@@ -14,7 +14,7 @@ faqs:
   - question: Entsorgen Sie Server und Firmenhardware datenschutzkonform?
     answer: Ja, wir dokumentieren die Deinstallation, führen zertifizierte Datenlöschung durch und stellen Vernichtungsprotokolle bereit.
 ---
-Gewerbliche Räumungen bedeuten mehr als Möbel abtransportieren. IT, Akten und Branding müssen sicher entfernt werden, damit DSGVO und Markenrichtlinien eingehalten bleiben.
+[Gewerbliche Räumungen](/leistungen/firmenaufloesung/) bedeuten mehr als Möbel abtransportieren. IT, Akten und Branding müssen sicher entfernt werden, damit DSGVO und Markenrichtlinien eingehalten bleiben.
 
 ## Schritt 1: Bestandsaufnahme
 

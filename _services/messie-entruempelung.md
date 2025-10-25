@@ -32,3 +32,8 @@ permalink: /leistungen/messie-entruempelung/
 ## Hilfe ohne Vorurteile
 
 Messie-Entrümpelungen brauchen Fingerspitzengefühl. Wir kommen ohne Vorurteile, sichern persönliche Gegenstände und stellen auf Wunsch Kontakte zu Partnern für therapeutische oder soziale Betreuung her.
+
+### Verwandte Dienstleistungen
+
+- **[Haushaltsauflösung](/leistungen/haushaltsaufloesung/):** Für generelle Wohnungsräumungen.
+- **[Verlassenschaft](/leistungen/verlassenschaft/):** Wenn ein Todesfall der Auslöser war.

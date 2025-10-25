@@ -32,3 +32,8 @@ permalink: /leistungen/gastronomie-raeumung/
 ## Spezialisten für Gastronomie & Einzelhandel
 
 Von der kleinen Kaffeebar bis zum Pop-up-Store – wir kennen die Anforderungen der Wiener Behörden, organisieren Halteverbotszonen und führen Rückbauten exakt nach Mietvertrag aus.
+
+### Verwandte Dienstleistungen
+
+- **[Firmenauflösung](/leistungen/firmenaufloesung/):** Für Büros und andere Gewerbeimmobilien.
+- **[Lagerraeumung](/leistungen/lagerraeumung/):** Wenn auch Lagerflächen betroffen sind.

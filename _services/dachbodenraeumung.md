@@ -38,3 +38,8 @@ Auf Wunsch übernehmen wir auch:
 - Zwischenlagerung verwertbarer Gegenstände
 - Organisation von Auktionen oder Spenden
 - Schädlingsbekämpfung in Zusammenarbeit mit Partnerbetrieben
+
+### Verwandte Dienstleistungen
+
+- **[Kellerräumung](/leistungen/kellerraeumung/):** Das Pendant zum Dachboden – wir schaffen Platz.
+- **[Haushaltsauflösung](/leistungen/haushaltsaufloesung/):** Wenn der ganze Haushalt aufgelöst wird.
