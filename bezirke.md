@@ -34,7 +34,7 @@ kicker: "Bezirke"
       <p class="text-base text-text-light">Sortiert nach Bezirksnummer – jede Karte führt auf eine eigene Landing Page mit Ablauf, Checkliste und FAQ.</p>
     </div>
     <div class="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {% assign districts = site.districts | sort: 'title' %}
+      {% assign districts = site.districts | sort: 'kicker' %}
       {% for district in districts %}
       <a href="{{ district.url | relative_url }}" class="flex items-center justify-between rounded-2xl border border-gray-200 bg-white px-5 py-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:border-primary">
         <span>

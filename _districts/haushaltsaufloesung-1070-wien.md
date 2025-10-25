@@ -1,6 +1,6 @@
 ---
-title: "Entrümpelung 1070 Wien Neubau"
-description: "Professionelle Entrümpelung in 1070 Wien Neubau. Garantierter Fixpreis, Wertanrechnung für Ihre Schätze & kostenlose Besichtigung. Wir kümmern uns um alles! Jetzt Angebot anfordern."
+title: "Haushaltsauflösung 1070 Wien"
+description: "Haushaltsauflösung & Entrümpelung in 1070 Wien Neubau – Fixpreis, Wertanrechnung und kostenlose Besichtigung für Wohnungen, Lofts & Studios."
 kicker: "Bezirk 1070"
 hero_image: /topbg.webp
 highlights:
@@ -31,10 +31,10 @@ faqs:
   - question: Wie lange dauert eine Entrümpelung im 7. Bezirk?
     answer: Eine durchschnittliche 60–70 m² Altbauwohnung ist in der Regel innerhalb eines Arbeitstages geräumt und besenrein übergeben.
 schema_type: Service
-service_type: Entrümpelung Neubau
-permalink: /leistungen/entruempelung-1070-wien-neubau/
+service_type: Haushaltsauflösung Neubau
+permalink: /leistungen/haushaltsaufloesung-1070-wien/
 ---
-## Professionelle Entrümpelung in 1070 Wien Neubau
+## Haushaltsauflösung & Entrümpelung in 1070 Wien Neubau
 
 Sie planen eine Entrümpelung in Neubau? Wir kennen die engen Altbau-Stiegen, Hinterhöfe und die anspruchsvolle Parksituation zwischen Spittelberg, Neubaugasse und Mariahilfer Straße. Unser lokal eingespieltes Team organisiert Halteverbotszonen, schützt Stiegenhäuser und sorgt dafür, dass Wohnungs-, Keller- oder Büroauflösungen diskret, schnell und sauber ablaufen – inklusive kostenloser Erstbesichtigung und Fixpreis.
 

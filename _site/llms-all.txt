@@ -1,5 +1,5 @@
 # Rümpel Räumung – Vollständiger Content Export
-_Generiert 2025-10-25 12:52 BST_
+_Generiert 2025-10-25 13:08 BST_
 
 Dieses Dokument enthält den textbasierten Inhalt aller veröffentlichten Markdown-Seiten. Jede Sektion ist durch `---` getrennt.
 
@@ -55,7 +55,7 @@ Standort &amp; Anfahrt      Büro &amp; Lager    Grinzinger Str. 11190 Wien     
 **Pfad:** /bezirke/
 **Aktualisiert:** 2025-10-25
 
-Bezirke      Alle Wiener Bezirke im Überblick              Jeder Bezirk stellt eigene Anforderungen – vom Halteverbot in der Inneren Stadt bis zu Hanglagen in Döbling. Auf dieser Seite finden Sie sämtliche        Standortseiten mit lokalen Besonderheiten, Preisen und FAQ. Wählen Sie Ihren Bezirk und holen Sie sich direkt ein maßgeschneidertes Angebot.                              Kostenloses Angebot anfordern                          call          +43 660 606 0628                                Bezirk auswählen      Direkt zur passenden Entrümpelung      Sortiert nach Bezirksnummer – jede Karte führt auf eine eigene Landing Page mit Ablauf, Checkliste und FAQ.                                            Bezirk 1070          Entrümpelung 1070 Wien Neubau                north_east                                    Bezirk 1010          Haushaltsauflösung 1010 Wien                north_east                                    Bezirk 1020          Haushaltsauflösung 1020 Wien                north_east                                    Bezirk 1100          Haushaltsauflösung 1100 Wien                north_east                                    Bezirk 1130          Haushaltsauflösung 1130 Wien                north_east                                    Bezirk 1190          Haushaltsauflösung 1190 Wien                north_east                                    Bezirk 1220          Haushaltsauflösung 1220 Wien                north_east                                      Serviceversprechen        Fixpreis + Wertausgleich für jeden Bezirk                  Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,          kümmern uns um Halteverbotszonen und rechnen verwertbare Gegenstände an.                          ✔️ Kostenlose Besichtigung &amp; schriftliches Angebot vor Ort          ✔️ Behördenwege &amp; Halteverbotszonen inklusive          ✔️ Wertanrechnung für Antiquitäten, Technik oder Sammlungen          ✔️ Besenreine Übergabe mit Protokoll für Hausverwaltungen                            Schnelle Anfrage        Noch nicht sicher, welcher Bezirk passt?                  Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.                                  Name*                  E-Mail*                    Telefon*                        PLZ*                    Wunschtermin                  Kurzbeschreibung*            Fotos hochladen        Max. 10MB pro Datei. Fotos helfen uns bei einer schnellen Ersteinschätzung.              Jetzt kostenloses Angebot sichern        Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.
+Bezirke      Alle Wiener Bezirke im Überblick              Jeder Bezirk stellt eigene Anforderungen – vom Halteverbot in der Inneren Stadt bis zu Hanglagen in Döbling. Auf dieser Seite finden Sie sämtliche        Standortseiten mit lokalen Besonderheiten, Preisen und FAQ. Wählen Sie Ihren Bezirk und holen Sie sich direkt ein maßgeschneidertes Angebot.                              Kostenloses Angebot anfordern                          call          +43 660 606 0628                                Bezirk auswählen      Direkt zur passenden Entrümpelung      Sortiert nach Bezirksnummer – jede Karte führt auf eine eigene Landing Page mit Ablauf, Checkliste und FAQ.                                            Bezirk 1010          Haushaltsauflösung 1010 Wien                north_east                                    Bezirk 1020          Haushaltsauflösung 1020 Wien                north_east                                    Bezirk 1030          Haushaltsauflösung 1030 Wien                north_east                                    Bezirk 1040          Haushaltsauflösung 1040 Wien                north_east                                    Bezirk 1050          Haushaltsauflösung 1050 Wien                north_east                                    Bezirk 1060          Haushaltsauflösung 1060 Wien                north_east                                    Bezirk 1070          Haushaltsauflösung 1070 Wien                north_east                                    Bezirk 1080          Haushaltsauflösung 1080 Wien                north_east                                    Bezirk 1090          Haushaltsauflösung 1090 Wien                north_east                                    Bezirk 1100          Haushaltsauflösung 1100 Wien                north_east                                    Bezirk 1110          Haushaltsauflösung 1110 Wien                north_east                                    Bezirk 1120          Haushaltsauflösung 1120 Wien                north_east                                    Bezirk 1130          Haushaltsauflösung 1130 Wien                north_east                                    Bezirk 1140          Haushaltsauflösung 1140 Wien                north_east                                    Bezirk 1150          Haushaltsauflösung 1150 Wien                north_east                                    Bezirk 1160          Haushaltsauflösung 1160 Wien                north_east                                    Bezirk 1170          Haushaltsauflösung 1170 Wien                north_east                                    Bezirk 1180          Haushaltsauflösung 1180 Wien                north_east                                    Bezirk 1190          Haushaltsauflösung 1190 Wien                north_east                                    Bezirk 1200          Haushaltsauflösung 1200 Wien                north_east                                    Bezirk 1210          Haushaltsauflösung 1210 Wien                north_east                                    Bezirk 1220          Haushaltsauflösung 1220 Wien                north_east                                    Bezirk 1230          Haushaltsauflösung 1230 Wien                north_east                                      Serviceversprechen        Fixpreis + Wertausgleich für jeden Bezirk                  Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,          kümmern uns um Halteverbotszonen und rechnen verwertbare Gegenstände an.                          ✔️ Kostenlose Besichtigung &amp; schriftliches Angebot vor Ort          ✔️ Behördenwege &amp; Halteverbotszonen inklusive          ✔️ Wertanrechnung für Antiquitäten, Technik oder Sammlungen          ✔️ Besenreine Übergabe mit Protokoll für Hausverwaltungen                            Schnelle Anfrage        Noch nicht sicher, welcher Bezirk passt?                  Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.                                  Name*                  E-Mail*                    Telefon*                        PLZ*                    Wunschtermin                  Kurzbeschreibung*            Fotos hochladen        Max. 10MB pro Datei. Fotos helfen uns bei einer schnellen Ersteinschätzung.              Jetzt kostenloses Angebot sichern        Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.
 
 ---
 
@@ -324,19 +324,6 @@ Mehr Licht und Platz unter dem DachDachbodenräumungen verlangen Fingerspitzenge
 
 
 
-## Entrümpelung 1070 Wien Neubau
-**Pfad:** /leistungen/entruempelung-1070-wien-neubau/
-**Aktualisiert:** 2025-10-25
-
-Professionelle Entrümpelung in 1070 Wien NeubauSie planen eine Entrümpelung in Neubau? Wir kennen die engen Altbau-Stiegen, Hinterhöfe und die anspruchsvolle Parksituation zwischen Spittelberg, Neubaugasse und Mariahilfer Straße. Unser lokal eingespieltes Team organisiert Halteverbotszonen, schützt Stiegenhäuser und sorgt dafür, dass Wohnungs-, Keller- oder Büroauflösungen diskret, schnell und sauber ablaufen – inklusive kostenloser Erstbesichtigung und Fixpreis.Besonderes Augenmerk legen wir auf Wertausgleich: Designermöbel, Vinyl-Sammlungen oder Kunst werden fair bewertet und auf die Kosten angerechnet. Gleichzeitig kümmern wir uns um sensible Themen wie Messie-Räumungen, Verlassenschaften oder DSGVO-konforme Aktenvernichtung aus Studios und Agenturen.Vom ersten Kontakt über das Fixpreis-Angebot bis zur besenreinen Übergabe laufen alle vier Schritte über ein Team: Wir sortieren, dokumentieren und entsorgen fachgerecht, während Sie sich um nichts kümmern müssen. Haushalte, Keller, Dachböden, Pop-up-Flächen oder Sperrmüll – alles wird termintreu und mit Rücksicht auf Nachbarschaft und Hausverwaltung erledigt.Holen Sie sich jetzt Ihr kostenloses Angebot für 1070 Wien: kurz anrufen oder das Formular nutzen, Termin auswählen, fertig.  “Die Entrümpelung unserer Altbauwohnung in der Zollergasse war eine große Herausforderung. Das Team von Rümpel Räumung hat die Parksituation perfekt gemanagt und unsere alten Möbel angerechnet. Absolute Empfehlung für jeden in Neubau!” – Lena K., 1070 Wien
-
----
-
-
-
-
-
-
 ## Firmen- & Büroauflösung Wien
 **Pfad:** /leistungen/firmenaufloesung/
 **Aktualisiert:** 2025-10-25
@@ -389,11 +376,128 @@ Leopoldstadt: Vielfalt inklusiveOb Praternähe oder Donaukanal – wir passen un
 
 
 
+## Haushaltsauflösung 1030 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1030-wien/
+**Aktualisiert:** 2025-10-25
+
+Entrümpelung in Landstraße &amp; Neu MarxOb Altbau beim Belvedere, Familienwohnung am Kardinal-Nagl-Platz oder Loft in den Triiiple Towers – wir verbinden Innenstadtlogistik mit modernem Projektmanagement. Halteverbotszonen, Müllraum-Organisation und Wertausgleich erhalten Sie aus einer Hand, damit der Standort rasch wieder vermietbar ist.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1040 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1040-wien/
+**Aktualisiert:** 2025-10-25
+
+Wieden: Boutique-Wohnungen &amp; KreativflächenWieden vereint historische Zinshäuser mit modernen Studios entlang des Naschmarkts. Wir planen jede Entrümpelung so, dass Lieferverkehre nicht blockieren, Nachbarn informiert sind und wertvolle Ausstattung erhalten bleibt. Spezialisierte Teams für Designmöbel, IT-Infrastruktur und Messieräumungen sorgen für reibungslose Übergaben.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1050 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1050-wien/
+**Aktualisiert:** 2025-10-25
+
+Margareten schnell geräumtDer 5. Bezirk besteht aus Höfen, Hinterhäusern und kleinen Gewerbeflächen. Wir koordinieren Zufahrten, informieren Nachbar:innen und entsorgen fachgerecht von Sperrmüll bis Sonderabfall. Eigentümer, Hausverwaltungen und Sozialträger erhalten ein lückenloses Protokoll für ihre Unterlagen.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1060 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1060-wien/
+**Aktualisiert:** 2025-10-25
+
+Mariahilf: Trendbezirk mit TempoKreative Dachgeschoße, Boutiquen und Gastroflächen prägen den 6. Bezirk. Unsere Teams planen Entrümpelungen so, dass Passant:innenströme auf der Mahü laufen können, während Objekte diskret geleert werden. Von Pop-up-Shops bis Altbau-Lofts liefern wir rasche Ergebnisse inklusive Wertanrechnung und Recycling-Nachweisen.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1070 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1070-wien/
+**Aktualisiert:** 2025-10-25
+
+Haushaltsauflösung &amp; Entrümpelung in 1070 Wien NeubauSie planen eine Entrümpelung in Neubau? Wir kennen die engen Altbau-Stiegen, Hinterhöfe und die anspruchsvolle Parksituation zwischen Spittelberg, Neubaugasse und Mariahilfer Straße. Unser lokal eingespieltes Team organisiert Halteverbotszonen, schützt Stiegenhäuser und sorgt dafür, dass Wohnungs-, Keller- oder Büroauflösungen diskret, schnell und sauber ablaufen – inklusive kostenloser Erstbesichtigung und Fixpreis.Besonderes Augenmerk legen wir auf Wertausgleich: Designermöbel, Vinyl-Sammlungen oder Kunst werden fair bewertet und auf die Kosten angerechnet. Gleichzeitig kümmern wir uns um sensible Themen wie Messie-Räumungen, Verlassenschaften oder DSGVO-konforme Aktenvernichtung aus Studios und Agenturen.Vom ersten Kontakt über das Fixpreis-Angebot bis zur besenreinen Übergabe laufen alle vier Schritte über ein Team: Wir sortieren, dokumentieren und entsorgen fachgerecht, während Sie sich um nichts kümmern müssen. Haushalte, Keller, Dachböden, Pop-up-Flächen oder Sperrmüll – alles wird termintreu und mit Rücksicht auf Nachbarschaft und Hausverwaltung erledigt.Holen Sie sich jetzt Ihr kostenloses Angebot für 1070 Wien: kurz anrufen oder das Formular nutzen, Termin auswählen, fertig.  “Die Entrümpelung unserer Altbauwohnung in der Zollergasse war eine große Herausforderung. Das Team von Rümpel Räumung hat die Parksituation perfekt gemanagt und unsere alten Möbel angerechnet. Absolute Empfehlung für jeden in Neubau!” – Lena K., 1070 Wien
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1080 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1080-wien/
+**Aktualisiert:** 2025-10-25
+
+Josefstadt: Kultur trifft WohnraumDie Josefstadt vereint Theater, Diplomatie und hochwertige Wohnhäuser. Wir planen jedes Projekt mit Fokus auf Schutz historischer Substanz, abgestimmten Zeitfenstern und lückenloser Dokumentation – ideal für Eigentümer:innen, Makler:innen und Kulturinstitutionen.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1090 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1090-wien/
+**Aktualisiert:** 2025-10-25
+
+Alsergrund smart organisiertStudent:innen-WGs, Palais und Ordinationen prägen den 9. Bezirk. Wir räumen Wohnungen, Büros und Archive mit viel Fingerspitzengefühl, sichern Halteverbote am Donaukanal und stellen aussagekräftige Protokolle für Notare, Erb:innen oder Verwalter:innen bereit.
+
+---
+
+
+
+
+
+
 ## Haushaltsauflösung 1100 Wien
 **Pfad:** /leistungen/haushaltsaufloesung-1100-wien/
 **Aktualisiert:** 2025-10-25
 
 Favoriten: Effizienz zähltAls größter Bezirk Wiens setzt Favoriten auf Geschwindigkeit. Unsere Teams kennen die großen Wohnanlagen, nutzen geräumige Lifte oder tragen über Laubengänge – immer so, dass Nachbarn möglichst wenig gestört werden.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1110 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1110-wien/
+**Aktualisiert:** 2025-10-25
+
+Simmering: Vom Loft bis zur WerkshalleSimmering mischt urbane Wohnhochhäuser mit Industrie und Kleingartenidylle. Unser Team kennt die Zufahrtsregeln der Gasometer, plant Containerstellplätze im Hafenareal und liefert saubere Außenflächen für neue Projekte.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1120 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1120-wien/
+**Aktualisiert:** 2025-10-25
+
+Meidling effizient geräumtDer 12. Bezirk kombiniert Altbauten, Gemeindebauten und moderne Büroparks. Wir bringen alles in Einklang: transparente Fixpreise, schnelle Terminvergabe und saubere Übergaben inklusive Wertausgleich für brauchbare Möbel oder Maschinen.
 
 ---
 
@@ -415,6 +519,71 @@ Premium-Service für HietzingHietzing verlangt höchste Sorgfalt. Wir schützen 
 
 
 
+## Haushaltsauflösung 1140 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1140-wien/
+**Aktualisiert:** 2025-10-25
+
+Penzing: Grüne Lage, klare ProzesseZwischen Wienerwald, Allianz Stadion und Linzer Straße vereint Penzing viele Objekttypen. Wir sichern schwierige Zufahrten, kümmern uns um Containerstellplätze und liefern vollständige Dokumentationen für Nachlässe oder Bauträger.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1150 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1150-wien/
+**Aktualisiert:** 2025-10-25
+
+Rudolfsheim: Tempo für urbane ProjekteZwischen Westbahnhof und Stadthalle zählt Geschwindigkeit. Wir koordinieren Halteverbote, arbeiten mit kompakten Transportern und liefern bezugsfertige Wohnungen für Makler:innen, Hausverwaltungen oder Eigentümergemeinschaften.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1160 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1160-wien/
+**Aktualisiert:** 2025-10-25
+
+Ottakring komplett betreutDer 16. Bezirk verbindet Kiezkultur am Brunnenmarkt mit Hanglagen und Gewerbeflächen. Wir liefern strukturierte Abläufe, vom Foto-Check über Wertausgleich bis zur Sachspenden-Vermittlung, damit Immobilien rasch wieder genutzt werden können.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1170 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1170-wien/
+**Aktualisiert:** 2025-10-25
+
+Hernals: Grün, urban, vielseitigZwischen Weinbergen und Gürtel bietet Hernals vielseitige Immobilien. Wir übernehmen komplette Haushaltsauflösungen inklusive Gartenarbeiten, Hangabsicherung und Wertausgleich – ideal für Erb:innen und Bauträger, die schnell Klarheit brauchen.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1180 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1180-wien/
+**Aktualisiert:** 2025-10-25
+
+Währing: Premium-Service für gehobene ImmobilienDer 18. Bezirk fordert Fingerspitzengefühl. Wir verbinden Schutz historischer Substanz mit moderner Logistik, damit Cottages, Botschaftsresidenzen und Studentenwohnungen ohne Stress geräumt werden können – inklusive Wertgutachten und Übergabeprotokollen.
+
+---
+
+
+
+
+
+
 ## Haushaltsauflösung 1190 Wien
 **Pfad:** /leistungen/haushaltsaufloesung-1190-wien/
 **Aktualisiert:** 2025-10-25
@@ -428,11 +597,50 @@ Grinzing, Sievering &amp; Co.Döbling kombiniert Villen, Winzerhäuser und Terra
 
 
 
+## Haushaltsauflösung 1200 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1200-wien/
+**Aktualisiert:** 2025-10-25
+
+Brigittenau: Urban &amp; wassernahDer 20. Bezirk wächst rasant entlang Donau und Donaukanal. Wir passen unsere Teams an Hochhauslogistik, Serviced Apartments und Großanlagen an – inklusive digitaler Dokumentation und Wertausgleich für verwertbare Assets.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1210 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1210-wien/
+**Aktualisiert:** 2025-10-25
+
+Floridsdorf: Platz für NeuesVon Weinbau über Kleingärten bis zu Industriehallen – Floridsdorf erfordert flexible Konzepte. Unser Team liefert Komplettlösungen inklusive Containerstellplätzen, Maschinen-Handling und Nachbetreuung bis zur Übergabe an Investor:innen oder Bauträger.
+
+---
+
+
+
+
+
+
 ## Haushaltsauflösung 1220 Wien
 **Pfad:** /leistungen/haushaltsaufloesung-1220-wien/
 **Aktualisiert:** 2025-10-25
 
 Entrümpelung für alle Teile der DonaustadtOb Reihenhaus in Aspern oder Dachgeschoss in Kagran: unsere Teams decken den gesamten 22. Bezirk ab und bringen bei Bedarf Bagger oder Radlader für Garten- und Schuppenrückbau mit.
+
+---
+
+
+
+
+
+
+## Haushaltsauflösung 1230 Wien
+**Pfad:** /leistungen/haushaltsaufloesung-1230-wien/
+**Aktualisiert:** 2025-10-25
+
+Liesing: Raum für nächste ProjekteLiesing wächst entlang der Breitenfurter Straße und beherbergt viele Unternehmenssitze. Wir verbinden industrielle Räumungskompetenz mit liebevollem Umgang bei Winzerhöfen oder Einfamilienhäusern – inklusive Containerdienst, Wertausgleich und Übergabeprotokoll.
 
 ---
 
@@ -485,19 +693,6 @@ Alles raus aus Lager &amp; HalleGewerbeparks stellen hohe Anforderungen an Siche
 **Aktualisiert:** 2025-10-25
 
 Hilfe ohne VorurteileMessie-Entrümpelungen brauchen Fingerspitzengefühl. Wir kommen ohne Vorurteile, sichern persönliche Gegenstände und stellen auf Wunsch Kontakte zu Partnern für therapeutische oder soziale Betreuung her.
-
----
-
-
-
-
-
-
-## Sperrmüllabholung & Express-Service
-**Pfad:** /leistungen/sperrmuellabholung/
-**Aktualisiert:** 2025-10-25
-
-Schnell Platz schaffenWenn kurzfristig eine Wohnung übergeben oder Sperrmüll abgeholt werden muss, brauchen Sie ein flexibles Team. Wir stellen Halteverbotszonen, Container oder Big Bags bereit und kümmern uns um Recyclingnachweise.
 
 ---
 
