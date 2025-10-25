@@ -130,7 +130,7 @@ layout: default
       <div class="min-w-[280px] flex-1 rounded-2xl bg-white p-6 shadow">
         <div class="flex items-center gap-1 text-primary-light" aria-label="5,0 von 5 Sternen">
           {% for i in (1..5) %}
-          <span class="material-symbols-outlined" aria-hidden="true">star</span>
+          <span class="text-lg leading-none" aria-hidden="true">★</span>
           {% endfor %}
         </div>
         <p class="mt-4 text-sm text-text-light">“{{ testimonial.quote }}”</p>
