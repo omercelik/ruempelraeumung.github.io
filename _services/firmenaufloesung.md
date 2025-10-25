@@ -39,3 +39,8 @@ Ob Start-up-Loft oder 2.000 m² Großraumbüro: Wir planen Ihre Firmenauflösung
 - Abnahmefertiger Rückbau inkl. Maler- und Bodenarbeiten
 - Zwischenlagerung von Inventar oder Weiterverkauf über Partner
 - Dokumentierte Aktenvernichtung (Schutzklasse 3–4)
+
+### Verwandte Dienstleistungen
+
+- **[Gastro & Retail Räumung](/leistungen/gastronomie-raeumung/):** Spezialisiert auf Ladenlokale und Küchen.
+- **[Lagerraeumung](/leistungen/lagerraeumung/):** Für große Flächen und Industrieanlagen.

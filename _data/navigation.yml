@@ -21,8 +21,6 @@ services:
         url: /leistungen/verlassenschaft/
       - title: Messie-Entrümpelung
         url: /leistungen/messie-entruempelung/
-      - title: Sperrmüllabholung
-        url: /leistungen/sperrmuellabholung/
 districts:
   - title: 1010 Innere Stadt
     url: /leistungen/haushaltsaufloesung-1010-wien/

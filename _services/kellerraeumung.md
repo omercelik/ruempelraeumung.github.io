@@ -40,3 +40,8 @@ Kellerräume in Wien sind oft vollgestellt oder schwer zugänglich. Wir kümmern
 - Entfernung von Wasserschäden oder Brandschäden
 
 Wir arbeiten sauber, respektvoll und hinterlassen den Keller feucht gewischt und unbelüftet, damit Schimmel keine Chance hat.
+
+### Verwandte Dienstleistungen
+
+- **[Dachbodenräumung](/leistungen/dachbodenraeumung/):** Wir schaffen auch unter dem Dach Platz.
+- **[Haushaltsauflösung](/leistungen/haushaltsaufloesung/):** Die Komplettlösung für ganze Wohnungen.
