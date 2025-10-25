@@ -12,8 +12,8 @@ highlights:
   - Logistik für die weitläufigen Gewerbegebiete und die idyllischen Weinberge
 checklist:
   - Reihenhausanlagen in Siebenhirten, Atzgersdorf & am Liesingbach
-  - Gewerbeparks, Büros und Produktionshallen im Industriegebiet Liesing
-  - Heurigenbetriebe, Weinkeller & Presshäuser in Mauer und Rodaun
+  - [Gewerbeparks, Büros und Produktionshallen](/leistungen/firmenaufloesung/) im Industriegebiet Liesing
+  - Heurigenbetriebe, [Weinkeller](/leistungen/kellerraeumung/) & Presshäuser in Mauer und Rodaun
   - Wohnungen im architektonisch einzigartigen Wohnpark Alterlaa
 process:
   - title: Detaillierte Projektplanung

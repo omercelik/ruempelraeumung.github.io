@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Villen und Einfamilienhäuser in Weidling, Kierling und am Ölberg
   - Wohnungen in der historischen Altstadt und entlang der Donau
-  - Heurigenbetriebe und Weinkeller in den umliegenden Weinbergen
-  - Ateliers und Werkstätten in den ehemaligen Gewerbegebieten
+  - Heurigenbetriebe und [Weinkeller](/leistungen/kellerraeumung/) in den umliegenden Weinbergen
+  - [Ateliers und Werkstätten](/leistungen/firmenaufloesung/) in den ehemaligen Gewerbegebieten
 process:
   - title: Unverbindliche Besichtigung & Planung
     description: Wir kommen zu Ihnen, analysieren die Gegebenheiten und erstellen ein transparentes Fixpreis-Angebot.

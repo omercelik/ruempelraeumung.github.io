@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Familienhäuser und Villen in Dornbach & Neuwaldegg
   - Gründerzeithäuser und Gemeindebauten rund um den Elterleinplatz
-  - Werkstätten, Lager und Ateliers entlang der Hernalser Hauptstraße
+  - [Werkstätten](/leistungen/firmenaufloesung/), [Lager](/leistungen/kellerraeumung/) und Ateliers entlang der Hernalser Hauptstraße
   - Wohnungen in den Cottage-Vierteln mit empfindlicher Bausubstanz
 process:
   - title: Zugang & Geländecheck

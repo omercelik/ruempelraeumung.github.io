@@ -12,8 +12,8 @@ highlights:
   - Erfahrung mit den großen Gemeindebauten und den ländlichen Gebieten des Bezirks
 checklist:
   - Einfamilienhäuser in Stammersdorf, Jedlersdorf & Strebersdorf
-  - Kleingartenvereine, Wochenendhäuser und Weinkeller am Bisamberg
-  - Gewerbeparks, Lagerflächen und Autowerkstätten entlang der Brünner Straße
+  - Kleingartenvereine, Wochenendhäuser und [Weinkeller](/leistungen/kellerraeumung/) am Bisamberg
+  - [Gewerbeparks, Lagerflächen und Autowerkstätten](/leistungen/firmenaufloesung/) entlang der Brünner Straße
   - Wohnungen in den großen Wohnhausanlagen wie der Großfeldsiedlung
 process:
   - title: Detaillierter Geländeplan

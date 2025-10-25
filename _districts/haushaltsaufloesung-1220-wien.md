@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Einfamilienhäuser & Reihenhäuser in Aspern, Essling und Breitenlee
   - Neubauwohnungen in der Seestadt Aspern und in Kaisermühlen
-  - Keller, Gartenhäuser, Schuppen und Pools
+  - [Keller](/leistungen/kellerraeumung/), [Gartenhäuser, Schuppen](/leistungen/raeumung/) und Pools
   - Wohnungen in den Hochhäusern der Donau City und rund um das Donauzentrum
 process:
   - title: Kostenlose Besichtigung vor Ort

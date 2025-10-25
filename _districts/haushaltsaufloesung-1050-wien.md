@@ -11,9 +11,9 @@ highlights:
   - Transparente Fixpreise für Kleinunternehmen entlang der Siebenbrunnengasse
   - Logistiklösungen für dicht besiedelte Wohngebiete
 checklist:
-  - Gemeindebauten & Dachböden im Herzen von Margareten
-  - Lokale Shops, Werkstätten & Kreativbüros bei der Margaretenstraße
-  - Kellerabteile und Lagerräume im Gründerzeitgürtel
+  - Gemeindebauten & [Dachböden](/leistungen/dachbodenraeumung/) im Herzen von Margareten
+  - Lokale Shops, Werkstätten & [Kreativbüros](/leistungen/firmenaufloesung/) bei der Margaretenstraße
+  - [Kellerabteile](/leistungen/kellerraeumung/) und [Lagerräume](/leistungen/lagerraeumung/) im Gründerzeitgürtel
   - Wohnungen in den Arbeiter-und-Angestellten-Bauten der 20er und 30er Jahre
 process:
   - title: Zugang & Genehmigungen

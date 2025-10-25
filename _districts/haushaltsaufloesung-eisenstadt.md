@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Wohnungen in der historischen Altstadt rund um Schloss Esterházy & die Fußgängerzone
   - Einfamilienhäuser in den Ortsteilen Kleinhöflein, St. Georgen und in den umliegenden Gemeinden
-  - Büros, Archive & Kulturflächen in den Eisenstädter Firmenzonen
-  - Weinkeller und Heurigenbetriebe am Leithagebirge
+  - [Büros, Archive](/leistungen/firmenaufloesung/) & Kulturflächen in den Eisenstädter Firmenzonen
+  - [Weinkeller](/leistungen/kellerraeumung/) und Heurigenbetriebe am Leithagebirge
 process:
   - title: Flexible Terminvereinbarung & Anfahrt
     description: Die Schlüsselübergabe kann wahlweise in Wien oder direkt vor Ort in Eisenstadt erfolgen. Wir planen effiziente Tagesprojekte mit frühem Start.

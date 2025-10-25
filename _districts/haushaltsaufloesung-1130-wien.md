@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Villen und Einfamilienhäuser in Ober St. Veit, Lainz und Speising
   - Wohnungen in den eleganten Zinshäusern nahe Schloss Schönbrunn
-  - Nebengebäude wie Gartenhäuser, Garagen und Ateliers
-  - Komplette Verlassenschaften inklusive Antiquitäten und Sammlungen
+  - Nebengebäude wie [Gartenhäuser](/leistungen/raeumung/), [Garagen](/leistungen/garagenraeumung/) und Ateliers
+  - Komplette [Verlassenschaften](/leistungen/verlassenschaftsraeumung/) inklusive Antiquitäten und Sammlungen
 process:
   - title: Familiengespräch & Planung
     description: Wir führen einen gemeinsamen Rundgang durch, erstellen eine Prioritätenliste und übernehmen die sichere Verwahrung empfindlicher Gegenstände.

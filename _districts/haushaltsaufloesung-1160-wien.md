@@ -11,9 +11,9 @@ highlights:
   - Fixpreise inklusive Keller, Dachboden und Innenhof
   - Logistik für die belebten Märkte und die ruhigen Villenviertel
 checklist:
-  - Bauernmärkte, Lofts & Start-up-Flächen beim Brunnenviertel und Yppenplatz
+  - Bauernmärkte, Lofts & [Start-up-Flächen](/leistungen/firmenaufloesung/) beim Brunnenviertel und Yppenplatz
   - Einfamilienhäuser und Villen am Wilhelminenberg und in Neuwaldegg
-  - Produktionsflächen & Werkstätten entlang des Gürtels
+  - [Produktionsflächen & Werkstätten](/leistungen/firmenaufloesung/) entlang des Gürtels
   - Wohnungen in den traditionellen Zinshäusern und Gemeindebauten
 process:
   - title: Vor-Ort-Analyse

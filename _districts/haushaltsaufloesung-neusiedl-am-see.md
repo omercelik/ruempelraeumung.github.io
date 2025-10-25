@@ -13,8 +13,8 @@ highlights:
 checklist:
   - Seehäuser und Ferienwohnungen entlang der Mole West, in Podersdorf, Weiden und Rust
   - Appartements und Häuser in Jois, Gols und dem Designer Outlet Parndorf
-  - Lagerflächen, Surfschulen und Freizeitclubs rund um den Seewinkel
-  - Weinkeller und landwirtschaftliche Betriebe in der Weinbauregion Neusiedlersee
+  - [Lagerflächen, Surfschulen und Freizeitclubs](/leistungen/firmenaufloesung/) rund um den Seewinkel
+  - [Weinkeller](/leistungen/kellerraeumung/) und landwirtschaftliche Betriebe in der Weinbauregion Neusiedlersee
 process:
   - title: Lage-Check & umweltschonende Planung
     description: Wir prüfen die Zufahrten zu Stegen und Ufergrundstücken und planen den Einsatz von passendem, umweltschonendem Equipment.

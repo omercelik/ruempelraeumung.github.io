@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Reihenhäuser und Gemeindebauten rund um die Simmeringer Hauptstraße
   - Proberäume, Studios und Storage-Einheiten in den Gasometern
-  - Lagerhallen, Werkstätten und Logistikflächen beim Alberner Hafen
+  - [Lagerhallen, Werkstätten](/leistungen/firmenaufloesung/) und Logistikflächen beim Alberner Hafen
   - Wohnungen in den Neubauprojekten rund um den Leberberg
 process:
   - title: Flächenaufmaß & Planung

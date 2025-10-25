@@ -12,9 +12,9 @@ highlights:
   - Logistik für enge Gassen und hochfrequentierte Bereiche
 checklist:
   - Dachgeschoßwohnungen am Karlsplatz & in der Schleifmühlgasse
-  - Ateliers, Tonstudios und Agenturbüros in ehemaligen Fabriketagen
+  - Ateliers, Tonstudios und [Agenturbüros](/leistungen/firmenaufloesung/) in ehemaligen Fabriketagen
   - Co-Living- und Studentenwohnungen beim Theresianum
-  - Keller und Lagerräume in den historischen Zinshäusern
+  - [Keller](/leistungen/kellerraeumung/) und [Lagerräume](/leistungen/lagerraeumung/) in den historischen Zinshäusern
 process:
   - title: Bestandsaufnahme
     description: Wir kartieren sensible Böden, Glaswände und gebäudetechnische Anlagen, um Schäden zu vermeiden.

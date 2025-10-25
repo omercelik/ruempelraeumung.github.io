@@ -14,7 +14,7 @@ checklist:
   - Stadtwohnungen rund um den Rathausplatz, den Domplatz und den Traisenpark
   - Einfamilienhäuser in den Stadtteilen Pottenbrunn, Stattersdorf & Viehofen
   - Vierkanthöfe und landwirtschaftliche Anwesen in den umliegenden Gemeinden
-  - Büros und Archive im Regierungsviertel und den angrenzenden Business-Parks
+  - [Büros und Archive](/leistungen/firmenaufloesung/) im Regierungsviertel und den angrenzenden Business-Parks
 process:
   - title: Kostenlose Vor-Ort-Besichtigung
     description: Wir starten in Wien und sind innerhalb von 45 Minuten bei Ihnen, um jeden Raum für ein transparentes Fixpreisangebot zu dokumentieren.

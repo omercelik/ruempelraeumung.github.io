@@ -12,11 +12,11 @@ highlights:
   - Spezialisiert auf die engen Gassen des Spittelbergs
 checklist:
   - Haushalte & Wohnungen inkl. Küchen, Möbeln und Elektrogeräten
-  - Keller & Dachböden in den Biedermeierhäusern
-  - Büros & Studios mit DSGVO-konformer Aktenvernichtung
+  - [Keller](/leistungen/kellerraeumung/) & [Dachböden](/leistungen/dachbodenraeumung/) in den Biedermeierhäusern
+  - [Büros](/leistungen/firmenaufloesung/) & Studios mit DSGVO-konformer Aktenvernichtung
   - Sperrmüll & Einzelstücke vom Kühlschrank bis zur Couch
-  - Verlassenschaften mit sensibler Begleitung
-  - Messie-Wohnungen diskret & strukturiert
+  - [Verlassenschaften](/leistungen/verlassenschaft/) mit sensibler Begleitung
+  - [Messie-Wohnungen](/leistungen/messie-entruempelung/) diskret & strukturiert
 process:
   - title: Kontakt & Termin
     description: Sie melden sich, wir vereinbaren kurzfristig eine kostenlose Besichtigung in Neubau.

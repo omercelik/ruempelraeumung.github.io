@@ -12,8 +12,8 @@ highlights:
   - Diskrete Vorgehensweise in den ruhigen Wohngegenden des Bezirks
 checklist:
   - Einfamilienhäuser und Altvillen in Baumgarten, Hütteldorf und am Wolfersberg
-  - Dachgeschoße und Wohnungen entlang der Linzer Straße und Johnstraße
-  - Werkstätten, Studios und Lagerhallen beim Technologiestandort Auhof
+  - [Dachgeschoße](/leistungen/dachbodenraeumung/) und Wohnungen entlang der Linzer Straße und Johnstraße
+  - [Werkstätten, Studios und Lagerhallen](/leistungen/firmenaufloesung/) beim Technologiestandort Auhof
   - Gemeindewohnungen und Zinshäuser in Breitensee
 process:
   - title: Analyse von Zugang & Gelände

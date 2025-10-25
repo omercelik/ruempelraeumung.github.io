@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Cottages, Botschaftsresidenzen und Familienhäuser in Gersthof und Pötzleinsdorf
   - Studentenwohnungen und WGs entlang der Währinger Straße und Gentzgasse
-  - Schul- und Institutsgebäude nahe dem Türkenschanzpark und der BOKU
+  - [Schul- und Institutsgebäude](/leistungen/firmenaufloesung/) nahe dem Türkenschanzpark und der BOKU
   - Empfindliche Bausubstanz in den historischen Zinshäusern
 process:
   - title: Detaillierter Substanz-Check

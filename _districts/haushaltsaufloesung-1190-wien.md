@@ -13,7 +13,7 @@ highlights:
 checklist:
   - Winzerhäuser und Villen in Grinzing, Sievering & Neustift am Walde
   - Wohnungen im historischen Karl-Marx-Hof in Heiligenstadt
-  - Garagen, Weinkeller und Presshäuser in den Weinbergen
+  - [Garagen](/leistungen/garagenraeumung/), [Weinkeller](/leistungen/kellerraeumung/) und Presshäuser in den Weinbergen
   - Penthäuser und Terrassenwohnungen mit Blick auf die Stadt
 process:
   - title: Detaillierte Zufahrts- & Logistikplanung
